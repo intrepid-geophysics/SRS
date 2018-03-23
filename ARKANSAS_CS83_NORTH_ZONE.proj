@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= ARKANSAS_CS83_NORTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 36.14
+	StdLat2	= 34.56
+	POSCCode	= 10331
+	POSCName	= "Arkansas CS83 North zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

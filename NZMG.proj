@@ -1,0 +1,13 @@
+Projection Begin
+	POSCCode	= 19917
+	POSCName	= "New Zealand Map Grid"
+	POSCMethod	= "New Zealand Map Grid"
+	Name	= NZMG
+	ProjectionType	= NZMG
+#	LongOrigin = 173
+	CentralMeridian	= 173
+	LatOrigin	= -41
+	FalseEasting	= 2510000
+	FalseNorthing	= 6023150
+	ScaleFactor	= 0.9996
+Projection End

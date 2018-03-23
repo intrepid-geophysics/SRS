@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=BERNNEW
+	Description="BERN "
+	MeridID=1 
+	OriginName="BERN OBSERVATORY "
+	OriginLatitude=46.9524056 
+	OriginLongitude=7.4395833 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="SJM 16/9/83 REF:J.BOLLIGER PAPER USED IN SWITZERLAND. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356078.962818
+	Major=6377397.155 
+Datum End

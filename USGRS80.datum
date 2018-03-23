@@ -1,0 +1,16 @@
+Datum Begin
+	DatumName=USGRS80
+	Description="NOT SPECIFIED "
+	MeridID=1 
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="SJM 20/9/83 "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356752.314140
+	Major=6378137.0 
+Datum End

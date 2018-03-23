@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_AUTHALIC_SPHERE
+	POSCName	= "Not specified (based on Authalic Sphere)"
+	POSCCode	= 6035
+	Description	= "Generated"
+	Ellipsoid	= "Sphere"
+	Major	= 6371000
+	Minor	= 6371000
+Datum End

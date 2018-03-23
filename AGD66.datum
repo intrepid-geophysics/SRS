@@ -1,0 +1,44 @@
+Datum Begin
+	DatumName	= AGD66
+	Minor	= 6356774.719195
+	Major	= 6378160
+	DatumChange Begin
+		ToDatum	= WGS84
+		DX	= -129.666000
+		DY	= -56.678000
+		DZ	= 150.077000
+		OMEGA	= 0.000000
+		PHI	= 0.000000
+		KAPPA	= 0.000000
+		SCALEDIFF	= 0.000000
+	DatumChange End
+	DatumChange Begin
+		Comment	= "vic/nsw version"
+		ToDatum	= GDA94
+		DX	= -119.353
+		DY	= -48.301
+		DZ	= 139.484
+		OMEGA	= -0.415000
+		PHI	= -0.260
+		KAPPA	= -0.437
+		SCALEDIFF	= -0.613
+	DatumChange End
+	DatumChange Begin
+		Comment	= "tas version"
+		ToDatum	= GDA94tas
+		DX	= -120.695
+		DY	= -62.73
+		DZ	= 165.46
+		OMEGA	= -0.109
+		PHI	= 0.141
+		KAPPA	= 0.116
+		SCALEDIFF	= 2.773
+	DatumChange End
+	POSCName	= "Australian Geodetic Datum 1966"
+	POSCCode	= 6202
+	Description	= "Generated"
+	Ellipsoid Begin
+		POSCCode	= "7003"
+		POSCName	= "Australian National Spheroid"
+	Ellipsoid End
+Datum End

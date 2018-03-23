@@ -1,0 +1,11 @@
+Projection Begin
+	ProjectionType=LambertConicConformal
+	CentralMeridian=3
+	LatOrigin=43
+	LongOrigin=3
+	StdLat1=42.25
+	StdLat2=43.75
+	FalseEasting=1700000
+  FalseNorthing=2200000
+        Datum=RGF93
+Projection End

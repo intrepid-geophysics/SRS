@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_INTERNATIONAL_1924_ELLIPSOID
+	POSCName	= "Not specified (based on International 1924 ellipsoid)"
+	POSCCode	= 6022
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+Datum End

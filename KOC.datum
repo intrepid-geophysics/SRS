@@ -1,0 +1,21 @@
+Datum Begin
+	DatumName	= KOC
+	Description	= "Generated"
+	MeridID	= 1
+	OriginLatitude	= 0.0
+	OriginLongitude	= 0.0
+	OriginHeight	= 0.0
+	AngleID	= 1
+	HeigthID	= 1
+	UseAreaID	= 1
+	Visibility	= SURVEY
+	Release	= PUBLIC
+	Minor	= 6356514.869550
+	Major	= 6378249.145
+	POSCName	= "Kuwait Oil Company"
+	POSCCode	= 6246
+	Ellipsoid Begin
+		POSCCode	= "7012"
+		POSCName	= "Clarke 1880 (RGS)"
+	Ellipsoid End
+Datum End

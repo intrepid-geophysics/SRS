@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= GRS67_Modified
+	POSCName	= "GRS 1967 Modified"
+	Description	= "Generated"
+	Major	= 6378160
+	Flattening	= 298.25
+	POSCCode	= "7050"
+Ellipsoid End

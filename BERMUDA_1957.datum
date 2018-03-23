@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= BERMUDA_1957
+	POSCName	= "Bermuda 1957"
+	POSCCode	= 6216
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1866"
+	Major	= 6378206.4
+	Minor	= 6356583.8
+Datum End

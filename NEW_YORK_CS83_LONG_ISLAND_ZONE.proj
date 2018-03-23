@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= NEW_YORK_CS83_LONG_ISLAND_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 41.02
+	StdLat2	= 40.4
+	POSCCode	= 13134
+	POSCName	= "New York CS83 Long Island zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= GRS67
+	POSCName	= "GRS 1967"
+	Description	= "Generated"
+	Major	= 6378160
+	Flattening	= 298.2471674
+	POSCCode	= "7036"
+Ellipsoid End

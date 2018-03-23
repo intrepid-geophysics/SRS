@@ -1,0 +1,5 @@
+Projection Begin
+	ProjectionType=VanDerGrinten
+	CentralMeridian=145
+	Datum=WGS84
+Projection End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= ANGUILLA_1957
+	POSCName	= "Anguilla 1957"
+	POSCCode	= 6600
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (RGS)"
+	Major	= 6378249.145
+	Minor	= 6356514.869550
+Datum End

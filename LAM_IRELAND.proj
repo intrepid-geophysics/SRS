@@ -1,0 +1,7 @@
+Projection Begin
+	ProjectionType=LambertConicConformal
+	CentralMeridian=-16
+	StdLat1=52
+	StdLat2=48
+	Datum=WGS84
+Projection End

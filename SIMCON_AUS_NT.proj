@@ -1,0 +1,8 @@
+Projection Begin
+	ProjectionType=SimpleConic
+	CentralMeridian=133.5
+	StdLat1=-15
+	StdLat2=-21
+	LatOrigin=0
+	#Datum=AGD66
+Projection End

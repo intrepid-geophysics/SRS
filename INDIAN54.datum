@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=INDIAN54
+	Description="INDIAN 1954 "
+	MeridID=1 
+	OriginName="KALIANPUR "
+	OriginLatitude=24.1197944 
+	OriginLongitude=77.6548806 
+	OriginHeight=-120.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 20/9/85. USED IN BURMAH & THAILAND. ALSO KNOWN AS INDIAN 1916. SEE INDIAN75."
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356075.413140
+	Major=6377276.345 
+Datum End

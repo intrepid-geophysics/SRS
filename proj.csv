@@ -1,0 +1,1482 @@
+posc_code,posc_type,posc_name,erm_type,erm_name
+Unknown,Unknown,Unknown,Spherical,GEODETIC
+1024,Pseudo-Mercator,WGS 84 / Pseudo-Mercator,Pseudo-Mercator,Pseudo-Mercator
+10101,Transverse Mercator,Alabama CS27 East zone,TransverseMercator,ALABAMA_CS27_EAST_ZONE
+10102,Transverse Mercator,Alabama CS27 West zone,TransverseMercator,ALABAMA_CS27_WEST_ZONE
+10131,Transverse Mercator,Alabama CS83 East zone,TransverseMercator,ALABAMA_CS83_EAST_ZONE
+10132,Transverse Mercator,Alabama CS83 West zone,TransverseMercator,ALABAMA_CS83_WEST_ZONE
+15002,Transverse Mercator,Alaska CS27 zone 2,TransverseMercator,ALASKA_CS27_ZONE_2
+15003,Transverse Mercator,Alaska CS27 zone 3,TransverseMercator,ALASKA_CS27_ZONE_3
+15004,Transverse Mercator,Alaska CS27 zone 4,TransverseMercator,ALASKA_CS27_ZONE_4
+15005,Transverse Mercator,Alaska CS27 zone 5,TransverseMercator,ALASKA_CS27_ZONE_5
+15006,Transverse Mercator,Alaska CS27 zone 6,TransverseMercator,ALASKA_CS27_ZONE_6
+15007,Transverse Mercator,Alaska CS27 zone 7,TransverseMercator,ALASKA_CS27_ZONE_7
+15008,Transverse Mercator,Alaska CS27 zone 8,TransverseMercator,ALASKA_CS27_ZONE_8
+15009,Transverse Mercator,Alaska CS27 zone 9,TransverseMercator,ALASKA_CS27_ZONE_9
+15032,Transverse Mercator,Alaska CS83 zone 2,TransverseMercator,ALASKA_CS83_ZONE_2
+15033,Transverse Mercator,Alaska CS83 zone 3,TransverseMercator,ALASKA_CS83_ZONE_3
+15034,Transverse Mercator,Alaska CS83 zone 4,TransverseMercator,ALASKA_CS83_ZONE_4
+15035,Transverse Mercator,Alaska CS83 zone 5,TransverseMercator,ALASKA_CS83_ZONE_5
+15036,Transverse Mercator,Alaska CS83 zone 6,TransverseMercator,ALASKA_CS83_ZONE_6
+15037,Transverse Mercator,Alaska CS83 zone 7,TransverseMercator,ALASKA_CS83_ZONE_7
+15038,Transverse Mercator,Alaska CS83 zone 8,TransverseMercator,ALASKA_CS83_ZONE_8
+15039,Transverse Mercator,Alaska CS83 zone 9,TransverseMercator,ALASKA_CS83_ZONE_9
+18031,Transverse Mercator,Argentina zone 1,TransverseMercator,ARGENTINA_ZONE_1
+18032,Transverse Mercator,Argentina zone 2,TransverseMercator,ARGENTINA_ZONE_2
+18033,Transverse Mercator,Argentina zone 3,TransverseMercator,ARGENTINA_ZONE_3
+18034,Transverse Mercator,Argentina zone 4,TransverseMercator,ARGENTINA_ZONE_4
+18035,Transverse Mercator,Argentina zone 5,TransverseMercator,ARGENTINA_ZONE_5
+18036,Transverse Mercator,Argentina zone 6,TransverseMercator,ARGENTINA_ZONE_6
+18037,Transverse Mercator,Argentina zone 7,TransverseMercator,ARGENTINA_ZONE_7
+10202,Transverse Mercator,Arizona Coordinate System Central zone,TransverseMercator,ARIZONA_COORDINATE_SYSTEM_CENTRAL_ZONE
+10201,Transverse Mercator,Arizona Coordinate System East zone,TransverseMercator,ARIZONA_COORDINATE_SYSTEM_EAST_ZONE
+10203,Transverse Mercator,Arizona Coordinate System West zone,TransverseMercator,ARIZONA_COORDINATE_SYSTEM_WEST_ZONE
+10232,Transverse Mercator,Arizona CS83 Central zone,TransverseMercator,ARIZONA_CS83_CENTRAL_ZONE
+10231,Transverse Mercator,Arizona CS83 East zone,TransverseMercator,ARIZONA_CS83_EAST_ZONE
+10233,Transverse Mercator,Arizona CS83 West zone,TransverseMercator,ARIZONA_CS83_WEST_ZONE
+17448,Transverse Mercator,Australian Map Grid zone 48,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_48
+17449,Transverse Mercator,Australian Map Grid zone 49,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_49
+17450,Transverse Mercator,Australian Map Grid zone 50,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_50
+17451,Transverse Mercator,Australian Map Grid zone 51,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_51
+17452,Transverse Mercator,Australian Map Grid zone 52,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_52
+17453,Transverse Mercator,Australian Map Grid zone 53,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_53
+17454,Transverse Mercator,Australian Map Grid zone 54,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_54
+17455,Transverse Mercator,Australian Map Grid zone 55,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_55
+17456,Transverse Mercator,Australian Map Grid zone 56,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_56
+17457,Transverse Mercator,Australian Map Grid zone 57,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_57
+17458,Transverse Mercator,Australian Map Grid zone 58,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_58
+18042,Transverse Mercator,Austria Central Zone,TransverseMercator,AUSTRIA_CENTRAL_ZONE
+18043,Transverse Mercator,Austria East Zone,TransverseMercator,AUSTRIA_EAST_ZONE
+18041,Transverse Mercator,Austria West Zone,TransverseMercator,AUSTRIA_WEST_ZONE
+18044,Transverse Mercator,Austria M28,TransverseMercator,AUSTRIA_M28
+18045,Transverse Mercator,Austria M31,TransverseMercator,AUSTRIA_M31
+18046,Transverse Mercator,Austria M34,TransverseMercator,AUSTRIA_M34
+19900,Transverse Mercator,Bahrain State Grid,TransverseMercator,BAHRAIN_STATE_GRID
+19943,Transverse Mercator,Barbados National Grid,TransverseMercator,BARBADOS_NATIONAL_GRID
+15914,Transverse Mercator,BLM zone 14N in feet,TransverseMercator,BLM_ZONE_14N_IN_FEET
+15915,Transverse Mercator,BLM zone 15N in feet,TransverseMercator,BLM_ZONE_15N_IN_FEET
+15916,Transverse Mercator,BLM zone 16N in feet,TransverseMercator,BLM_ZONE_16N_IN_FEET
+15917,Transverse Mercator,BLM zone 17N in feet,TransverseMercator,BLM_ZONE_17N_IN_FEET
+19916,Transverse Mercator,British National Grid,TransverseMercator,BRITISH_NATIONAL_GRID
+19942,Transverse Mercator,British West Indies Grid,TransverseMercator,BRITISH_WEST_INDIES_GRID
+18052,Transverse Mercator,Colombia Bogota zone,TransverseMercator,COLOMBIA_BOGOTA_ZONE
+18053,Transverse Mercator,Colombia East Central zone,TransverseMercator,COLOMBIA_EAST_CENTRAL_ZONE
+18054,Transverse Mercator,Colombia East zone,TransverseMercator,COLOMBIA_EAST_ZONE
+18051,Transverse Mercator,Colombia West zone,TransverseMercator,COLOMBIA_WEST_ZONE
+16361,Transverse Mercator,3-degree Gauss-Kruger 3E,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_3E
+16362,Transverse Mercator,3-degree Gauss-Kruger 6E,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_6E
+16363,Transverse Mercator,3-degree Gauss-Kruger 9E,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_9E
+16364,Transverse Mercator,3-degree Gauss-Kruger 12E,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_12E
+16365,Transverse Mercator,3-degree Gauss-Kruger 15E,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_15E
+16366,Transverse Mercator,3-degree Gauss-Kruger 18E,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_18E
+16367,Transverse Mercator,3-degree Gauss-Kruger 21E,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_21E
+16368,Transverse Mercator,3-degree Gauss-Kruger 24E,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_24E
+16261,Transverse Mercator,3-degree Gauss-Kruger zone 1,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_ZONE_1
+16262,Transverse Mercator,3-degree Gauss-Kruger zone 2,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_ZONE_2
+16263,Transverse Mercator,3-degree Gauss-Kruger zone 3,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_ZONE_3
+16264,Transverse Mercator,3-degree Gauss-Kruger zone 4,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_ZONE_4
+16265,Transverse Mercator,3-degree Gauss-Kruger zone 5,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_ZONE_5
+16266,Transverse Mercator,3-degree Gauss-Kruger zone 6,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_ZONE_6
+16267,Transverse Mercator,3-degree Gauss-Kruger zone 7,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_ZONE_7
+16268,Transverse Mercator,3-degree Gauss-Kruger zone 8,TransverseMercator,D3_DEGREE_GAUSS_KRUGER_ZONE_8
+10700,Transverse Mercator,Delaware CS27,TransverseMercator,DELAWARE_CS27
+10730,Transverse Mercator,Delaware CS83,TransverseMercator,DELAWARE_CS83
+18071,Transverse Mercator,Egypt Blue Belt,TransverseMercator,EGYPT_BLUE_BELT
+18074,Transverse Mercator,Egypt Extended Purple Belt,TransverseMercator,EGYPT_EXTENDED_PURPLE_BELT
+18073,Transverse Mercator,Egypt Purple Belt,TransverseMercator,EGYPT_PURPLE_BELT
+18072,Transverse Mercator,Egypt Red Belt,TransverseMercator,EGYPT_RED_BELT
+18193,Transverse Mercator,Finland Uniform Coordinate System,TransverseMercator,FINLAND_UNIFORM_COORDINATE_SYSTEM
+18191,Transverse Mercator,Finland zone 1,TransverseMercator,FINLAND_ZONE_1
+18192,Transverse Mercator,Finland zone 2,TransverseMercator,FINLAND_ZONE_2
+18194,Transverse Mercator,Finland zone 4,TransverseMercator,FINLAND_ZONE_4
+16065,Transverse Mercator,TM35FIN,TransverseMercator,TM35FIN
+10901,Transverse Mercator,Florida CS27 East zone,TransverseMercator,FLORIDA_CS27_EAST_ZONE
+10902,Transverse Mercator,Florida CS27 West zone,TransverseMercator,FLORIDA_CS27_WEST_ZONE
+10931,Transverse Mercator,Florida CS83 East zone,TransverseMercator,FLORIDA_CS83_EAST_ZONE
+10932,Transverse Mercator,Florida CS83 West zone,TransverseMercator,FLORIDA_CS83_WEST_ZONE
+16302,Transverse Mercator,Gauss-Kruger 2N,TransverseMercator,GAUSS_KRUGER_2N
+16303,Transverse Mercator,Gauss-Kruger 3N,TransverseMercator,GAUSS_KRUGER_3N
+16304,Transverse Mercator,Gauss-Kruger 4N,TransverseMercator,GAUSS_KRUGER_4N
+16305,Transverse Mercator,Gauss-Kruger 5N,TransverseMercator,GAUSS_KRUGER_5N
+16306,Transverse Mercator,Gauss-Kruger 6N,TransverseMercator,GAUSS_KRUGER_6N
+16307,Transverse Mercator,Gauss-Kruger 7N,TransverseMercator,GAUSS_KRUGER_7N
+16308,Transverse Mercator,Gauss-Kruger 8N,TransverseMercator,GAUSS_KRUGER_8N
+16309,Transverse Mercator,Gauss-Kruger 9N,TransverseMercator,GAUSS_KRUGER_9N
+16310,Transverse Mercator,Gauss-Kruger 10N,TransverseMercator,GAUSS_KRUGER_10N
+16311,Transverse Mercator,Gauss-Kruger 11N,TransverseMercator,GAUSS_KRUGER_11N
+16312,Transverse Mercator,Gauss-Kruger 12N,TransverseMercator,GAUSS_KRUGER_12N
+16313,Transverse Mercator,Gauss-Kruger 13N,TransverseMercator,GAUSS_KRUGER_13N
+16314,Transverse Mercator,Gauss-Kruger 14N,TransverseMercator,GAUSS_KRUGER_14N
+16315,Transverse Mercator,Gauss-Kruger 15N,TransverseMercator,GAUSS_KRUGER_15N
+16316,Transverse Mercator,Gauss-Kruger 16N,TransverseMercator,GAUSS_KRUGER_16N
+16317,Transverse Mercator,Gauss-Kruger 17N,TransverseMercator,GAUSS_KRUGER_17N
+16318,Transverse Mercator,Gauss-Kruger 18N,TransverseMercator,GAUSS_KRUGER_18N
+16319,Transverse Mercator,Gauss-Kruger 19N,TransverseMercator,GAUSS_KRUGER_19N
+16320,Transverse Mercator,Gauss-Kruger 20N,TransverseMercator,GAUSS_KRUGER_20N
+16321,Transverse Mercator,Gauss-Kruger 21N,TransverseMercator,GAUSS_KRUGER_21N
+16322,Transverse Mercator,Gauss-Kruger 22N,TransverseMercator,GAUSS_KRUGER_22N
+16323,Transverse Mercator,Gauss-Kruger 23N,TransverseMercator,GAUSS_KRUGER_23N
+16324,Transverse Mercator,Gauss-Kruger 24N,TransverseMercator,GAUSS_KRUGER_24N
+16325,Transverse Mercator,Gauss-Kruger 25N,TransverseMercator,GAUSS_KRUGER_25N
+16326,Transverse Mercator,Gauss-Kruger 26N,TransverseMercator,GAUSS_KRUGER_26N
+16327,Transverse Mercator,Gauss-Kruger 27N,TransverseMercator,GAUSS_KRUGER_27N
+16328,Transverse Mercator,Gauss-Kruger 28N,TransverseMercator,GAUSS_KRUGER_28N
+16329,Transverse Mercator,Gauss-Kruger 29N,TransverseMercator,GAUSS_KRUGER_29N
+16330,Transverse Mercator,Gauss-Kruger 30N,TransverseMercator,GAUSS_KRUGER_30N
+16331,Transverse Mercator,Gauss-Kruger 31N,TransverseMercator,GAUSS_KRUGER_31N
+16332,Transverse Mercator,Gauss-Kruger 32N,TransverseMercator,GAUSS_KRUGER_32N
+16202,Transverse Mercator,Gauss-Kruger zone 2,TransverseMercator,GAUSS_KRUGER_ZONE_2
+16203,Transverse Mercator,Gauss-Kruger zone 3,TransverseMercator,GAUSS_KRUGER_ZONE_3
+16204,Transverse Mercator,Gauss-Kruger zone 4,TransverseMercator,GAUSS_KRUGER_ZONE_4
+16205,Transverse Mercator,Gauss-Kruger zone 5,TransverseMercator,GAUSS_KRUGER_ZONE_5
+16206,Transverse Mercator,Gauss-Kruger zone 6,TransverseMercator,GAUSS_KRUGER_ZONE_6
+16207,Transverse Mercator,Gauss-Kruger zone 7,TransverseMercator,GAUSS_KRUGER_ZONE_7
+16208,Transverse Mercator,Gauss-Kruger zone 8,TransverseMercator,GAUSS_KRUGER_ZONE_8
+16209,Transverse Mercator,Gauss-Kruger zone 9,TransverseMercator,GAUSS_KRUGER_ZONE_9
+16210,Transverse Mercator,Gauss-Kruger zone 10,TransverseMercator,GAUSS_KRUGER_ZONE_10
+16211,Transverse Mercator,Gauss-Kruger zone 11,TransverseMercator,GAUSS_KRUGER_ZONE_11
+16212,Transverse Mercator,Gauss-Kruger zone 12,TransverseMercator,GAUSS_KRUGER_ZONE_12
+16213,Transverse Mercator,Gauss-Kruger zone 13,TransverseMercator,GAUSS_KRUGER_ZONE_13
+16214,Transverse Mercator,Gauss-Kruger zone 14,TransverseMercator,GAUSS_KRUGER_ZONE_14
+16215,Transverse Mercator,Gauss-Kruger zone 15,TransverseMercator,GAUSS_KRUGER_ZONE_15
+16216,Transverse Mercator,Gauss-Kruger zone 16,TransverseMercator,GAUSS_KRUGER_ZONE_16
+16217,Transverse Mercator,Gauss-Kruger zone 17,TransverseMercator,GAUSS_KRUGER_ZONE_17
+16218,Transverse Mercator,Gauss-Kruger zone 18,TransverseMercator,GAUSS_KRUGER_ZONE_18
+16219,Transverse Mercator,Gauss-Kruger zone 19,TransverseMercator,GAUSS_KRUGER_ZONE_19
+16220,Transverse Mercator,Gauss-Kruger zone 20,TransverseMercator,GAUSS_KRUGER_ZONE_20
+16221,Transverse Mercator,Gauss-Kruger zone 21,TransverseMercator,GAUSS_KRUGER_ZONE_21
+16222,Transverse Mercator,Gauss-Kruger zone 22,TransverseMercator,GAUSS_KRUGER_ZONE_22
+16223,Transverse Mercator,Gauss-Kruger zone 23,TransverseMercator,GAUSS_KRUGER_ZONE_23
+16224,Transverse Mercator,Gauss-Kruger zone 24,TransverseMercator,GAUSS_KRUGER_ZONE_24
+16225,Transverse Mercator,Gauss-Kruger zone 25,TransverseMercator,GAUSS_KRUGER_ZONE_25
+16226,Transverse Mercator,Gauss-Kruger zone 26,TransverseMercator,GAUSS_KRUGER_ZONE_26
+16227,Transverse Mercator,Gauss-Kruger zone 27,TransverseMercator,GAUSS_KRUGER_ZONE_27
+16228,Transverse Mercator,Gauss-Kruger zone 28,TransverseMercator,GAUSS_KRUGER_ZONE_28
+16229,Transverse Mercator,Gauss-Kruger zone 29,TransverseMercator,GAUSS_KRUGER_ZONE_29
+16230,Transverse Mercator,Gauss-Kruger zone 30,TransverseMercator,GAUSS_KRUGER_ZONE_30
+16231,Transverse Mercator,Gauss-Kruger zone 31,TransverseMercator,GAUSS_KRUGER_ZONE_31
+16232,Transverse Mercator,Gauss-Kruger zone 32,TransverseMercator,GAUSS_KRUGER_ZONE_32
+11001,Transverse Mercator,Georgia CS27 East zone,TransverseMercator,GEORGIA_CS27_EAST_ZONE
+11002,Transverse Mercator,Georgia CS27 West zone,TransverseMercator,GEORGIA_CS27_WEST_ZONE
+11031,Transverse Mercator,Georgia CS83 East zone,TransverseMercator,GEORGIA_CS83_EAST_ZONE
+11032,Transverse Mercator,Georgia CS83 West zone,TransverseMercator,GEORGIA_CS83_WEST_ZONE
+19904,Transverse Mercator,Ghana Metre Grid,TransverseMercator,GHANA_METRE_GRID
+16586,Transverse Mercator,GK 106 NE,TransverseMercator,GK_106_NE
+19930,Transverse Mercator,Greek Grid,TransverseMercator,GREEK_GRID
+15101,Transverse Mercator,Hawaii CS27 zone 1,TransverseMercator,HAWAII_CS27_ZONE_1
+15102,Transverse Mercator,Hawaii CS27 zone 2,TransverseMercator,HAWAII_CS27_ZONE_2
+15103,Transverse Mercator,Hawaii CS27 zone 3,TransverseMercator,HAWAII_CS27_ZONE_3
+15104,Transverse Mercator,Hawaii CS27 zone 4,TransverseMercator,HAWAII_CS27_ZONE_4
+15105,Transverse Mercator,Hawaii CS27 zone 5,TransverseMercator,HAWAII_CS27_ZONE_5
+15131,Transverse Mercator,Hawaii CS83 zone 1,TransverseMercator,HAWAII_CS83_ZONE_1
+15132,Transverse Mercator,Hawaii CS83 zone 2,TransverseMercator,HAWAII_CS83_ZONE_2
+15133,Transverse Mercator,Hawaii CS83 zone 3,TransverseMercator,HAWAII_CS83_ZONE_3
+15134,Transverse Mercator,Hawaii CS83 zone 4,TransverseMercator,HAWAII_CS83_ZONE_4
+15135,Transverse Mercator,Hawaii CS83 zone 5,TransverseMercator,HAWAII_CS83_ZONE_5
+11102,Transverse Mercator,Idaho CS27 Central zone,TransverseMercator,IDAHO_CS27_CENTRAL_ZONE
+11101,Transverse Mercator,Idaho CS27 East zone,TransverseMercator,IDAHO_CS27_EAST_ZONE
+11103,Transverse Mercator,Idaho CS27 West zone,TransverseMercator,IDAHO_CS27_WEST_ZONE
+11132,Transverse Mercator,Idaho CS83 Central zone,TransverseMercator,IDAHO_CS83_CENTRAL_ZONE
+11131,Transverse Mercator,Idaho CS83 East zone,TransverseMercator,IDAHO_CS83_EAST_ZONE
+11133,Transverse Mercator,Idaho CS83 West zone,TransverseMercator,IDAHO_CS83_WEST_ZONE
+11201,Transverse Mercator,Illinois CS27 East zone,TransverseMercator,ILLINOIS_CS27_EAST_ZONE
+11202,Transverse Mercator,Illinois CS27 West zone,TransverseMercator,ILLINOIS_CS27_WEST_ZONE
+11231,Transverse Mercator,Illinois CS83 East zone,TransverseMercator,ILLINOIS_CS83_EAST_ZONE
+11232,Transverse Mercator,Illinois CS83 West zone,TransverseMercator,ILLINOIS_CS83_WEST_ZONE
+11301,Transverse Mercator,Indiana CS27 East zone,TransverseMercator,INDIANA_CS27_EAST_ZONE
+11302,Transverse Mercator,Indiana CS27 West zone,TransverseMercator,INDIANA_CS27_WEST_ZONE
+11331,Transverse Mercator,Indiana CS83 East zone,TransverseMercator,INDIANA_CS83_EAST_ZONE
+11332,Transverse Mercator,Indiana CS83 West zone,TransverseMercator,INDIANA_CS83_WEST_ZONE
+19907,Transverse Mercator,Iraq National Grid,TransverseMercator,IRAQ_NATIONAL_GRID
+19908,Transverse Mercator,Irish National Grid,TransverseMercator,IRISH_NATIONAL_GRID
+19962,Transverse Mercator,Irish Transverse Mercator,TransverseMercator,IRISH_TRANSVERSE_MERCATOR
+18204,Transverse Mercator,Israeli TM,TransverseMercator,ISRAELI_TM
+18121,Transverse Mercator,Italy zone 1,TransverseMercator,ITALY_ZONE_1
+18122,Transverse Mercator,Italy zone 2,TransverseMercator,ITALY_ZONE_2
+17801,Transverse Mercator,Japan Plane Rectangular CS zone I,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_I
+17802,Transverse Mercator,Japan Plane Rectangular CS zone II,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_II
+17803,Transverse Mercator,Japan Plane Rectangular CS zone III,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_III
+17804,Transverse Mercator,Japan Plane Rectangular CS zone IV,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_IV
+17805,Transverse Mercator,Japan Plane Rectangular CS zone V,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_V
+17806,Transverse Mercator,Japan Plane Rectangular CS zone VI,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_VI
+17807,Transverse Mercator,Japan Plane Rectangular CS zone VII,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_VII
+17808,Transverse Mercator,Japan Plane Rectangular CS zone VIII,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_VIII
+17809,Transverse Mercator,Japan Plane Rectangular CS zone IX,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_IX
+17810,Transverse Mercator,Japan Plane Rectangular CS zone X,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_X
+17811,Transverse Mercator,Japan Plane Rectangular CS zone XI,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_XI
+17812,Transverse Mercator,Japan Plane Rectangular CS zone XII,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_XII
+17813,Transverse Mercator,Japan Plane Rectangular CS zone XIII,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_XIII
+17814,Transverse Mercator,Japan Plane Rectangular CS zone XIV,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_XIV
+17815,Transverse Mercator,Japan Plane Rectangular CS zone XV,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_XV
+17816,Transverse Mercator,Japan Plane Rectangular CS zone XVI,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_XVI
+17817,Transverse Mercator,Japan Plane Rectangular CS zone XVII,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_XVII
+17818,Transverse Mercator,Japan Plane Rectangular CS zone XVIII,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_XVIII
+17819,Transverse Mercator,Japan Plane Rectangular CS zone XIX,TransverseMercator,JAPAN_PLANE_RECTANGULAR_CS_ZONE_XIX
+18252,Transverse Mercator,Korea Central Belt,TransverseMercator,KOREA_CENTRAL_BELT
+18251,Transverse Mercator,Korea East Belt,TransverseMercator,KOREA_EAST_BELT
+18253,Transverse Mercator,Korea West Belt,TransverseMercator,KOREA_WEST_BELT
+19928,Transverse Mercator,Kuwait TM,TransverseMercator,KUWAIT_TM
+18240,Transverse Mercator,Libya zone 5,TransverseMercator,LIBYA_ZONE_5
+18241,Transverse Mercator,Libya zone 6,TransverseMercator,LIBYA_ZONE_6
+18242,Transverse Mercator,Libya zone 7,TransverseMercator,LIBYA_ZONE_7
+18243,Transverse Mercator,Libya zone 8,TransverseMercator,LIBYA_ZONE_8
+18244,Transverse Mercator,Libya zone 9,TransverseMercator,LIBYA_ZONE_9
+18245,Transverse Mercator,Libya zone 10,TransverseMercator,LIBYA_ZONE_10
+18246,Transverse Mercator,Libya zone 11,TransverseMercator,LIBYA_ZONE_11
+18247,Transverse Mercator,Libya zone 12,TransverseMercator,LIBYA_ZONE_12
+18248,Transverse Mercator,Libya zone 13,TransverseMercator,LIBYA_ZONE_13
+19934,Transverse Mercator,Lithuania 1994,TransverseMercator,LITHUANIA_1994
+19851,Transverse Mercator,Croatia_TM,TransverseMercator,Croatia_TM
+11801,Transverse Mercator,Maine CS27 East zone,TransverseMercator,MAINE_CS27_EAST_ZONE
+11802,Transverse Mercator,Maine CS27 West zone,TransverseMercator,MAINE_CS27_WEST_ZONE
+11831,Transverse Mercator,Maine CS83 East zone,TransverseMercator,MAINE_CS83_EAST_ZONE
+11832,Transverse Mercator,Maine CS83 West zone,TransverseMercator,MAINE_CS83_WEST_ZONE
+17348,Transverse Mercator,Map Grid of Australia zone 48,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_48
+17349,Transverse Mercator,Map Grid of Australia zone 49,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_49
+17350,Transverse Mercator,Map Grid of Australia zone 50,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_50
+17351,Transverse Mercator,Map Grid of Australia zone 51,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_51
+17352,Transverse Mercator,Map Grid of Australia zone 52,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_52
+17353,Transverse Mercator,Map Grid of Australia zone 53,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_53
+17354,Transverse Mercator,Map Grid of Australia zone 54,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_54
+17355,Transverse Mercator,Map Grid of Australia zone 55,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_55
+17356,Transverse Mercator,Map Grid of Australia zone 56,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_56
+17357,Transverse Mercator,Map Grid of Australia zone 57,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_57
+17358,Transverse Mercator,Map Grid of Australia zone 58,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_58
+Unknown,Unknown,MGA zone 49,TransverseMercator,MGA49
+Unknown,Unknown,MGA zone 50,TransverseMercator,MGA50
+Unknown,Unknown,MGA zone 51,TransverseMercator,MGA51
+Unknown,Unknown,MGA zone 52,TransverseMercator,MGA52
+Unknown,Unknown,MGA zone 53,TransverseMercator,MGA53
+Unknown,Unknown,MGA zone 54,TransverseMercator,MGA54
+Unknown,Unknown,MGA zone 55,TransverseMercator,MGA55
+Unknown,Unknown,MGA zone 56,TransverseMercator,MGA56
+Unknown,Unknown,MGA zone 57,TransverseMercator,MGA57
+12101,Transverse Mercator,Michigan State Plane East zone,TransverseMercator,MICHIGAN_STATE_PLANE_EAST_ZONE
+12102,Transverse Mercator,Michigan State Plane Old Central zone,TransverseMercator,MICHIGAN_STATE_PLANE_OLD_CENTRAL_ZONE
+12103,Transverse Mercator,Michigan State Plane West zone,TransverseMercator,MICHIGAN_STATE_PLANE_WEST_ZONE
+12301,Transverse Mercator,Mississippi CS27 East zone,TransverseMercator,MISSISSIPPI_CS27_EAST_ZONE
+12302,Transverse Mercator,Mississippi CS27 West zone,TransverseMercator,MISSISSIPPI_CS27_WEST_ZONE
+12331,Transverse Mercator,Mississippi CS83 East zone,TransverseMercator,MISSISSIPPI_CS83_EAST_ZONE
+12332,Transverse Mercator,Mississippi CS83 West zone,TransverseMercator,MISSISSIPPI_CS83_WEST_ZONE
+12402,Transverse Mercator,Missouri CS27 Central zone,TransverseMercator,MISSOURI_CS27_CENTRAL_ZONE
+12401,Transverse Mercator,Missouri CS27 East zone,TransverseMercator,MISSOURI_CS27_EAST_ZONE
+12403,Transverse Mercator,Missouri CS27 West zone,TransverseMercator,MISSOURI_CS27_WEST_ZONE
+12432,Transverse Mercator,Missouri CS83 Central zone,TransverseMercator,MISSOURI_CS83_CENTRAL_ZONE
+12431,Transverse Mercator,Missouri CS83 East zone,TransverseMercator,MISSOURI_CS83_EAST_ZONE
+12433,Transverse Mercator,Missouri CS83 West zone,TransverseMercator,MISSOURI_CS83_WEST_ZONE
+17702,Transverse Mercator,MTM Newfoundland zone 2,TransverseMercator,MTM_NEWFOUNDLAND_ZONE_2
+17794,Transverse Mercator,MTM Nova Scotia zone 4,TransverseMercator,MTM_NOVA_SCOTIA_ZONE_4
+17795,Transverse Mercator,MTM Nova Scotia zone 5,TransverseMercator,MTM_NOVA_SCOTIA_ZONE_5
+17700,Transverse Mercator,MTM Quebec zone 2,TransverseMercator,MTM_QUEBEC_ZONE_2
+17701,Transverse Mercator,MTM zone 1,TransverseMercator,MTM_ZONE_1
+17703,Transverse Mercator,MTM zone 3,TransverseMercator,MTM_ZONE_3
+17704,Transverse Mercator,MTM zone 4,TransverseMercator,MTM_ZONE_4
+17705,Transverse Mercator,MTM zone 5,TransverseMercator,MTM_ZONE_5
+17706,Transverse Mercator,MTM zone 6,TransverseMercator,MTM_ZONE_6
+17707,Transverse Mercator,MTM zone 7,TransverseMercator,MTM_ZONE_7
+17708,Transverse Mercator,MTM zone 8,TransverseMercator,MTM_ZONE_8
+17709,Transverse Mercator,MTM zone 9,TransverseMercator,MTM_ZONE_9
+17710,Transverse Mercator,MTM zone 10,TransverseMercator,MTM_ZONE_10
+17711,Transverse Mercator,MTM zone 11,TransverseMercator,MTM_ZONE_11
+17712,Transverse Mercator,MTM zone 12,TransverseMercator,MTM_ZONE_12
+17713,Transverse Mercator,MTM zone 13,TransverseMercator,MTM_ZONE_13
+17714,Transverse Mercator,MTM zone 14,TransverseMercator,MTM_ZONE_14
+17715,Transverse Mercator,MTM zone 15,TransverseMercator,MTM_ZONE_15
+17716,Transverse Mercator,MTM zone 16,TransverseMercator,MTM_ZONE_16
+17717,Transverse Mercator,MTM zone 17,TransverseMercator,MTM_ZONE_17
+Unknown,Unknown,Unknown,TransverseMercator,NAMLO13
+Unknown,Unknown,Unknown,TransverseMercator,NAMLO15
+Unknown,Unknown,Unknown,TransverseMercator,NAMLO17
+Unknown,Unknown,Unknown,TransverseMercator,NAMLO19
+Unknown,Unknown,Unknown,TransverseMercator,NAMLO21
+Unknown,Unknown,Unknown,TransverseMercator,NAMLO23
+Unknown,Unknown,Unknown,TransverseMercator,NAMLO25
+12702,Transverse Mercator,Nevada CS27 Central zone,TransverseMercator,NEVADA_CS27_CENTRAL_ZONE
+12701,Transverse Mercator,Nevada CS27 East zone,TransverseMercator,NEVADA_CS27_EAST_ZONE
+12703,Transverse Mercator,Nevada CS27 West zone,TransverseMercator,NEVADA_CS27_WEST_ZONE
+12732,Transverse Mercator,Nevada CS83 Central zone,TransverseMercator,NEVADA_CS83_CENTRAL_ZONE
+12731,Transverse Mercator,Nevada CS83 East zone,TransverseMercator,NEVADA_CS83_EAST_ZONE
+12733,Transverse Mercator,Nevada CS83 West zone,TransverseMercator,NEVADA_CS83_WEST_ZONE
+12800,Transverse Mercator,New Hampshire CS27,TransverseMercator,NEW_HAMPSHIRE_CS27
+12830,Transverse Mercator,New Hampshire CS83,TransverseMercator,NEW_HAMPSHIRE_CS83
+12900,Transverse Mercator,New Jersey CS27,TransverseMercator,NEW_JERSEY_CS27
+12930,Transverse Mercator,New Jersey CS83,TransverseMercator,NEW_JERSEY_CS83
+13002,Transverse Mercator,New Mexico CS27 Central zone,TransverseMercator,NEW_MEXICO_CS27_CENTRAL_ZONE
+13001,Transverse Mercator,New Mexico CS27 East zone,TransverseMercator,NEW_MEXICO_CS27_EAST_ZONE
+13003,Transverse Mercator,New Mexico CS27 West zone,TransverseMercator,NEW_MEXICO_CS27_WEST_ZONE
+13032,Transverse Mercator,New Mexico CS83 Central zone,TransverseMercator,NEW_MEXICO_CS83_CENTRAL_ZONE
+13031,Transverse Mercator,New Mexico CS83 East zone,TransverseMercator,NEW_MEXICO_CS83_EAST_ZONE
+13033,Transverse Mercator,New Mexico CS83 West zone,TransverseMercator,NEW_MEXICO_CS83_WEST_ZONE
+13102,Transverse Mercator,New York CS27 Central zone,TransverseMercator,NEW_YORK_CS27_CENTRAL_ZONE
+13101,Transverse Mercator,New York CS27 East zone,TransverseMercator,NEW_YORK_CS27_EAST_ZONE
+13103,Transverse Mercator,New York CS27 West zone,TransverseMercator,NEW_YORK_CS27_WEST_ZONE
+13132,Transverse Mercator,New York CS83 Central zone,TransverseMercator,NEW_YORK_CS83_CENTRAL_ZONE
+13131,Transverse Mercator,New York CS83 East zone,TransverseMercator,NEW_YORK_CS83_EAST_ZONE
+13133,Transverse Mercator,New York CS83 West zone,TransverseMercator,NEW_YORK_CS83_WEST_ZONE
+18141,Transverse Mercator,New Zealand North Island National Grid,TransverseMercator,NEW_ZEALAND_NORTH_ISLAND_NATIONAL_GRID
+18142,Transverse Mercator,New Zealand South Island National Grid,TransverseMercator,NEW_ZEALAND_SOUTH_ISLAND_NATIONAL_GRID
+18221,Transverse Mercator,NGO zone I,TransverseMercator,NGO_ZONE_I
+18222,Transverse Mercator,NGO zone II,TransverseMercator,NGO_ZONE_II
+18223,Transverse Mercator,NGO zone III,TransverseMercator,NGO_ZONE_III
+18224,Transverse Mercator,NGO zone IV,TransverseMercator,NGO_ZONE_IV
+18225,Transverse Mercator,NGO zone V,TransverseMercator,NGO_ZONE_V
+18226,Transverse Mercator,NGO zone VI,TransverseMercator,NGO_ZONE_VI
+18227,Transverse Mercator,NGO zone VII,TransverseMercator,NGO_ZONE_VII
+18228,Transverse Mercator,NGO zone VIII,TransverseMercator,NGO_ZONE_VIII
+18153,Transverse Mercator,Nigeria East Belt,TransverseMercator,NIGERIA_EAST_BELT
+18152,Transverse Mercator,Nigeria Mid Belt,TransverseMercator,NIGERIA_MID_BELT
+18151,Transverse Mercator,Nigeria West Belt,TransverseMercator,NIGERIA_WEST_BELT
+Unknown,Unknown,Unknown,TransverseMercator,NUTM01
+Unknown,Unknown,Unknown,TransverseMercator,NUTM02
+Unknown,Unknown,Unknown,TransverseMercator,NUTM03
+Unknown,Unknown,Unknown,TransverseMercator,NUTM04
+Unknown,Unknown,Unknown,TransverseMercator,NUTM05
+Unknown,Unknown,Unknown,TransverseMercator,NUTM06
+Unknown,Unknown,Unknown,TransverseMercator,NUTM07
+Unknown,Unknown,Unknown,TransverseMercator,NUTM08
+Unknown,Unknown,Unknown,TransverseMercator,NUTM09
+Unknown,Unknown,Unknown,TransverseMercator,NUTM10
+Unknown,Unknown,Unknown,TransverseMercator,NUTM11
+Unknown,Unknown,Unknown,TransverseMercator,NUTM12
+Unknown,Unknown,Unknown,TransverseMercator,NUTM13
+Unknown,Unknown,Unknown,TransverseMercator,NUTM14
+Unknown,Unknown,Unknown,TransverseMercator,NUTM15
+Unknown,Unknown,Unknown,TransverseMercator,NUTM16
+Unknown,Unknown,Unknown,TransverseMercator,NUTM17
+Unknown,Unknown,Unknown,TransverseMercator,NUTM18
+Unknown,Unknown,Unknown,TransverseMercator,NUTM19
+Unknown,Unknown,Unknown,TransverseMercator,NUTM20
+Unknown,Unknown,Unknown,TransverseMercator,NUTM21
+Unknown,Unknown,Unknown,TransverseMercator,NUTM22
+Unknown,Unknown,Unknown,TransverseMercator,NUTM23
+Unknown,Unknown,Unknown,TransverseMercator,NUTM24
+Unknown,Unknown,Unknown,TransverseMercator,NUTM25
+Unknown,Unknown,Unknown,TransverseMercator,NUTM26
+Unknown,Unknown,Unknown,TransverseMercator,NUTM27
+Unknown,Unknown,Unknown,TransverseMercator,NUTM28
+Unknown,Unknown,Unknown,TransverseMercator,NUTM29
+Unknown,Unknown,Unknown,TransverseMercator,NUTM30
+Unknown,Unknown,Unknown,TransverseMercator,NUTM31
+Unknown,Unknown,Unknown,TransverseMercator,NUTM32
+Unknown,Unknown,Unknown,TransverseMercator,NUTM33
+Unknown,Unknown,Unknown,TransverseMercator,NUTM34
+Unknown,Unknown,Unknown,TransverseMercator,NUTM35
+Unknown,Unknown,Unknown,TransverseMercator,NUTM36_Tullow
+Unknown,Unknown,Unknown,TransverseMercator,NUTM36
+Unknown,Unknown,Unknown,TransverseMercator,NUTM37
+Unknown,Unknown,Unknown,TransverseMercator,NUTM38
+Unknown,Unknown,Unknown,TransverseMercator,NUTM39
+Unknown,Unknown,Unknown,TransverseMercator,NUTM40
+Unknown,Unknown,Unknown,TransverseMercator,NUTM41
+Unknown,Unknown,Unknown,TransverseMercator,NUTM42
+Unknown,Unknown,Unknown,TransverseMercator,NUTM43
+Unknown,Unknown,Unknown,TransverseMercator,NUTM44
+Unknown,Unknown,Unknown,TransverseMercator,NUTM45
+Unknown,Unknown,Unknown,TransverseMercator,NUTM46
+Unknown,Unknown,Unknown,TransverseMercator,NUTM47
+Unknown,Unknown,Unknown,TransverseMercator,NUTM48
+Unknown,Unknown,Unknown,TransverseMercator,NUTM49
+Unknown,Unknown,Unknown,TransverseMercator,NUTM50
+Unknown,Unknown,Unknown,TransverseMercator,NUTM51
+Unknown,Unknown,Unknown,TransverseMercator,NUTM52
+Unknown,Unknown,Unknown,TransverseMercator,NUTM53
+Unknown,Unknown,Unknown,TransverseMercator,NUTM54
+Unknown,Unknown,Unknown,TransverseMercator,NUTM55
+Unknown,Unknown,Unknown,TransverseMercator,NUTM56
+Unknown,Unknown,Unknown,TransverseMercator,NUTM57
+Unknown,Unknown,Unknown,TransverseMercator,NUTM58
+Unknown,Unknown,Unknown,TransverseMercator,NUTM59
+Unknown,Unknown,Unknown,TransverseMercator,NUTM60
+19917,Unknown,New Zealand Map Grid,Unknown,NZMG
+19971,TransverseMercator,New Zealand Transverse Mercator,TransverseMercator,NZTM
+18202,Transverse Mercator,Palestine Belt,TransverseMercator,PALESTINE_BELT
+18162,Transverse Mercator,Peru central zone,TransverseMercator,PERU_CENTRAL_ZONE
+18163,Transverse Mercator,Peru east zone,TransverseMercator,PERU_EAST_ZONE
+18161,Transverse Mercator,Peru west zone,TransverseMercator,PERU_WEST_ZONE
+18171,Transverse Mercator,Philippines zone I,TransverseMercator,PHILIPPINES_ZONE_I
+18172,Transverse Mercator,Philippines zone II,TransverseMercator,PHILIPPINES_ZONE_II
+18173,Transverse Mercator,Philippines zone III,TransverseMercator,PHILIPPINES_ZONE_III
+18174,Transverse Mercator,Philippines zone IV,TransverseMercator,PHILIPPINES_ZONE_IV
+18175,Transverse Mercator,Philippines zone V,TransverseMercator,PHILIPPINES_ZONE_V
+Unknown,Unknown,Unknown,TransverseMercator,Poland_CS92
+19936,Transverse Mercator,Portuguese National Grid,TransverseMercator,PORTUGUESE_NATIONAL_GRID
+19919,Transverse Mercator,Qatar National Grid,TransverseMercator,QATAR_NATIONAL_GRID
+13800,Transverse Mercator,Rhode Island CS27,TransverseMercator,RHODE_ISLAND_CS27
+13830,Transverse Mercator,Rhode Island CS83,TransverseMercator,RHODE_ISLAND_CS83
+Unknown,Unknown,Unknown,TransverseMercator,STMLO9
+Unknown,Unknown,Unknown,TransverseMercator,STMLO11
+Unknown,Unknown,Unknown,TransverseMercator,STMLO13
+Unknown,Unknown,Unknown,TransverseMercator,STMLO15
+Unknown,Unknown,Unknown,TransverseMercator,STMLO17
+Unknown,Unknown,Unknown,TransverseMercator,STMLO19
+Unknown,Unknown,Unknown,TransverseMercator,STMLO21
+Unknown,Unknown,Unknown,TransverseMercator,STMLO23
+Unknown,Unknown,Unknown,TransverseMercator,STMLO25
+Unknown,Unknown,Unknown,TransverseMercator,STMLO25F
+Unknown,Unknown,Unknown,TransverseMercator,STMLO27
+Unknown,Unknown,Unknown,TransverseMercator,STMLO27F
+Unknown,Unknown,Unknown,TransverseMercator,STMLO29
+Unknown,Unknown,Unknown,TransverseMercator,STMLO31
+Unknown,Unknown,Unknown,TransverseMercator,STMLO33
+Unknown,Unknown,Unknown,TransverseMercator,STMLO35
+Unknown,Unknown,Unknown,TransverseMercator,STMLO37
+Unknown,Unknown,Unknown,TransverseMercator,STMLO39
+Unknown,Unknown,Unknown,TransverseMercator,STMLO41
+Unknown,Unknown,Unknown,TransverseMercator,STMLO43
+19954,Transverse Mercator,Suriname Old TM,TransverseMercator,SURINAME_OLD_TM
+19955,Transverse Mercator,Suriname TM,TransverseMercator,SURINAME_TM
+Unknown,Unknown,Unknown,TransverseMercator,SUTM01
+Unknown,Unknown,Unknown,TransverseMercator,SUTM02
+Unknown,Unknown,Unknown,TransverseMercator,SUTM03
+Unknown,Unknown,Unknown,TransverseMercator,SUTM04
+Unknown,Unknown,Unknown,TransverseMercator,SUTM05
+Unknown,Unknown,Unknown,TransverseMercator,SUTM06
+Unknown,Unknown,Unknown,TransverseMercator,SUTM07
+Unknown,Unknown,Unknown,TransverseMercator,SUTM08
+Unknown,Unknown,Unknown,TransverseMercator,SUTM09
+Unknown,Unknown,Unknown,TransverseMercator,SUTM10
+Unknown,Unknown,Unknown,TransverseMercator,SUTM11
+Unknown,Unknown,Unknown,TransverseMercator,SUTM12
+Unknown,Unknown,Unknown,TransverseMercator,SUTM13
+Unknown,Unknown,Unknown,TransverseMercator,SUTM14
+Unknown,Unknown,Unknown,TransverseMercator,SUTM15
+Unknown,Unknown,Unknown,TransverseMercator,SUTM16
+Unknown,Unknown,Unknown,TransverseMercator,SUTM17
+Unknown,Unknown,Unknown,TransverseMercator,SUTM18
+Unknown,Unknown,Unknown,TransverseMercator,SUTM19
+Unknown,Unknown,Unknown,TransverseMercator,SUTM20
+Unknown,Unknown,Unknown,TransverseMercator,SUTM21
+Unknown,Unknown,Unknown,TransverseMercator,SUTM22
+Unknown,Unknown,Unknown,TransverseMercator,SUTM23
+Unknown,Unknown,Unknown,TransverseMercator,SUTM24
+Unknown,Unknown,Unknown,TransverseMercator,SUTM25
+Unknown,Unknown,Unknown,TransverseMercator,SUTM26
+Unknown,Unknown,Unknown,TransverseMercator,SUTM27
+Unknown,Unknown,Unknown,TransverseMercator,SUTM28
+Unknown,Unknown,Unknown,TransverseMercator,SUTM29
+Unknown,Unknown,Unknown,TransverseMercator,SUTM30
+Unknown,Unknown,Unknown,TransverseMercator,SUTM31
+Unknown,Unknown,Unknown,TransverseMercator,SUTM32
+Unknown,Unknown,Unknown,TransverseMercator,SUTM33
+Unknown,Unknown,Unknown,TransverseMercator,SUTM34
+Unknown,Unknown,Unknown,TransverseMercator,SUTM35
+Unknown,Unknown,Unknown,TransverseMercator,SUTM36
+Unknown,Unknown,Unknown,TransverseMercator,SUTM37
+Unknown,Unknown,Unknown,TransverseMercator,SUTM38
+Unknown,Unknown,Unknown,TransverseMercator,SUTM39
+Unknown,Unknown,Unknown,TransverseMercator,SUTM40
+Unknown,Unknown,Unknown,TransverseMercator,SUTM41
+Unknown,Unknown,Unknown,TransverseMercator,SUTM42
+Unknown,Unknown,Unknown,TransverseMercator,SUTM43
+Unknown,Unknown,Unknown,TransverseMercator,SUTM44
+Unknown,Unknown,Unknown,TransverseMercator,SUTM45
+Unknown,Unknown,Unknown,TransverseMercator,SUTM46
+Unknown,Unknown,Unknown,TransverseMercator,SUTM47
+Unknown,Unknown,Unknown,TransverseMercator,SUTM48
+Unknown,Unknown,Unknown,TransverseMercator,SUTM49
+Unknown,Unknown,Unknown,TransverseMercator,SUTM50
+Unknown,Unknown,Unknown,TransverseMercator,SUTM51
+Unknown,Unknown,Unknown,TransverseMercator,SUTM52
+Unknown,Unknown,Unknown,TransverseMercator,SUTM53
+Unknown,Unknown,Unknown,TransverseMercator,SUTM54
+Unknown,Unknown,Unknown,TransverseMercator,SUTM55
+Unknown,Unknown,Unknown,TransverseMercator,SUTM56
+Unknown,Unknown,Unknown,TransverseMercator,SUTM57
+Unknown,Unknown,Unknown,TransverseMercator,SUTM58
+Unknown,Unknown,Unknown,TransverseMercator,SUTM59
+Unknown,Unknown,Unknown,TransverseMercator,SUTM60
+19929,Transverse Mercator,Swedish National Projection,TransverseMercator,SWEDISH_NATIONAL_PROJECTION
+Unknown,Unknown,Unknown,TransverseMercator,TM103_30
+Unknown,Unknown,Unknown,TransverseMercator,TM16E
+Unknown,Unknown,Unknown,TransverseMercator,TM36
+Unknown,Unknown,Unknown,TransverseMercator,TM36E
+Unknown,Unknown,Unknown,TransverseMercator,TM42E
+Unknown,Unknown,Unknown,TransverseMercator,TM54E
+Unknown,Unknown,Unknown,TransverseMercator,TM54WCM
+Unknown,Unknown,Unknown,TransverseMercator,TM6W
+Unknown,Unknown,Unknown,TransverseMercator,TMAFRICA
+Unknown,Unknown,Unknown,TransverseMercator,TMAFT15
+Unknown,Unknown,Unknown,TransverseMercator,TMAFT16
+Unknown,Unknown,Unknown,TransverseMercator,TMAFT17
+Unknown,Unknown,Unknown,TransverseMercator,TMALABEF
+Unknown,Unknown,Unknown,TransverseMercator,TMALABWF
+Unknown,Unknown,Unknown,TransverseMercator,TMALABWM
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK2F
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK2M
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK3F
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK3M
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK4F
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK4M
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK5F
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK5M
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK6F
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK6M
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK7F
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK7M
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK8F
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK8M
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK9F
+Unknown,Unknown,Unknown,TransverseMercator,TMALSK9M
+Unknown,Unknown,Unknown,TransverseMercator,TMAMG48
+Unknown,Unknown,Unknown,TransverseMercator,TMAMG49
+Unknown,Unknown,Unknown,TransverseMercator,TMAMG50
+Unknown,Unknown,Unknown,TransverseMercator,TMAMG51
+Unknown,Unknown,Unknown,TransverseMercator,TMAMG52
+Unknown,Unknown,Unknown,TransverseMercator,TMAMG53
+Unknown,Unknown,Unknown,TransverseMercator,TMAMG54
+Unknown,Unknown,Unknown,TransverseMercator,TMAMG55
+Unknown,Unknown,Unknown,TransverseMercator,TMAMG56
+Unknown,Unknown,Unknown,TransverseMercator,TMAMG57
+Unknown,Unknown,Unknown,TransverseMercator,TMAMG58
+Unknown,Unknown,Unknown,TransverseMercator,TMARG1
+Unknown,Unknown,Unknown,TransverseMercator,TMARG2
+Unknown,Unknown,Unknown,TransverseMercator,TMARG3
+Unknown,Unknown,Unknown,TransverseMercator,TMARG4
+Unknown,Unknown,Unknown,TransverseMercator,TMARG5
+Unknown,Unknown,Unknown,TransverseMercator,TMARG6
+Unknown,Unknown,Unknown,TransverseMercator,TMARG7
+Unknown,Unknown,Unknown,TransverseMercator,TMARG8
+Unknown,Unknown,Unknown,TransverseMercator,TMARG9
+Unknown,Unknown,Unknown,TransverseMercator,TMARG54
+Unknown,Unknown,Unknown,TransverseMercator,TMARG57
+Unknown,Unknown,Unknown,TransverseMercator,TMARG60
+Unknown,Unknown,Unknown,TransverseMercator,TMARG63
+Unknown,Unknown,Unknown,TransverseMercator,TMARG66
+Unknown,Unknown,Unknown,TransverseMercator,TMARG69
+Unknown,Unknown,Unknown,TransverseMercator,TMARG72
+Unknown,Unknown,Unknown,TransverseMercator,TMARIZCF
+Unknown,Unknown,Unknown,TransverseMercator,TMARIZEF
+Unknown,Unknown,Unknown,TransverseMercator,TMARIZWF
+Unknown,Unknown,Unknown,TransverseMercator,TMARUBA
+Unknown,Unknown,Unknown,TransverseMercator,TMAUS
+Unknown,Unknown,Unknown,TransverseMercator,TMAUSC
+Unknown,Unknown,Unknown,TransverseMercator,TMAUSE
+Unknown,Unknown,Unknown,TransverseMercator,TMAUSW
+Unknown,Unknown,Unknown,TransverseMercator,TMAUSYD1
+Unknown,Unknown,Unknown,TransverseMercator,TMAUSYD2
+Unknown,Unknown,Unknown,TransverseMercator,TMAUSYD3
+Unknown,Unknown,Unknown,TransverseMercator,TMAUSYD4
+Unknown,Unknown,Unknown,TransverseMercator,TMAUSYD5
+Unknown,Unknown,Unknown,TransverseMercator,TMAUSYD6
+Unknown,Unknown,Unknown,TransverseMercator,TMAUSYD7
+Unknown,Unknown,Unknown,TransverseMercator,TMAUSYD8
+Unknown,Unknown,Unknown,TransverseMercator,TMBAHR
+Unknown,Unknown,Unknown,TransverseMercator,TMBOAG1R
+Unknown,Unknown,Unknown,TransverseMercator,TMBOAG2R
+Unknown,Unknown,Unknown,TransverseMercator,TMBOAGA1
+Unknown,Unknown,Unknown,TransverseMercator,TMBOAGA2
+Unknown,Unknown,Unknown,TransverseMercator,TMBOGEQ
+Unknown,Unknown,Unknown,TransverseMercator,TMBOH
+Unknown,Unknown,Unknown,TransverseMercator,TMBOL1
+Unknown,Unknown,Unknown,TransverseMercator,TMBONAIR
+Unknown,Unknown,Unknown,TransverseMercator,TMBUCHAN
+Unknown,Unknown,Unknown,TransverseMercator,TMBURMA
+Unknown,Unknown,Unknown,TransverseMercator,TMCM116
+Unknown,Unknown,Unknown,TransverseMercator,TMCM126
+Unknown,Unknown,Unknown,TransverseMercator,TMCM133E
+Unknown,Unknown,Unknown,TransverseMercator,TMCM157E
+Unknown,Unknown,Unknown,TransverseMercator,TMCOLB
+Unknown,Unknown,Unknown,TransverseMercator,TMCOLE
+Unknown,Unknown,Unknown,TransverseMercator,TMCOLEC
+Unknown,Unknown,Unknown,TransverseMercator,TMCOLW
+Unknown,Unknown,Unknown,TransverseMercator,TMCONGO
+Unknown,Unknown,Unknown,TransverseMercator,TMCORONA
+Unknown,Unknown,Unknown,TransverseMercator,TMDELWRF
+Unknown,Unknown,Unknown,TransverseMercator,TMEG24P
+Unknown,Unknown,Unknown,TransverseMercator,TMEGEPTU
+Unknown,Unknown,Unknown,TransverseMercator,TMEGMFBP
+Unknown,Unknown,Unknown,TransverseMercator,TMEGSA87
+Unknown,Unknown,Unknown,TransverseMercator,TMEGYPTB
+Unknown,Unknown,Unknown,TransverseMercator,TMEGYPTG
+Unknown,Unknown,Unknown,TransverseMercator,TMEGYPTP
+Unknown,Unknown,Unknown,TransverseMercator,TMEGYPTR
+Unknown,Unknown,Unknown,TransverseMercator,TMEGYPTS
+Unknown,Unknown,Unknown,TransverseMercator,TMEGYPTW
+Unknown,Unknown,Unknown,TransverseMercator,TMETHIOP
+Unknown,Unknown,Unknown,TransverseMercator,TMFIJI
+Unknown,Unknown,Unknown,TransverseMercator,TMFIN0
+Unknown,Unknown,Unknown,TransverseMercator,TMFIN1
+Unknown,Unknown,Unknown,TransverseMercator,TMFIN2
+Unknown,Unknown,Unknown,TransverseMercator,TMFIN3
+Unknown,Unknown,Unknown,TransverseMercator,TMFIN4
+Unknown,Unknown,Unknown,TransverseMercator,TMFIN5
+Unknown,Unknown,Unknown,TransverseMercator,TMFLRAEF
+Unknown,Unknown,Unknown,TransverseMercator,TMFLRAWF
+Unknown,Unknown,Unknown,TransverseMercator,TMGCWEG2
+Unknown,Unknown,Unknown,TransverseMercator,TMGEOREF
+Unknown,Unknown,Unknown,TransverseMercator,TMGEORWF
+Unknown,Unknown,Unknown,TransverseMercator,TMGER1
+Unknown,Unknown,Unknown,TransverseMercator,TMGER2
+Unknown,Unknown,Unknown,TransverseMercator,TMGER3
+Unknown,Unknown,Unknown,TransverseMercator,TMGER4
+Unknown,Unknown,Unknown,TransverseMercator,TMGER5
+Unknown,Unknown,Unknown,TransverseMercator,TMGHANA
+Unknown,Unknown,Unknown,TransverseMercator,TMGHANAF
+Unknown,Unknown,Unknown,TransverseMercator,TMGHANAY
+Unknown,Unknown,Unknown,TransverseMercator,TMGK20E
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN05
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN06
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN07
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN8
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN9
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN10
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN11
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN12
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN13
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN14
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN15
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN16
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN17
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN18
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN19
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN20
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN20W
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN21
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN21W
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN22
+Unknown,Unknown,Unknown,TransverseMercator,TMGKN23
+Unknown,Unknown,Unknown,TransverseMercator,TMHAWI1F
+Unknown,Unknown,Unknown,TransverseMercator,TMHAWI2F
+Unknown,Unknown,Unknown,TransverseMercator,TMHAWI3F
+Unknown,Unknown,Unknown,TransverseMercator,TMHAWI4F
+Unknown,Unknown,Unknown,TransverseMercator,TMHAWI5F
+Unknown,Unknown,Unknown,TransverseMercator,TMHNT170
+Unknown,Unknown,Unknown,TransverseMercator,TMI
+Unknown,Unknown,Unknown,TransverseMercator,TMIDACFT
+Unknown,Unknown,Unknown,TransverseMercator,TMIDAEFT
+Unknown,Unknown,Unknown,TransverseMercator,TMIDAWFT
+Unknown,Unknown,Unknown,TransverseMercator,TMILLEFT
+Unknown,Unknown,Unknown,TransverseMercator,TMILLWFT
+Unknown,Unknown,Unknown,TransverseMercator,TMIND114
+Unknown,Unknown,Unknown,TransverseMercator,TMINDEFT
+Unknown,Unknown,Unknown,TransverseMercator,TMINDWFT
+Unknown,Unknown,Unknown,TransverseMercator,TMIRAQ
+Unknown,Unknown,Unknown,TransverseMercator,TMIRAQC
+Unknown,Unknown,Unknown,TransverseMercator,TMISG541
+Unknown,Unknown,Unknown,TransverseMercator,TMISG542
+Unknown,Unknown,Unknown,TransverseMercator,TMISG543
+Unknown,Unknown,Unknown,TransverseMercator,TMISG551
+Unknown,Unknown,Unknown,TransverseMercator,TMISG552
+Unknown,Unknown,Unknown,TransverseMercator,TMISG553
+Unknown,Unknown,Unknown,TransverseMercator,TMISG561
+Unknown,Unknown,Unknown,TransverseMercator,TMISG562
+Unknown,Unknown,Unknown,TransverseMercator,TMISG563
+Unknown,Unknown,Unknown,TransverseMercator,TMJORDAN
+Unknown,Unknown,Unknown,TransverseMercator,TMKOREA
+Unknown,Unknown,Unknown,TransverseMercator,TMMAINEF
+Unknown,Unknown,Unknown,TransverseMercator,TMMAINWF
+Unknown,Unknown,Unknown,TransverseMercator,TMMCBO4
+Unknown,Unknown,Unknown,TransverseMercator,TMMICHCF
+Unknown,Unknown,Unknown,TransverseMercator,TMMICHEF
+Unknown,Unknown,Unknown,TransverseMercator,TMMICHWF
+Unknown,Unknown,Unknown,TransverseMercator,TMMISOCF
+Unknown,Unknown,Unknown,TransverseMercator,TMMISOEF
+Unknown,Unknown,Unknown,TransverseMercator,TMMISOWF
+Unknown,Unknown,Unknown,TransverseMercator,TMMISSEF
+Unknown,Unknown,Unknown,TransverseMercator,TMMISSEM
+Unknown,Unknown,Unknown,TransverseMercator,TMMISSWF
+Unknown,Unknown,Unknown,TransverseMercator,TMMISSWM
+Unknown,Unknown,Unknown,TransverseMercator,TMMON087
+Unknown,Unknown,Unknown,TransverseMercator,TMMON093
+Unknown,Unknown,Unknown,TransverseMercator,TMMON099
+Unknown,Unknown,Unknown,TransverseMercator,TMMON105
+Unknown,Unknown,Unknown,TransverseMercator,TMMON111
+Unknown,Unknown,Unknown,TransverseMercator,TMMON117
+Unknown,Unknown,Unknown,TransverseMercator,TMNEVACF
+Unknown,Unknown,Unknown,TransverseMercator,TMNEVACM
+Unknown,Unknown,Unknown,TransverseMercator,TMNEVAEF
+Unknown,Unknown,Unknown,TransverseMercator,TMNEVAEM
+Unknown,Unknown,Unknown,TransverseMercator,TMNEVAWF
+Unknown,Unknown,Unknown,TransverseMercator,TMNEVAWM
+Unknown,Unknown,Unknown,TransverseMercator,TMNEWHFT
+Unknown,Unknown,Unknown,TransverseMercator,TMNEWJFT
+Unknown,Unknown,Unknown,TransverseMercator,TMNEWMCF
+Unknown,Unknown,Unknown,TransverseMercator,TMNEWMEF
+Unknown,Unknown,Unknown,TransverseMercator,TMNEWMEM
+Unknown,Unknown,Unknown,TransverseMercator,TMNEWMWF
+Unknown,Unknown,Unknown,TransverseMercator,TMNEWYCF
+Unknown,Unknown,Unknown,TransverseMercator,TMNEWYEF
+Unknown,Unknown,Unknown,TransverseMercator,TMNEWYWF
+Unknown,Unknown,Unknown,TransverseMercator,TMNIGE
+Unknown,Unknown,Unknown,TransverseMercator,TMNIGM
+Unknown,Unknown,Unknown,TransverseMercator,TMNIGW
+Unknown,Unknown,Unknown,TransverseMercator,TMNORAND
+Unknown,Unknown,Unknown,TransverseMercator,TMNSEA
+Unknown,Unknown,Unknown,TransverseMercator,TMNYEMEN
+Unknown,Unknown,Unknown,TransverseMercator,TMNZNI
+Unknown,Unknown,Unknown,TransverseMercator,TMNZSI
+Unknown,Unknown,Unknown,TransverseMercator,TMOGADEN
+Unknown,Unknown,Unknown,TransverseMercator,TMOMAN
+Unknown,Unknown,Unknown,TransverseMercator,TMOSGB
+Unknown,Unknown,Unknown,TransverseMercator,TMOSIRL
+Unknown,Unknown,Unknown,TransverseMercator,TMPARAG1
+Unknown,Unknown,Unknown,TransverseMercator,TMPARAG2
+Unknown,Unknown,Unknown,TransverseMercator,TMPARAG3
+Unknown,Unknown,Unknown,TransverseMercator,TMPARAG4
+Unknown,Unknown,Unknown,TransverseMercator,TMPERUBE
+Unknown,Unknown,Unknown,TransverseMercator,TMPERUC
+Unknown,Unknown,Unknown,TransverseMercator,TMPERUE
+Unknown,Unknown,Unknown,TransverseMercator,TMPERUW
+Unknown,Unknown,Unknown,TransverseMercator,TMPHIL1
+Unknown,Unknown,Unknown,TransverseMercator,TMPHIL2
+Unknown,Unknown,Unknown,TransverseMercator,TMPHIL3
+Unknown,Unknown,Unknown,TransverseMercator,TMPHIL4
+Unknown,Unknown,Unknown,TransverseMercator,TMPHIL5
+Unknown,Unknown,Unknown,TransverseMercator,TMPHIL6
+Unknown,Unknown,Unknown,TransverseMercator,TMPNG55S
+Unknown,Unknown,Unknown,TransverseMercator,TMPORT
+Unknown,Unknown,Unknown,TransverseMercator,TMPORTHG
+Unknown,Unknown,Unknown,TransverseMercator,TMPORTM
+Unknown,Unknown,Unknown,TransverseMercator,TMPORTL
+Unknown,Unknown,Unknown,TransverseMercator,TMQATAR
+Unknown,Unknown,Unknown,TransverseMercator,TMRHODIF
+Unknown,Unknown,Unknown,TransverseMercator,TMRHODIM
+Unknown,Unknown,Unknown,TransverseMercator,TMRT90
+Unknown,Unknown,Unknown,TransverseMercator,TMS114E
+Unknown,Unknown,Unknown,TransverseMercator,TMS116E
+Unknown,Unknown,Unknown,TransverseMercator,TMSAM19S
+Unknown,Unknown,Unknown,TransverseMercator,TMSAM20S
+Unknown,Unknown,Unknown,TransverseMercator,TMSAMER
+Unknown,Unknown,Unknown,TransverseMercator,TMSAMERA
+Unknown,Unknown,Unknown,TransverseMercator,TMSHABWA
+Unknown,Unknown,Unknown,TransverseMercator,TMSHK167
+Unknown,Unknown,Unknown,TransverseMercator,TMSHLCNS
+Unknown,Unknown,Unknown,TransverseMercator,TMSHLHOL
+Unknown,Unknown,Unknown,TransverseMercator,TMSHLYEM
+Unknown,Unknown,Unknown,TransverseMercator,TMSUDAN
+Unknown,Unknown,Unknown,TransverseMercator,TMSURNAM
+Unknown,Unknown,Unknown,TransverseMercator,TMSVIET
+Unknown,Unknown,Unknown,TransverseMercator,TMSVNM
+Unknown,Unknown,Unknown,TransverseMercator,TMSWEDEN
+Unknown,Unknown,Unknown,TransverseMercator,TMTIBU
+Unknown,Unknown,Unknown,TransverseMercator,TMTRUCST
+Unknown,Unknown,Unknown,TransverseMercator,TMTUNIS
+Unknown,Unknown,Unknown,TransverseMercator,TMTURK
+Unknown,Unknown,Unknown,TransverseMercator,TMTYRRE
+Unknown,Unknown,Unknown,TransverseMercator,TMTYRRW
+Unknown,Unknown,Unknown,TransverseMercator,TMUNZ170
+Unknown,Unknown,Unknown,TransverseMercator,TMVERMTF
+Unknown,Unknown,Unknown,TransverseMercator,TMVICMAP
+Unknown,Unknown,Unknown,TransverseMercator,TMVIETS
+Unknown,Unknown,Unknown,TransverseMercator,TMWYO1FT
+Unknown,Unknown,Unknown,TransverseMercator,TMWYO2FT
+Unknown,Unknown,Unknown,TransverseMercator,TMWYO3FT
+Unknown,Unknown,Unknown,TransverseMercator,TMWYO4FT
+Unknown,Unknown,Unknown,TransverseMercator,TMWYOECM
+Unknown,Unknown,Unknown,TransverseMercator,TMWYOEM
+Unknown,Unknown,Unknown,TransverseMercator,TMWYOWCM
+Unknown,Unknown,Unknown,TransverseMercator,TMYEMEN
+Unknown,Unknown,Unknown,TransverseMercator,TMYUG5
+Unknown,Unknown,Unknown,TransverseMercator,TMYUG5SF
+Unknown,Unknown,Unknown,TransverseMercator,TMYUG6
+Unknown,Unknown,Unknown,TransverseMercator,TMYUG6SF
+Unknown,Unknown,Unknown,TransverseMercator,TMYUG7
+Unknown,Unknown,Unknown,TransverseMercator,TMYUG7SF
+16400,Transverse Mercator,TM 0 N,TransverseMercator,TM_0_N
+16405,Transverse Mercator,TM 5 NE,TransverseMercator,TM_5_NE
+16411,Transverse Mercator,TM 11 NE,TransverseMercator,TM_11_NE
+16611,Transverse Mercator,TM 11.30 SE,TransverseMercator,TM_11.30_SE
+16412,Transverse Mercator,TM 12 NE,TransverseMercator,TM_12_NE
+16612,Transverse Mercator,TM 12 SE,TransverseMercator,TM_12_SE
+16612,Transverse Mercator,TM 12 NW,TransverseMercator,TM_12_NW
+16636,Transverse Mercator,TM 36 SE,TransverseMercator,TM_36_SE
+17054,Transverse Mercator,TM 54 NW,TransverseMercator,TM_54_NW
+16506,Transverse Mercator,TM 106 NE,TransverseMercator,TM_106_NE
+19939,Transverse Mercator,TM Baltic 93,TransverseMercator,TM_BALTIC_93
+Unknown,Unknown,Unknown,TransverseMercator,UTM47_THAI
+Unknown,Unknown,Unknown,TransverseMercator,UTMBOT_CM24
+16001,Transverse Mercator,UTM zone 1N,TransverseMercator,UTM_ZONE_1N
+16101,Transverse Mercator,UTM zone 1S,TransverseMercator,UTM_ZONE_1S
+16002,Transverse Mercator,UTM zone 2N,TransverseMercator,UTM_ZONE_2N
+16102,Transverse Mercator,UTM zone 2S,TransverseMercator,UTM_ZONE_2S
+16003,Transverse Mercator,UTM zone 3N,TransverseMercator,UTM_ZONE_3N
+16103,Transverse Mercator,UTM zone 3S,TransverseMercator,UTM_ZONE_3S
+16004,Transverse Mercator,UTM zone 4N,TransverseMercator,UTM_ZONE_4N
+16104,Transverse Mercator,UTM zone 4S,TransverseMercator,UTM_ZONE_4S
+16005,Transverse Mercator,UTM zone 5N,TransverseMercator,UTM_ZONE_5N
+16105,Transverse Mercator,UTM zone 5S,TransverseMercator,UTM_ZONE_5S
+16006,Transverse Mercator,UTM zone 6N,TransverseMercator,UTM_ZONE_6N
+16106,Transverse Mercator,UTM zone 6S,TransverseMercator,UTM_ZONE_6S
+16007,Transverse Mercator,UTM zone 7N,TransverseMercator,UTM_ZONE_7N
+16107,Transverse Mercator,UTM zone 7S,TransverseMercator,UTM_ZONE_7S
+16008,Transverse Mercator,UTM zone 8N,TransverseMercator,UTM_ZONE_8N
+16108,Transverse Mercator,UTM zone 8S,TransverseMercator,UTM_ZONE_8S
+16009,Transverse Mercator,UTM zone 9N,TransverseMercator,UTM_ZONE_9N
+16109,Transverse Mercator,UTM zone 9S,TransverseMercator,UTM_ZONE_9S
+16010,Transverse Mercator,UTM zone 10N,TransverseMercator,UTM_ZONE_10N
+16110,Transverse Mercator,UTM zone 10S,TransverseMercator,UTM_ZONE_10S
+16011,Transverse Mercator,UTM zone 11N,TransverseMercator,UTM_ZONE_11N
+16111,Transverse Mercator,UTM zone 11S,TransverseMercator,UTM_ZONE_11S
+16012,Transverse Mercator,UTM zone 12N,TransverseMercator,UTM_ZONE_12N
+16112,Transverse Mercator,UTM zone 12S,TransverseMercator,UTM_ZONE_12S
+16013,Transverse Mercator,UTM zone 13N,TransverseMercator,UTM_ZONE_13N
+16113,Transverse Mercator,UTM zone 13S,TransverseMercator,UTM_ZONE_13S
+16014,Transverse Mercator,UTM zone 14N,TransverseMercator,UTM_ZONE_14N
+16114,Transverse Mercator,UTM zone 14S,TransverseMercator,UTM_ZONE_14S
+16015,Transverse Mercator,UTM zone 15N,TransverseMercator,UTM_ZONE_15N
+16115,Transverse Mercator,UTM zone 15S,TransverseMercator,UTM_ZONE_15S
+16016,Transverse Mercator,UTM zone 16N,TransverseMercator,UTM_ZONE_16N
+16116,Transverse Mercator,UTM zone 16S,TransverseMercator,UTM_ZONE_16S
+16017,Transverse Mercator,UTM zone 17N,TransverseMercator,UTM_ZONE_17N
+16117,Transverse Mercator,UTM zone 17S,TransverseMercator,UTM_ZONE_17S
+16018,Transverse Mercator,UTM zone 18N,TransverseMercator,UTM_ZONE_18N
+16118,Transverse Mercator,UTM zone 18S,TransverseMercator,UTM_ZONE_18S
+16019,Transverse Mercator,UTM zone 19N,TransverseMercator,UTM_ZONE_19N
+16119,Transverse Mercator,UTM zone 19S,TransverseMercator,UTM_ZONE_19S
+16020,Transverse Mercator,UTM zone 20N,TransverseMercator,UTM_ZONE_20N
+16120,Transverse Mercator,UTM zone 20S,TransverseMercator,UTM_ZONE_20S
+16021,Transverse Mercator,UTM zone 21N,TransverseMercator,UTM_ZONE_21N
+16121,Transverse Mercator,UTM zone 21S,TransverseMercator,UTM_ZONE_21S
+16022,Transverse Mercator,UTM zone 22N,TransverseMercator,UTM_ZONE_22N
+16122,Transverse Mercator,UTM zone 22S,TransverseMercator,UTM_ZONE_22S
+16023,Transverse Mercator,UTM zone 23N,TransverseMercator,UTM_ZONE_23N
+16123,Transverse Mercator,UTM zone 23S,TransverseMercator,UTM_ZONE_23S
+16024,Transverse Mercator,UTM zone 24N,TransverseMercator,UTM_ZONE_24N
+16124,Transverse Mercator,UTM zone 24S,TransverseMercator,UTM_ZONE_24S
+16025,Transverse Mercator,UTM zone 25N,TransverseMercator,UTM_ZONE_25N
+16125,Transverse Mercator,UTM zone 25S,TransverseMercator,UTM_ZONE_25S
+16026,Transverse Mercator,UTM zone 26N,TransverseMercator,UTM_ZONE_26N
+16126,Transverse Mercator,UTM zone 26S,TransverseMercator,UTM_ZONE_26S
+16027,Transverse Mercator,UTM zone 27N,TransverseMercator,UTM_ZONE_27N
+16127,Transverse Mercator,UTM zone 27S,TransverseMercator,UTM_ZONE_27S
+16028,Transverse Mercator,UTM zone 28N,TransverseMercator,UTM_ZONE_28N
+16128,Transverse Mercator,UTM zone 28S,TransverseMercator,UTM_ZONE_28S
+16029,Transverse Mercator,UTM zone 29N,TransverseMercator,UTM_ZONE_29N
+16129,Transverse Mercator,UTM zone 29S,TransverseMercator,UTM_ZONE_29S
+16030,Transverse Mercator,UTM zone 30N,TransverseMercator,UTM_ZONE_30N
+16130,Transverse Mercator,UTM zone 30S,TransverseMercator,UTM_ZONE_30S
+16031,Transverse Mercator,UTM zone 31N,TransverseMercator,UTM_ZONE_31N
+16131,Transverse Mercator,UTM zone 31S,TransverseMercator,UTM_ZONE_31S
+16032,Transverse Mercator,UTM zone 32N,TransverseMercator,UTM_ZONE_32N
+16132,Transverse Mercator,UTM zone 32S,TransverseMercator,UTM_ZONE_32S
+16033,Transverse Mercator,UTM zone 33N,TransverseMercator,UTM_ZONE_33N
+16133,Transverse Mercator,UTM zone 33S,TransverseMercator,UTM_ZONE_33S
+16034,Transverse Mercator,UTM zone 34N,TransverseMercator,UTM_ZONE_34N
+16134,Transverse Mercator,UTM zone 34S,TransverseMercator,UTM_ZONE_34S
+16035,Transverse Mercator,UTM zone 35N,TransverseMercator,UTM_ZONE_35N
+16135,Transverse Mercator,UTM zone 35S,TransverseMercator,UTM_ZONE_35S
+16036,Transverse Mercator,UTM zone 36N,TransverseMercator,UTM_ZONE_36N
+16136,Transverse Mercator,UTM zone 36S,TransverseMercator,UTM_ZONE_36S
+16037,Transverse Mercator,UTM zone 37N,TransverseMercator,UTM_ZONE_37N
+16137,Transverse Mercator,UTM zone 37S,TransverseMercator,UTM_ZONE_37S
+16038,Transverse Mercator,UTM zone 38N,TransverseMercator,UTM_ZONE_38N
+16138,Transverse Mercator,UTM zone 38S,TransverseMercator,UTM_ZONE_38S
+16039,Transverse Mercator,UTM zone 39N,TransverseMercator,UTM_ZONE_39N
+16139,Transverse Mercator,UTM zone 39S,TransverseMercator,UTM_ZONE_39S
+16040,Transverse Mercator,UTM zone 40N,TransverseMercator,UTM_ZONE_40N
+16140,Transverse Mercator,UTM zone 40S,TransverseMercator,UTM_ZONE_40S
+16041,Transverse Mercator,UTM zone 41N,TransverseMercator,UTM_ZONE_41N
+16141,Transverse Mercator,UTM zone 41S,TransverseMercator,UTM_ZONE_41S
+16042,Transverse Mercator,UTM zone 42N,TransverseMercator,UTM_ZONE_42N
+16142,Transverse Mercator,UTM zone 42S,TransverseMercator,UTM_ZONE_42S
+16043,Transverse Mercator,UTM zone 43N,TransverseMercator,UTM_ZONE_43N
+16143,Transverse Mercator,UTM zone 43S,TransverseMercator,UTM_ZONE_43S
+16044,Transverse Mercator,UTM zone 44N,TransverseMercator,UTM_ZONE_44N
+16144,Transverse Mercator,UTM zone 44S,TransverseMercator,UTM_ZONE_44S
+16045,Transverse Mercator,UTM zone 45N,TransverseMercator,UTM_ZONE_45N
+16145,Transverse Mercator,UTM zone 45S,TransverseMercator,UTM_ZONE_45S
+16046,Transverse Mercator,UTM zone 46N,TransverseMercator,UTM_ZONE_46N
+16146,Transverse Mercator,UTM zone 46S,TransverseMercator,UTM_ZONE_46S
+16047,Transverse Mercator,UTM zone 47N,TransverseMercator,UTM_ZONE_47N
+16147,Transverse Mercator,UTM zone 47S,TransverseMercator,UTM_ZONE_47S
+16048,Transverse Mercator,UTM zone 48N,TransverseMercator,UTM_ZONE_48N
+16148,Transverse Mercator,UTM zone 48S,TransverseMercator,UTM_ZONE_48S
+16049,Transverse Mercator,UTM zone 49N,TransverseMercator,UTM_ZONE_49N
+16149,Transverse Mercator,UTM zone 49S,TransverseMercator,UTM_ZONE_49S
+16050,Transverse Mercator,UTM zone 50N,TransverseMercator,UTM_ZONE_50N
+16150,Transverse Mercator,UTM zone 50S,TransverseMercator,UTM_ZONE_50S
+16051,Transverse Mercator,UTM zone 51N,TransverseMercator,UTM_ZONE_51N
+16151,Transverse Mercator,UTM zone 51S,TransverseMercator,UTM_ZONE_51S
+16052,Transverse Mercator,UTM zone 52N,TransverseMercator,UTM_ZONE_52N
+16152,Transverse Mercator,UTM zone 52S,TransverseMercator,UTM_ZONE_52S
+16053,Transverse Mercator,UTM zone 53N,TransverseMercator,UTM_ZONE_53N
+16153,Transverse Mercator,UTM zone 53S,TransverseMercator,UTM_ZONE_53S
+16054,Transverse Mercator,UTM zone 54N,TransverseMercator,UTM_ZONE_54N
+16154,Transverse Mercator,UTM zone 54S,TransverseMercator,UTM_ZONE_54S
+16055,Transverse Mercator,UTM zone 55N,TransverseMercator,UTM_ZONE_55N
+16155,Transverse Mercator,UTM zone 55S,TransverseMercator,UTM_ZONE_55S
+16056,Transverse Mercator,UTM zone 56N,TransverseMercator,UTM_ZONE_56N
+16156,Transverse Mercator,UTM zone 56S,TransverseMercator,UTM_ZONE_56S
+16057,Transverse Mercator,UTM zone 57N,TransverseMercator,UTM_ZONE_57N
+16157,Transverse Mercator,UTM zone 57S,TransverseMercator,UTM_ZONE_57S
+16058,Transverse Mercator,UTM zone 58N,TransverseMercator,UTM_ZONE_58N
+16158,Transverse Mercator,UTM zone 58S,TransverseMercator,UTM_ZONE_58S
+16059,Transverse Mercator,UTM zone 59N,TransverseMercator,UTM_ZONE_59N
+16159,Transverse Mercator,UTM zone 59S,TransverseMercator,UTM_ZONE_59S
+16060,Transverse Mercator,UTM zone 60N,TransverseMercator,UTM_ZONE_60N
+16160,Transverse Mercator,UTM zone 60S,TransverseMercator,UTM_ZONE_60S
+14400,Transverse Mercator,Vermont CS27,TransverseMercator,VERMONT_CS27
+14430,Transverse Mercator,Vermont CS83,TransverseMercator,VERMONT_CS83
+14902,Transverse Mercator,Wyoming CS27 East Central zone,TransverseMercator,WYOMING_CS27_EAST_CENTRAL_ZONE
+14901,Transverse Mercator,Wyoming CS27 East zone,TransverseMercator,WYOMING_CS27_EAST_ZONE
+14903,Transverse Mercator,Wyoming CS27 West Central zone,TransverseMercator,WYOMING_CS27_WEST_CENTRAL_ZONE
+14904,Transverse Mercator,Wyoming CS27 West zone,TransverseMercator,WYOMING_CS27_WEST_ZONE
+14932,Transverse Mercator,Wyoming CS83 East Central zone,TransverseMercator,WYOMING_CS83_EAST_CENTRAL_ZONE
+14931,Transverse Mercator,Wyoming CS83 East zone,TransverseMercator,WYOMING_CS83_EAST_ZONE
+14933,Transverse Mercator,Wyoming CS83 West Central zone,TransverseMercator,WYOMING_CS83_WEST_CENTRAL_ZONE
+14934,Transverse Mercator,Wyoming CS83 West zone,TransverseMercator,WYOMING_CS83_WEST_ZONE
+Unknown,Unknown,Unknown,AlbersEqualArea,ALALASK2
+Unknown,Unknown,Unknown,AlbersEqualArea,ALALASK3
+Unknown,Unknown,Unknown,AlbersEqualArea,ALALASKA
+Unknown,Unknown,Unknown,AlbersEqualArea,ALAUS
+Unknown,Unknown,Unknown,AlbersEqualArea,ALAUS_NT
+Unknown,Unknown,Unknown,AlbersEqualArea,ALBC
+Unknown,Unknown,Unknown,AlbersEqualArea,ALBEAVIC
+Unknown,Unknown,Unknown,AlbersEqualArea,ALBERING
+Unknown,Unknown,Unknown,AlbersEqualArea,ALBERS_PIL
+Unknown,Unknown,Unknown,AlbersEqualArea,ALCAM
+Unknown,Unknown,Unknown,AlbersEqualArea,ALCANADA
+Unknown,Unknown,Unknown,AlbersEqualArea,ALCANADA_REV2
+Unknown,Unknown,Unknown,AlbersEqualArea,ALCHI
+Unknown,Unknown,Unknown,AlbersEqualArea,ALCOLOMB
+Unknown,Unknown,Unknown,AlbersEqualArea,ALDLGAL
+Unknown,Unknown,Unknown,AlbersEqualArea,ALDLGHAW
+Unknown,Unknown,Unknown,AlbersEqualArea,ALDLGUSA
+Unknown,Unknown,Unknown,AlbersEqualArea,ALEUR
+Unknown,Unknown,Unknown,AlbersEqualArea,ALEURO
+Unknown,Unknown,Unknown,AlbersEqualArea,ALFAR
+Unknown,Unknown,Unknown,AlbersEqualArea,ALGMEXIC
+Unknown,Unknown,Unknown,AlbersEqualArea,ALGULFFT
+Unknown,Unknown,Unknown,AlbersEqualArea,ALGULFMT
+Unknown,Unknown,Unknown,AlbersEqualArea,ALMALIN
+Unknown,Unknown,Unknown,AlbersEqualArea,ALMEA2
+Unknown,Unknown,Unknown,AlbersEqualArea,ALMENA
+Unknown,Unknown,Unknown,AlbersEqualArea,ALNAM
+Unknown,Unknown,Unknown,AlbersEqualArea,ALNAMIBIA
+Unknown,Unknown,Unknown,AlbersEqualArea,ALNSEA
+Unknown,Unknown,Unknown,AlbersEqualArea,ALRUSS
+Unknown,Unknown,Unknown,AlbersEqualArea,ALSAF
+Unknown,Unknown,Unknown,AlbersEqualArea,ALSAM
+Unknown,Unknown,Unknown,AlbersEqualArea,ALVENEZ
+Unknown,Unknown,Unknown,AlbersEqualArea,ALWAUST
+Unknown,Unknown,Unknown,AlbersEqualArea,ALWAGDA
+Unknown,Unknown,Unknown,AlbersEqualArea,GALB
+Unknown,Unknown,Unknown,AzimuthalEqualArea,AZI
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LE00N16E
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LE13S127
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LE20S60W
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LE35S135
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LEAFRICA
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LEAMERIC
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LEFRAN
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LEGLOBE
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LELUSAK0
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LELUSAKA
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LEMONG
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LENAFRIC
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LENSEA
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LESAMER
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LESUR554
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LEUSA0
+Unknown,Unknown,Unknown,AzimuthalEqualArea,LEWEURO
+Unknown,Unknown,Unknown,AzimuthalEquidistant,AEAFRICA
+Unknown,Unknown,Unknown,AzimuthalEquidistant,AERUSS
+Unknown,Unknown,Unknown,BipolarObliqueConicConformal,BCNAMER
+Unknown,Unknown,Unknown,BipolarObliqueConicConformal,BCSAMER
+Unknown,Unknown,Unknown,BipolarObliqueConicConformal,BCSPHERE
+Unknown,Unknown,Unknown,BipolarObliqueConicConformal,BOCC
+Unknown,Unknown,Unknown,GoodeIntHomalographic,GOOD
+Unknown,Unknown,Unknown,InterruptedSinusoidal,SIN
+15010,Lambert Conic Conformal (2SP),Alaska CS27 zone 10,LambertConicConformal,ALASKA_CS27_ZONE_10
+15040,Lambert Conic Conformal (2SP),Alaska CS83 zone 10,LambertConicConformal,ALASKA_CS83_ZONE_10
+10301,Lambert Conic Conformal (2SP),Arkansas CS27 North,LambertConicConformal,ARKANSAS_CS27_NORTH
+10302,Lambert Conic Conformal (2SP),Arkansas CS27 South,LambertConicConformal,ARKANSAS_CS27_SOUTH
+10331,Lambert Conic Conformal (2SP),Arkansas CS83 North zone,LambertConicConformal,ARKANSAS_CS83_NORTH_ZONE
+10332,Lambert Conic Conformal (2SP),Arkansas CS83 South zone,LambertConicConformal,ARKANSAS_CS83_SOUTH_ZONE
+19947,Lambert Conic Conformal (2SP),Austria Lambert,LambertConicConformal,AUSTRIA_LAMBERT
+19901,Lambert Conic Conformal (2SP),Belge Lambert 50,LambertConicConformal,BELGE_LAMBERT_50
+10401,Lambert Conic Conformal (2SP),California CS27 zone I,LambertConicConformal,CALIFORNIA_CS27_ZONE_I
+10402,Lambert Conic Conformal (2SP),California CS27 zone II,LambertConicConformal,CALIFORNIA_CS27_ZONE_II
+10403,Lambert Conic Conformal (2SP),California CS27 zone III,LambertConicConformal,CALIFORNIA_CS27_ZONE_III
+10404,Lambert Conic Conformal (2SP),California CS27 zone IV,LambertConicConformal,CALIFORNIA_CS27_ZONE_IV
+10405,Lambert Conic Conformal (2SP),California CS27 zone V,LambertConicConformal,CALIFORNIA_CS27_ZONE_V
+10406,Lambert Conic Conformal (2SP),California CS27 zone VI,LambertConicConformal,CALIFORNIA_CS27_ZONE_VI
+10407,Lambert Conic Conformal (2SP),California CS27 zone VII,LambertConicConformal,CALIFORNIA_CS27_ZONE_VII
+10431,Lambert Conic Conformal (2SP),California CS83 zone 1,LambertConicConformal,CALIFORNIA_CS83_ZONE_1
+10432,Lambert Conic Conformal (2SP),California CS83 zone 2,LambertConicConformal,CALIFORNIA_CS83_ZONE_2
+10433,Lambert Conic Conformal (2SP),California CS83 zone 3,LambertConicConformal,CALIFORNIA_CS83_ZONE_3
+10434,Lambert Conic Conformal (2SP),California CS83 zone 4,LambertConicConformal,CALIFORNIA_CS83_ZONE_4
+10435,Lambert Conic Conformal (2SP),California CS83 zone 5,LambertConicConformal,CALIFORNIA_CS83_ZONE_5
+10436,Lambert Conic Conformal (2SP),California CS83 zone 6,LambertConicConformal,CALIFORNIA_CS83_ZONE_6
+10502,Lambert Conic Conformal (2SP),Colorado CS27 Central zone,LambertConicConformal,COLORADO_CS27_CENTRAL_ZONE
+10501,Lambert Conic Conformal (2SP),Colorado CS27 North zone,LambertConicConformal,COLORADO_CS27_NORTH_ZONE
+10503,Lambert Conic Conformal (2SP),Colorado CS27 South zone,LambertConicConformal,COLORADO_CS27_SOUTH_ZONE
+10532,Lambert Conic Conformal (2SP),Colorado CS83 Central zone,LambertConicConformal,COLORADO_CS83_CENTRAL_ZONE
+10531,Lambert Conic Conformal (2SP),Colorado CS83 North zone,LambertConicConformal,COLORADO_CS83_NORTH_ZONE
+10533,Lambert Conic Conformal (2SP),Colorado CS83 South zone,LambertConicConformal,COLORADO_CS83_SOUTH_ZONE
+10600,Lambert Conic Conformal (2SP),Connecticut CS27,LambertConicConformal,CONNECTICUT_CS27
+10630,Lambert Conic Conformal (2SP),Connecticut CS83,LambertConicConformal,CONNECTICUT_CS83
+19938,Lambert Conic Conformal (2SP),Estonian National Grid,LambertConicConformal,ESTONIAN_NATIONAL_GRID
+10903,Lambert Conic Conformal (2SP),Florida CS27 North zone,LambertConicConformal,FLORIDA_CS27_NORTH_ZONE
+10933,Lambert Conic Conformal (2SP),Florida CS83 North zone,LambertConicConformal,FLORIDA_CS83_NORTH_ZONE
+Unknown,Lambert Conic Conformal (2SP),Unknown,LambertConicConformal,GALCC
+11401,Lambert Conic Conformal (2SP),Iowa CS27 North zone,LambertConicConformal,IOWA_CS27_NORTH_ZONE
+11402,Lambert Conic Conformal (2SP),Iowa CS27 South zone,LambertConicConformal,IOWA_CS27_SOUTH_ZONE
+11431,Lambert Conic Conformal (2SP),Iowa CS83 North zone,LambertConicConformal,IOWA_CS83_NORTH_ZONE
+11432,Lambert Conic Conformal (2SP),Iowa CS83 South zone,LambertConicConformal,IOWA_CS83_SOUTH_ZONE
+11501,Lambert Conic Conformal (2SP),Kansas CS27 North zone,LambertConicConformal,KANSAS_CS27_NORTH_ZONE
+11502,Lambert Conic Conformal (2SP),Kansas CS27 South zone,LambertConicConformal,KANSAS_CS27_SOUTH_ZONE
+11531,Lambert Conic Conformal (2SP),Kansas CS83 North zone,LambertConicConformal,KANSAS_CS83_NORTH_ZONE
+11532,Lambert Conic Conformal (2SP),Kansas CS83 South zone,LambertConicConformal,KANSAS_CS83_SOUTH_ZONE
+11601,Lambert Conic Conformal (2SP),Kentucky CS27 North zone,LambertConicConformal,KENTUCKY_CS27_NORTH_ZONE
+11602,Lambert Conic Conformal (2SP),Kentucky CS27 South zone,LambertConicConformal,KENTUCKY_CS27_SOUTH_ZONE
+11631,Lambert Conic Conformal (2SP),Kentucky CS83 North zone,LambertConicConformal,KENTUCKY_CS83_NORTH_ZONE
+11632,Lambert Conic Conformal (2SP),Kentucky CS83 South zone,LambertConicConformal,KENTUCKY_CS83_SOUTH_ZONE
+Unknown,Unknown,Unknown,LambertConicConformal,L2ASIAWMC
+27572,Lambert Conic Conformal (1SP),Unknown,LambertConicConformal,LAMBERTIIET
+Unknown,Unknown,Unknown,LambertConicConformal,LAMBIIE
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_AUST
+Unknown,Unknown,Australian GDA,LambertConicConformal,LAM_AUST2
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_BHP
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_IRELAND
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_MOR
+26191,Lambert Conic Conformal (1SP),Nord_Maroc,LambertConicConformal,Nord_Maroc
+26192,Lambert Conic Conformal (1SP),Sud_Maroc,LambertConicConformal,Sud_Maroc
+102191,Lambert Conic Conformal (1SP),Nord_Maroc_Degree,LambertConicConformal,Nord_Maroc_Degree
+102192,Lambert Conic Conformal (1SP),Sud_Maroc_Degree,LambertConicConformal,Sud_Maroc_Degree
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_NSW
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_NT
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_PNG
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_QLD
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_SAFRICA
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_SAUST
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_STHA
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_TAS
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_USA
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_VIC
+Unknown,Unknown,Unknown,LambertConicConformal,LAM_WA
+Unknown,Unknown,Lambert Libya lat origin 28,LambertConicConformal,LCC_GPX
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AF72
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AF92
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AF93
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AF94
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AF95
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AF113
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AF114
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AFE
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AFSH
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ALBERTA
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ALG
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ANT1
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ARAB
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ARAMCO
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AREA1
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AREA2
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AREA3
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ARKNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ARKNM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ARKSF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ARKSM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ASEAN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ASIA
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AUST
+Unknown,Unknown,Unknown,LambertConicConformal,LM2AZERB
+Unknown,Unknown,Unknown,LambertConicConformal,LM2BAREN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2BC
+Unknown,Unknown,Unknown,LambertConicConformal,LM2BELG
+Unknown,Unknown,Unknown,LambertConicConformal,LM2BKSEA
+Unknown,Unknown,Unknown,LambertConicConformal,LM2BLACK
+Unknown,Unknown,Unknown,LambertConicConformal,LM2BLCKS
+Unknown,Unknown,Unknown,LambertConicConformal,LM2BLKSE
+Unknown,Unknown,Unknown,LambertConicConformal,LM2BNOR
+Unknown,Unknown,Unknown,LambertConicConformal,LM2BOF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2BURMA
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CAL1F
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CAL2F
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CAL3F
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CAL4F
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CAL4M
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CAL5F
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CAL5M
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CAL6F
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CAL7F
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CAMER
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CAN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CAN60
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CAN78
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CBRAZ
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CEGYP
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CFRAN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CHBON
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CHECS
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CHEOF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CHIN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CHINA
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CHRUS
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CHYS
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CM693
+Unknown,Unknown,Unknown,LambertConicConformal,LM2COLCF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2COLNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2COLSF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2COLUM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2COMAN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CONNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CONNM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2CSPN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2EE
+Unknown,Unknown,Unknown,LambertConicConformal,LM2EGYPT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ELSALV
+Unknown,Unknown,Unknown,LambertConicConformal,LM2EUNDX
+Unknown,Unknown,Unknown,LambertConicConformal,LM2EURO
+Unknown,Unknown,Unknown,LambertConicConformal,LM2FKLDS
+Unknown,Unknown,Unknown,LambertConicConformal,LM2FLANF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2FRANC
+Unknown,Unknown,Unknown,LambertConicConformal,LM2GULF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2H6
+Unknown,Unknown,Unknown,LambertConicConformal,LM2IND76
+Unknown,Unknown,Unknown,LambertConicConformal,LM2IND77
+Unknown,Unknown,Unknown,LambertConicConformal,LM2IND78
+Unknown,Unknown,Unknown,LambertConicConformal,LM2IND96
+Unknown,Unknown,Unknown,LambertConicConformal,LM2IND97
+Unknown,Unknown,Unknown,LambertConicConformal,LM2IND98
+Unknown,Unknown,Unknown,LambertConicConformal,LM2INDIA
+Unknown,Unknown,Unknown,LambertConicConformal,LM2IOWNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2IOWSF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2IRAN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2JEBCO
+Unknown,Unknown,Unknown,LambertConicConformal,LM2JUNGB
+Unknown,Unknown,Unknown,LambertConicConformal,LM2KALIM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2KANNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2KANNM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2KYNFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2KYNM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2KYSFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2LANDS
+Unknown,Unknown,Unknown,LambertConicConformal,LM2LANFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2LANM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2LAOFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2LASFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2LASM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MAINE
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MARYF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MASIF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MASIM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MASMF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ME
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ME1
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MEDIT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MICCF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MICNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MICSF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MINCF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MINNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MINSF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MOCFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MON
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MONFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MOSFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MTCFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MTM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MTNFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MTSFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2MUSGR
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NBRUN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NBSEA
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NCAFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NDNFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NDNM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NDSFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NEBM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NEBNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NEBSF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NEPAL
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NEWYF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NFA
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NFB
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NHEM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NSEA
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NSW1
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NSW2
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NZN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2NZS
+Unknown,Unknown,Unknown,LambertConicConformal,LM2OHINF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2OHISF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2OKLNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2OKLNM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2OKLSF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2OKLSM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ONH25
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ORENF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2ORESF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2OSTER
+Unknown,Unknown,Unknown,LambertConicConformal,LM2PAK
+Unknown,Unknown,Unknown,LambertConicConformal,LM2PANFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2PASFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2PRMB
+Unknown,Unknown,Unknown,LambertConicConformal,LM2PRV1F
+Unknown,Unknown,Unknown,LambertConicConformal,LM2PRV2F
+Unknown,Unknown,Unknown,LambertConicConformal,LM2RUSS
+Unknown,Unknown,Unknown,LambertConicConformal,LM2RUSS1
+Unknown,Unknown,Unknown,LambertConicConformal,LM2RUSS2
+Unknown,Unknown,Unknown,LambertConicConformal,LM2RUSS3
+Unknown,Unknown,Unknown,LambertConicConformal,LM2RUSS4
+Unknown,Unknown,Unknown,LambertConicConformal,LM2RUSS5
+Unknown,Unknown,Unknown,LambertConicConformal,LM2RUSS6
+Unknown,Unknown,Unknown,LambertConicConformal,LM2SA
+Unknown,Unknown,Unknown,LambertConicConformal,LM2SCHIN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2SCHNS
+Unknown,Unknown,Unknown,LambertConicConformal,LM2SCNFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2SCSFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2SDNFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2SDSFT
+Unknown,Unknown,Unknown,LambertConicConformal,LM2SEYCH
+Unknown,Unknown,Unknown,LambertConicConformal,LM2SHAW
+Unknown,Unknown,Unknown,LambertConicConformal,LM2SWED
+Unknown,Unknown,Unknown,LambertConicConformal,LM2SYRIA
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TAIW
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TARIM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TENNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TIBET
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TIMAN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TURK
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TURKG
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TURKY
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TXCF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TXCM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TXNCF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TXNCM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TXNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TXSCF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TXSCM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TXSF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2TXSM
+Unknown,Unknown,Unknown,LambertConicConformal,LM2UKN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2USSR
+Unknown,Unknown,Unknown,LambertConicConformal,LM2USSR1
+Unknown,Unknown,Unknown,LambertConicConformal,LM2USSR2
+Unknown,Unknown,Unknown,LambertConicConformal,LM2UTHCF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2UTHNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2UTHSF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2VEN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2VENCN
+Unknown,Unknown,Unknown,LambertConicConformal,LM2VENPC
+Unknown,Unknown,Unknown,LambertConicConformal,LM2VIET
+Unknown,Unknown,Unknown,LambertConicConformal,LM2VIRNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2VIRSF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2WAUST
+Unknown,Unknown,Unknown,LambertConicConformal,LM2WISCF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2WISNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2WISSF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2WSHNF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2WSHSF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2WVANF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2WVASF
+Unknown,Unknown,Unknown,LambertConicConformal,LM2_WA_WGS84
+11701,Lambert Conic Conformal (2SP),Louisiana CS27 North zone,LambertConicConformal,LOUISIANA_CS27_NORTH_ZONE
+11702,Lambert Conic Conformal (2SP),Louisiana CS27 South zone,LambertConicConformal,LOUISIANA_CS27_SOUTH_ZONE
+11731,Lambert Conic Conformal (2SP),Louisiana CS83 North zone,LambertConicConformal,LOUISIANA_CS83_NORTH_ZONE
+11732,Lambert Conic Conformal (2SP),Louisiana CS83 South zone,LambertConicConformal,LOUISIANA_CS83_SOUTH_ZONE
+11900,Lambert Conic Conformal (2SP),Maryland CS27,LambertConicConformal,MARYLAND_CS27
+11930,Lambert Conic Conformal (2SP),Maryland CS83,LambertConicConformal,MARYLAND_CS83
+12002,Lambert Conic Conformal (2SP),Massachusetts CS27 Island zone,LambertConicConformal,MASSACHUSETTS_CS27_ISLAND_ZONE
+12001,Lambert Conic Conformal (2SP),Massachusetts CS27 Mainland zone,LambertConicConformal,MASSACHUSETTS_CS27_MAINLAND_ZONE
+12032,Lambert Conic Conformal (2SP),Massachusetts CS83 Island zone,LambertConicConformal,MASSACHUSETTS_CS83_ISLAND_ZONE
+12031,Lambert Conic Conformal (2SP),Massachusetts CS83 Mainland zone,LambertConicConformal,MASSACHUSETTS_CS83_MAINLAND_ZONE
+12112,Lambert Conic Conformal (2SP),Michigan CS27 Central zone,LambertConicConformal,MICHIGAN_CS27_CENTRAL_ZONE
+12111,Lambert Conic Conformal (2SP),Michigan CS27 North zone,LambertConicConformal,MICHIGAN_CS27_NORTH_ZONE
+12113,Lambert Conic Conformal (2SP),Michigan CS27 South zone,LambertConicConformal,MICHIGAN_CS27_SOUTH_ZONE
+12142,Lambert Conic Conformal (2SP),Michigan CS83 Central zone,LambertConicConformal,MICHIGAN_CS83_CENTRAL_ZONE
+12141,Lambert Conic Conformal (2SP),Michigan CS83 North zone,LambertConicConformal,MICHIGAN_CS83_NORTH_ZONE
+12143,Lambert Conic Conformal (2SP),Michigan CS83 South zone,LambertConicConformal,MICHIGAN_CS83_SOUTH_ZONE
+12202,Lambert Conic Conformal (2SP),Minnesota CS27 Central zone,LambertConicConformal,MINNESOTA_CS27_CENTRAL_ZONE
+12201,Lambert Conic Conformal (2SP),Minnesota CS27 North zone,LambertConicConformal,MINNESOTA_CS27_NORTH_ZONE
+12203,Lambert Conic Conformal (2SP),Minnesota CS27 South zone,LambertConicConformal,MINNESOTA_CS27_SOUTH_ZONE
+12232,Lambert Conic Conformal (2SP),Minnesota CS83 Central zone,LambertConicConformal,MINNESOTA_CS83_CENTRAL_ZONE
+12231,Lambert Conic Conformal (2SP),Minnesota CS83 North zone,LambertConicConformal,MINNESOTA_CS83_NORTH_ZONE
+12233,Lambert Conic Conformal (2SP),Minnesota CS83 South zone,LambertConicConformal,MINNESOTA_CS83_SOUTH_ZONE
+12502,Lambert Conic Conformal (2SP),Montana CS27 Central zone,LambertConicConformal,MONTANA_CS27_CENTRAL_ZONE
+12501,Lambert Conic Conformal (2SP),Montana CS27 North zone,LambertConicConformal,MONTANA_CS27_NORTH_ZONE
+12503,Lambert Conic Conformal (2SP),Montana CS27 South zone,LambertConicConformal,MONTANA_CS27_SOUTH_ZONE
+12530,Lambert Conic Conformal (2SP),Montana CS83,LambertConicConformal,MONTANA_CS83
+12601,Lambert Conic Conformal (2SP),Nebraska CS27 North zone,LambertConicConformal,NEBRASKA_CS27_NORTH_ZONE
+12602,Lambert Conic Conformal (2SP),Nebraska CS27 South zone,LambertConicConformal,NEBRASKA_CS27_SOUTH_ZONE
+12630,Lambert Conic Conformal (2SP),Nebraska CS83,LambertConicConformal,NEBRASKA_CS83
+13104,Lambert Conic Conformal (2SP),New York CS27 Long Island zone,LambertConicConformal,NEW_YORK_CS27_LONG_ISLAND_ZONE
+13134,Lambert Conic Conformal (2SP),New York CS83 Long Island zone,LambertConicConformal,NEW_YORK_CS83_LONG_ISLAND_ZONE
+13200,Lambert Conic Conformal (2SP),North Carolina CS27,LambertConicConformal,NORTH_CAROLINA_CS27
+13230,Lambert Conic Conformal (2SP),North Carolina CS83,LambertConicConformal,NORTH_CAROLINA_CS83
+13301,Lambert Conic Conformal (2SP),North Dakota CS27 North zone,LambertConicConformal,NORTH_DAKOTA_CS27_NORTH_ZONE
+13302,Lambert Conic Conformal (2SP),North Dakota CS27 South zone,LambertConicConformal,NORTH_DAKOTA_CS27_SOUTH_ZONE
+13331,Lambert Conic Conformal (2SP),North Dakota CS83 North zone,LambertConicConformal,NORTH_DAKOTA_CS83_NORTH_ZONE
+13332,Lambert Conic Conformal (2SP),North Dakota CS83 South zone,LambertConicConformal,NORTH_DAKOTA_CS83_SOUTH_ZONE
+13401,Lambert Conic Conformal (2SP),Ohio CS27 North zone,LambertConicConformal,OHIO_CS27_NORTH_ZONE
+13402,Lambert Conic Conformal (2SP),Ohio CS27 South zone,LambertConicConformal,OHIO_CS27_SOUTH_ZONE
+13431,Lambert Conic Conformal (2SP),Ohio CS83 North zone,LambertConicConformal,OHIO_CS83_NORTH_ZONE
+13432,Lambert Conic Conformal (2SP),Ohio CS83 South zone,LambertConicConformal,OHIO_CS83_SOUTH_ZONE
+13501,Lambert Conic Conformal (2SP),Oklahoma CS27 North zone,LambertConicConformal,OKLAHOMA_CS27_NORTH_ZONE
+13502,Lambert Conic Conformal (2SP),Oklahoma CS27 South zone,LambertConicConformal,OKLAHOMA_CS27_SOUTH_ZONE
+13531,Lambert Conic Conformal (2SP),Oklahoma CS83 North zone,LambertConicConformal,OKLAHOMA_CS83_NORTH_ZONE
+13532,Lambert Conic Conformal (2SP),Oklahoma CS83 South zone,LambertConicConformal,OKLAHOMA_CS83_SOUTH_ZONE
+13601,Lambert Conic Conformal (2SP),Oregon CS27 North zone,LambertConicConformal,OREGON_CS27_NORTH_ZONE
+13602,Lambert Conic Conformal (2SP),Oregon CS27 South zone,LambertConicConformal,OREGON_CS27_SOUTH_ZONE
+13631,Lambert Conic Conformal (2SP),Oregon CS83 North zone,LambertConicConformal,OREGON_CS83_NORTH_ZONE
+13632,Lambert Conic Conformal (2SP),Oregon CS83 South zone,LambertConicConformal,OREGON_CS83_SOUTH_ZONE
+13701,Lambert Conic Conformal (2SP),Pennsylvania CS27 North zone,LambertConicConformal,PENNSYLVANIA_CS27_NORTH_ZONE
+13702,Lambert Conic Conformal (2SP),Pennsylvania CS27 South zone,LambertConicConformal,PENNSYLVANIA_CS27_SOUTH_ZONE
+13731,Lambert Conic Conformal (2SP),Pennsylvania CS83 North zone,LambertConicConformal,PENNSYLVANIA_CS83_NORTH_ZONE
+13732,Lambert Conic Conformal (2SP),Pennsylvania CS83 South zone,LambertConicConformal,PENNSYLVANIA_CS83_SOUTH_ZONE
+15201,Lambert Conic Conformal (2SP),Puerto Rico CS27,LambertConicConformal,PUERTO_RICO_CS27
+15230,Lambert Conic Conformal (2SP),Puerto Rico & Virgin Islands CS83,LambertConicConformal,PUERTO_RICO_&_VIRGIN_ISLANDS_CS83
+19944,Lambert Conic Conformal (2SP),Quebec Lambert Projection,LambertConicConformal,QUEBEC_LAMBERT_PROJECTION
+13901,Lambert Conic Conformal (2SP),South Carolina CS27 North zone,LambertConicConformal,SOUTH_CAROLINA_CS27_NORTH_ZONE
+13902,Lambert Conic Conformal (2SP),South Carolina CS27 South zone,LambertConicConformal,SOUTH_CAROLINA_CS27_SOUTH_ZONE
+13930,Lambert Conic Conformal (2SP),South Carolina CS83,LambertConicConformal,SOUTH_CAROLINA_CS83
+14001,Lambert Conic Conformal (2SP),South Dakota CS27 North zone,LambertConicConformal,SOUTH_DAKOTA_CS27_NORTH_ZONE
+14002,Lambert Conic Conformal (2SP),South Dakota CS27 South zone,LambertConicConformal,SOUTH_DAKOTA_CS27_SOUTH_ZONE
+14031,Lambert Conic Conformal (2SP),South Dakota CS83 North zone,LambertConicConformal,SOUTH_DAKOTA_CS83_NORTH_ZONE
+14032,Lambert Conic Conformal (2SP),South Dakota CS83 South zone,LambertConicConformal,SOUTH_DAKOTA_CS83_SOUTH_ZONE
+15202,Lambert Conic Conformal (2SP),St. Croix CS27,LambertConicConformal,ST._CROIX_CS27
+14100,Lambert Conic Conformal (2SP),Tennessee CS27,LambertConicConformal,TENNESSEE_CS27
+14130,Lambert Conic Conformal (2SP),Tennessee CS83,LambertConicConformal,TENNESSEE_CS83
+14203,Lambert Conic Conformal (2SP),Texas CS27 Central zone,LambertConicConformal,TEXAS_CS27_CENTRAL_ZONE
+14202,Lambert Conic Conformal (2SP),Texas CS27 North Central zone,LambertConicConformal,TEXAS_CS27_NORTH_CENTRAL_ZONE
+14201,Lambert Conic Conformal (2SP),Texas CS27 North zone,LambertConicConformal,TEXAS_CS27_NORTH_ZONE
+14204,Lambert Conic Conformal (2SP),Texas CS27 South Central zone,LambertConicConformal,TEXAS_CS27_SOUTH_CENTRAL_ZONE
+14205,Lambert Conic Conformal (2SP),Texas CS27 South zone,LambertConicConformal,TEXAS_CS27_SOUTH_ZONE
+14233,Lambert Conic Conformal (2SP),Texas CS83 Central zone,LambertConicConformal,TEXAS_CS83_CENTRAL_ZONE
+14232,Lambert Conic Conformal (2SP),Texas CS83 North Central zone,LambertConicConformal,TEXAS_CS83_NORTH_CENTRAL_ZONE
+14231,Lambert Conic Conformal (2SP),Texas CS83 North zone,LambertConicConformal,TEXAS_CS83_NORTH_ZONE
+14234,Lambert Conic Conformal (2SP),Texas CS83 South Central zone,LambertConicConformal,TEXAS_CS83_SOUTH_CENTRAL_ZONE
+14235,Lambert Conic Conformal (2SP),Texas CS83 South zone,LambertConicConformal,TEXAS_CS83_SOUTH_ZONE
+14302,Lambert Conic Conformal (2SP),Utah CS27 Central zone,LambertConicConformal,UTAH_CS27_CENTRAL_ZONE
+14301,Lambert Conic Conformal (2SP),Utah CS27 North zone,LambertConicConformal,UTAH_CS27_NORTH_ZONE
+14303,Lambert Conic Conformal (2SP),Utah CS27 South zone,LambertConicConformal,UTAH_CS27_SOUTH_ZONE
+14332,Lambert Conic Conformal (2SP),Utah CS83 Central zone,LambertConicConformal,UTAH_CS83_CENTRAL_ZONE
+14331,Lambert Conic Conformal (2SP),Utah CS83 North zone,LambertConicConformal,UTAH_CS83_NORTH_ZONE
+14333,Lambert Conic Conformal (2SP),Utah CS83 South zone,LambertConicConformal,UTAH_CS83_SOUTH_ZONE
+14501,Lambert Conic Conformal (2SP),Virginia CS27 North zone,LambertConicConformal,VIRGINIA_CS27_NORTH_ZONE
+14502,Lambert Conic Conformal (2SP),Virginia CS27 South zone,LambertConicConformal,VIRGINIA_CS27_SOUTH_ZONE
+14531,Lambert Conic Conformal (2SP),Virginia CS83 North zone,LambertConicConformal,VIRGINIA_CS83_NORTH_ZONE
+14532,Lambert Conic Conformal (2SP),Virginia CS83 South zone,LambertConicConformal,VIRGINIA_CS83_SOUTH_ZONE
+14601,Lambert Conic Conformal (2SP),Washington CS27 North zone,LambertConicConformal,WASHINGTON_CS27_NORTH_ZONE
+14602,Lambert Conic Conformal (2SP),Washington CS27 South zone,LambertConicConformal,WASHINGTON_CS27_SOUTH_ZONE
+14631,Lambert Conic Conformal (2SP),Washington CS83 North zone,LambertConicConformal,WASHINGTON_CS83_NORTH_ZONE
+14632,Lambert Conic Conformal (2SP),Washington CS83 South zone,LambertConicConformal,WASHINGTON_CS83_SOUTH_ZONE
+14701,Lambert Conic Conformal (2SP),West Virginia CS27 North zone,LambertConicConformal,WEST_VIRGINIA_CS27_NORTH_ZONE
+14702,Lambert Conic Conformal (2SP),West Virginia CS27 South zone,LambertConicConformal,WEST_VIRGINIA_CS27_SOUTH_ZONE
+14731,Lambert Conic Conformal (2SP),West Virginia CS83 North zone,LambertConicConformal,WEST_VIRGINIA_CS83_NORTH_ZONE
+14732,Lambert Conic Conformal (2SP),West Virginia CS83 South zone,LambertConicConformal,WEST_VIRGINIA_CS83_SOUTH_ZONE
+14802,Lambert Conic Conformal (2SP),Wisconsin CS27 Central zone,LambertConicConformal,WISCONSIN_CS27_CENTRAL_ZONE
+14801,Lambert Conic Conformal (2SP),Wisconsin CS27 North zone,LambertConicConformal,WISCONSIN_CS27_NORTH_ZONE
+14803,Lambert Conic Conformal (2SP),Wisconsin CS27 South zone,LambertConicConformal,WISCONSIN_CS27_SOUTH_ZONE
+14832,Lambert Conic Conformal (2SP),Wisconsin CS83 Central zone,LambertConicConformal,WISCONSIN_CS83_CENTRAL_ZONE
+14831,Lambert Conic Conformal (2SP),Wisconsin CS83 North zone,LambertConicConformal,WISCONSIN_CS83_NORTH_ZONE
+14833,Lambert Conic Conformal (2SP),Wisconsin CS83 South zone,LambertConicConformal,WISCONSIN_CS83_SOUTH_ZONE
+2154,Lambert Conic Conformal (2SP),RGF93_Lambert93,LambertConicConformal,RGF93_Lambert93
+3942,Lambert Conic Conformal (2SP),RGF93_CC42,LambertConicConformal,RGF93_CC42
+3943,Lambert Conic Conformal (2SP),RGF93_CC43,LambertConicConformal,RGF93_CC43
+3944,Lambert Conic Conformal (2SP),RGF93_CC44,LambertConicConformal,RGF93_CC44
+3945,Lambert Conic Conformal (2SP),RGF93_CC45,LambertConicConformal,RGF93_CC45
+3946,Lambert Conic Conformal (2SP),RGF93_CC46,LambertConicConformal,RGF93_CC46
+3947,Lambert Conic Conformal (2SP),RGF93_CC47,LambertConicConformal,RGF93_CC47
+3948,Lambert Conic Conformal (2SP),RGF93_CC48,LambertConicConformal,RGF93_CC48
+3949,Lambert Conic Conformal (2SP),RGF93_CC49,LambertConicConformal,RGF93_CC49
+3950,Lambert Conic Conformal (2SP),RGF93_CC50,LambertConicConformal,RGF93_CC50
+Unknown,Unknown,Unknown,Local,LOCAL1
+Unknown,Unknown,Unknown,Local,LOCAL4
+Unknown,Unknown,Unknown,Mercator,MERAUS
+Unknown,Unknown,Unknown,Mercator,MERC_AFRICA
+Unknown,Unknown,Libya lat origin 28,Mercator,MERGPX
+Unknown,Unknown,Unknown,Mercator,MERSMF
+Unknown,Unknown,Unknown,Mercator,MR1630N
+Unknown,Unknown,Unknown,Mercator,MR21N
+Unknown,Unknown,Unknown,Mercator,MR36N
+Unknown,Unknown,Unknown,Mercator,MR38N
+Unknown,Unknown,Unknown,Mercator,MR43N
+Unknown,Unknown,Unknown,Mercator,MR65N
+Unknown,Unknown,Unknown,Mercator,MR7S
+Unknown,Unknown,Unknown,Mercator,MRAFRICA
+Unknown,Unknown,Unknown,Mercator,MRANS
+Unknown,Unknown,Unknown,Mercator,MRBLACKS
+Unknown,Unknown,Unknown,Mercator,MRCAMER
+Unknown,Unknown,Unknown,Mercator,MRCARIB
+Unknown,Unknown,Unknown,Mercator,MRCONGO
+Unknown,Unknown,Unknown,Mercator,MREV
+Unknown,Unknown,Unknown,Mercator,MRGOM
+Unknown,Unknown,Unknown,Mercator,MRINDO
+Unknown,Unknown,Unknown,Mercator,MRINDON
+Unknown,Unknown,Unknown,Mercator,MRLCC
+Unknown,Unknown,Unknown,Mercator,MRMALAY
+Unknown,Unknown,Unknown,Mercator,MRNAM
+Unknown,Unknown,Unknown,Mercator,MRNEIEZ
+Unknown,Unknown,Unknown,Mercator,MRNEWFND
+Unknown,Unknown,Unknown,Mercator,MRNSEA
+Unknown,Unknown,Unknown,Mercator,MRNWL10D
+Unknown,Unknown,Unknown,Mercator,MRVENZ
+Unknown,Unknown,Unknown,Mercator,MRVIET
+Unknown,Unknown,Unknown,Mercator,MRWORLD
+Unknown,Unknown,Unknown,Mercator,MRWORLD1
+Unknown,Unknown,Unknown,Mercator,MRWORLD2
+Unknown,Unknown,Unknown,Mercator,MRWSOUTH
+19905,Mercator (1SP),Netherlands East Indies Equatorial Zone,Mercator,NETHERLANDS_EAST_INDIES_EQUATORIAL_ZONE
+Unknown,Unknown,Unknown,ModifiedPolyconic,MPCALIF
+Unknown,Unknown,Modified Polyconic for Australia,ModifiedPolyconic,MPOLAUS
+Unknown,Unknown,Mollweide Global,Mollweide,MOLLWEIDE
+Unknown,Unknown,Unknown,PolarStereographic,POLAR_STEREO
+Unknown,Unknown,Unknown,PolarStereographic,STEREO_EQUATORIAL
+Unknown,Unknown,Unknown,PolarStereographic,STEREO_OBLIQUE
+Unknown,Unknown,Unknown,PolarStereographic,STEREO_POLAR
+Unknown,Unknown,Unknown,Polyconic,POLAUS
+Unknown,Unknown,Unknown,Polyconic,RPBRAZIL
+Unknown,Unknown,Unknown,Polyconic,RPMON
+Unknown,Unknown,Unknown,Polyconic,RPNAM
+Unknown,Unknown,Unknown,Polyconic,RPSIB
+Unknown,Unknown,Unknown,Polyconic,RPUSSR
+Unknown,Unknown,Unknown,RAW,RAW
+Unknown,Unknown,Unknown,SimpleConic,CE42BUL
+Unknown,Unknown,Unknown,SimpleConic,CEAUST
+Unknown,Unknown,Unknown,SimpleConic,CEBLACK
+Unknown,Unknown,Unknown,SimpleConic,CECARP1
+Unknown,Unknown,Unknown,SimpleConic,CECASP
+Unknown,Unknown,Unknown,SimpleConic,CECASPAN
+Unknown,Unknown,Unknown,SimpleConic,CECISWMC
+Unknown,Unknown,Unknown,SimpleConic,CEEUR1
+Unknown,Unknown,Unknown,SimpleConic,CEEUROPE
+Unknown,Unknown,Unknown,SimpleConic,CERUSS
+Unknown,Unknown,Unknown,SimpleConic,CERUSS1
+Unknown,Unknown,Unknown,SimpleConic,CERUSS2
+Unknown,Unknown,Unknown,SimpleConic,CEWAFRIC
+Unknown,Unknown,Unknown,SimpleConic,CEYUGO
+Unknown,Unknown,Unknown,SimpleConic,RUSSIA
+Unknown,Unknown,Unknown,SimpleConic,SIMCON_AUS
+Unknown,Unknown,Unknown,SimpleConic,SIMCON_AUS_NT
+Unknown,Unknown,Unknown,SimpleConic,SIMCON_CIS
+Unknown,Unknown,Unknown,Sinusoidal,LAVINIA
+Unknown,Unknown,Unknown,Sinusoidal,SNSPHERE
+Unknown,Unknown,Unknown,Sinusoidal,VENRAD1
+Unknown,Unknown,Unknown,Sinusoidal,VENRAD2
+Unknown,Unknown,Unknown,Sinusoidal,VGTDRSIN
+Unknown,Unknown,Unknown,Stereographic,OSASIA
+Unknown,Unknown,Unknown,Stereographic,OSNAMER
+Unknown,Unknown,Unknown,Stereographic,OSSYRIA
+Unknown,Unknown,Unknown,Stereographic,PSCANADA
+Unknown,Unknown,Unknown,Stereographic,PSFALK
+Unknown,Unknown,Unknown,Stereographic,PSGREEN
+Unknown,Unknown,Unknown,Stereographic,PSN150W
+Unknown,Unknown,Unknown,Stereographic,PSNORTH
+Unknown,Unknown,Unknown,Stereographic,PSNORWAY
+Unknown,Unknown,Unknown,Stereographic,PSNTH000
+Unknown,Unknown,Unknown,Stereographic,PSNTH045
+Unknown,Unknown,Unknown,Stereographic,PSNTH180
+Unknown,Unknown,Unknown,Stereographic,PSSOUTH
+Unknown,Unknown,Unknown,Stereographic,PSSTH60W
+Unknown,Unknown,Unknown,Stereographic,PSSTH120E
+Unknown,Unknown,Unknown,Stereographic,PS_WGS84
+Unknown,Unknown,Unknown,TransverseMercatorSphere,TMS
+Unknown,Unknown,Unknown,VanDerGrinten,VANDG_AUS
+Unknown,Unknown,Unknown,VanDerGrinten,VANDG_RUSSIA
+Unknown,Unknown,Unknown,VanDerGrinten,VG30E
+Unknown,Unknown,Unknown,VanDerGrinten,VG30W
+Unknown,Unknown,Unknown,VanDerGrinten,VG60E
+Unknown,Unknown,Unknown,VanDerGrinten,VG60W
+Unknown,Unknown,Unknown,VanDerGrinten,VG90E
+Unknown,Unknown,Unknown,VanDerGrinten,VG90EAST
+Unknown,Unknown,Unknown,VanDerGrinten,VG90W
+Unknown,Unknown,Unknown,VanDerGrinten,VG90WEST
+Unknown,Unknown,Unknown,VanDerGrinten,VG120E
+Unknown,Unknown,Unknown,VanDerGrinten,VG120W
+Unknown,Unknown,Unknown,VanDerGrinten,VG150E
+Unknown,Unknown,Unknown,VanDerGrinten,VG150W
+Unknown,Unknown,Unknown,VanDerGrinten,VG180E
+Unknown,Unknown,Unknown,VanDerGrinten,VGSPHERE
+Unknown,Unknown,Unknown,VanDerGrinten,VGWORLD

@@ -1,0 +1,16 @@
+Datum Begin
+	DatumName=BELG50
+	Description="BELGIUM 1950 "
+	MeridID=1 
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 3/5/84. USED FOR BELGIAN TOPOGRAPHICMAPPING. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356911.946128
+	Major=6378388.0 
+Datum End

@@ -1,0 +1,18 @@
+Datum Begin
+    DatumName=SPHERE_CLARKE1880
+    OriginLatitude=0.0 
+    OriginLongitude=0.0 
+    OriginHeight=0.0 
+    Minor=6378249.145 
+    Major=6378249.145
+    DatumChange Begin
+        ToDatum = BOGOTA
+        DX  = -307.000023
+        DY  = -304.000008
+        DZ  = 318.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End 
+Datum End

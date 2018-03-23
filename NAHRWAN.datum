@@ -1,0 +1,26 @@
+Datum Begin
+	DatumName=NAHRWAN
+	Description="NAHRWAN 1967 "
+	MeridID=1 
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="SD 15/11/82. USED IN SOME AREAS OF GULF STATES. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356514.869550
+	Major=6378249.145 
+	DatumChange Begin
+		ToDatum=EDMCE75
+		DX=-103.000002
+		DY=3.000000
+		DZ=561.000000
+		OMEGA=0.000000
+		PHI=0.000000
+		KAPPA=0.000000
+		SCALEDIFF=0.000000
+	DatumChange End
+Datum End

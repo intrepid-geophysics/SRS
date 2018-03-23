@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= ST_LAWRENCE_ISLAND
+	POSCName	= "St. Lawrence Island"
+	POSCCode	= 6136
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1866"
+	Major	= 6378206.4
+	Minor	= 6356583.8
+Datum End

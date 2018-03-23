@@ -1,0 +1,8 @@
+#Converted from feet to metres
+Ellipsoid Begin
+	Name=CLA66AFT
+	POSCName="Unknown"
+	Description="CLARKE 1866 "
+	Major=6378193.64237  
+	Flattening=294.9786982 
+Ellipsoid End

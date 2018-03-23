@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_BESSEL_NAMIBIA_ELLIPSOID
+	POSCName	= "Not specified (based on Bessel Namibia ellipsoid)"
+	POSCCode	= 6006
+	Description	= "Generated"
+	Ellipsoid	= "Bessel Namibia"
+	Major	= 6377483.865
+	Minor	= 6356165.382966
+Datum End

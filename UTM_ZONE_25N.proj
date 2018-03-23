@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= UTM_ZONE_25N
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -33
+	LatOrigin	= 0
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9996
+	POSCCode	= 16025
+	POSCName	= "UTM zone 25N"
+	POSCMethod	= "Transverse Mercator"
+Projection End

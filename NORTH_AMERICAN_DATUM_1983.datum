@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NORTH_AMERICAN_DATUM_1983
+	POSCName	= "North American Datum 1983"
+	POSCCode	= 6269
+	Description	= "Generated"
+	Ellipsoid	= "GRS 1980"
+	Major	= 6378137
+	Minor	= 6356752.314140
+Datum End

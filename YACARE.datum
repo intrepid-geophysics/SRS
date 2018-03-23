@@ -1,0 +1,20 @@
+Datum Begin
+	DatumName	= YACARE
+	POSCName	= "Yacare"
+	POSCCode	= 6309
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+	DatumChange Begin
+	Comment = "Yacare to WGS84(1) is identical to SIRGAS-ROU98"
+		ToDatum = SIRGAS-ROU98
+		DX= -124.45
+		DY= 183.74
+		DZ= 44.64
+		OMEGA= -0.4384
+		PHI= 0.5446
+		KAPPA= -0.9706
+		SCALEDIFF = -2.1365
+	DatumChange End
+Datum End

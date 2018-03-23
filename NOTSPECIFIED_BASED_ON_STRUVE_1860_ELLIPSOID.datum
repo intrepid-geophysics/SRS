@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_STRUVE_1860_ELLIPSOID
+	POSCName	= "Not specified (based on Struve 1860 ellipsoid)"
+	POSCCode	= 6028
+	Description	= "Generated"
+	Ellipsoid	= "Struve 1860"
+	Major	= 6378298.3
+	Minor	= 6356657.142670
+Datum End

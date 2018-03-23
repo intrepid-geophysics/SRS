@@ -1,0 +1,9 @@
+Ellipsoid Begin
+	Name	= SPHERE
+	POSCName	= "Sphere"
+	Description	= "Generated"
+	Major	= 6371000
+	Flattening	= 1.0
+	POSCCode	= "7035"
+	Minor	= 6371000
+Ellipsoid End

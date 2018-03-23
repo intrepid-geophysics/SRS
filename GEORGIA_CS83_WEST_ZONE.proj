@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= GEORGIA_CS83_WEST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -84.1
+	LatOrigin	= 30
+	FalseEasting	= 700000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 11032
+	POSCName	= "Georgia CS83 West zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

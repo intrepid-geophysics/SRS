@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= MARYLAND_CS83
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 39.27
+	StdLat2	= 38.18
+	POSCCode	= 11930
+	POSCName	= "Maryland CS83"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

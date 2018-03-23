@@ -1,0 +1,532 @@
+Datum Begin
+    DatumName   = WGS84
+    Minor   = 6356752.314248
+    Major   = 6378137
+    DatumChange Begin
+	# BRGM ENTRY
+        ToDatum = NTF
+        DX  = 168
+        DY  = 60
+        DZ  = -320
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+	# DUMMY ENTRY
+        ToDatum = CLRK1866
+        DX  = 0
+        DY  = 0
+        DZ  = 0
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+	# DUMMY ENTRY
+        ToDatum = CLARKE_1866
+        DX  = 0
+        DY  = 0
+        DZ  = 0
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+	# RS via http://ocean.csl.co.uk on google search for "TM65 to WGS84 datum conversion"
+        ToDatum = TM65
+        DX  = -482.5
+        DY  = 130.6
+        DZ  = -564.6
+        OMEGA   = 1.042
+        PHI = 0.214
+        KAPPA   = 0.631
+        SCALEDIFF   = -8.15
+    DatumChange End
+    DatumChange Begin
+	# RS via http://ocean.csl.co.uk on google search for "TM75 to WGS84 datum conversion"
+        ToDatum = TM75
+        DX  = -482.5
+        DY  = 130.6
+        DZ  = -564.6
+        OMEGA = 1.042
+        PHI = 0.214
+        KAPPA = 0.631
+        SCALEDIFF = -8.15
+    DatumChange End
+    DatumChange Begin
+        # There are 7 WGS84 to ADINDAN transforms (Ref: NIMA) 
+        # This one appears closest to Ethiopia
+        ToDatum = ADINDAN
+        DX  = 162.000004
+        DY  = 12.000001
+        DZ  = -206.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum =  AINELABD
+        DX  = 143.00000
+        DY  = 236.00000
+        DZ  = 7.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = AGD66
+        DX  = 129.666000
+        DY  = 56.678000
+        DZ  = -150.077000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = AGD84
+        DX  = 116.000000
+        DY  = 50.470000
+        DZ  = -141.690000
+        OMEGA   = 0.230000
+        PHI = 0.390000
+        KAPPA   = 0.344000
+        SCALEDIFF   = -0.098300
+    DatumChange End
+    DatumChange Begin
+        ToDatum = ARC1950
+        DX  = 143.000004
+        DY  = 90.000002
+        DZ  = 294.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = ARC1960
+        DX  = 160.000004
+        DY  = 8.000000
+        DZ  = 300.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = BOGOTA
+        DX  = -307.000023
+        DY  = -304.000008
+        DZ  = 318.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        # Ref: NIMA, 2000
+        ToDatum = CAMPO_INCHAUSPE
+        DX  = 148.0
+        DY  = -136.0
+        DZ  = -90.0
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+	# From SA Council for Geoscience
+        ToDatum = CAPE
+        DX  = 136
+        DY  = 108
+        DZ  = 292
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = ELD79SSL
+        DX  = 69.060000
+        DY  = 90.71
+        DZ  = 142.56
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = ELD79
+        DX  = 69.060000
+        DY  = 90.71
+        DZ  = 142.56
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = FINKKJ
+	DX = 89.611 
+	DY= 104.626 
+	DZ = 118.241 
+	OMEGA = 4.224 
+	PHI = 0.248 
+	KAPPA = -0.852 
+        SCALEDIFF   = -0.098300
+    DatumChange End
+    DatumChange Begin
+        ToDatum = GEM6
+        DX  = 0.000000
+        DY  = 0.000000
+        DZ  = 0.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = INDIAN60
+        DX  = -298.960000
+        DY  = -750.020000
+        DZ  = -249.840000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        # NAD27_NAS-C United States Mean Solution (CONUS)
+        ToDatum = NAD27
+        DX  = 8.000000
+        DY  = -160.000000
+        DZ  = -176.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        # NAD27_NAS-E Canada Mean Solution (including Newfoundland)
+        ToDatum	= NAD27_NAS-E
+        DX	= 10.000000
+        DY	= -158.000000
+        DZ	= -187.000000
+        OMEGA	= 0.000000
+        PHI	= 0.000000
+        KAPPA	= 0.000000
+        SCALEDIFF	= 0.000000
+    DatumChange End
+    DatumChange Begin
+        # NAD27_NAS-F (Alberta and British Columbia)
+        ToDatum = NAD27_NAS-F
+        DX  = 7.000000
+        DY  = -162.000000
+        DZ  = -188.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = NAD27_NAS-N (Central America)
+        DX  = 0.000000
+        DY  = -125.000000
+        DZ  = -194.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = NAD83
+        DX  = 0.000000
+        DY  = 0.000000
+        DZ  = 0.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = NORD_SAHARA_1959
+        DX  = 186.000000
+        DY  = 93.000000
+        DZ  = -310.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = NWL9D
+        DX  = 0.000000
+        DY  = 0.000000
+        DZ  = -4.500000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = -0.000004
+        SCALEDIFF   = 0.600000
+    DatumChange End
+    DatumChange Begin
+		Comment = "New Zealand Geodetic Datum 2000"
+        ToDatum = NZGD2000
+        DX  = 0.000000
+        DY  = 0.000000
+        DZ  = 0.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+	# Declan ENTRY
+        ToDatum = M_PORALOKO
+        DX  = 80.69
+        DY  = 132.49
+        DZ  = -41.140
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = PULKOVO1942
+        DX  = 24.000000
+        DY  = -130.000000
+        DZ  = -92.00000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = -0.00000
+        SCALEDIFF   = 0.00000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = PULKOVO_1942
+        DX  = 24.000000
+        DY  = -130.000000
+        DZ  = -92.00000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = -0.00000
+        SCALEDIFF   = 0.00000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = GDA94
+        DX  = 0.000000
+        DY  = 0.000000
+        DZ  = 0.0000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.0000
+        SCALEDIFF   = 0.00000
+    DatumChange End
+    DatumChange Begin
+        Comment = "From Namibian Geo Survey (C.Merry UCT)"
+        ToDatum = SCHWARZECK
+        DX  = -616.80
+        DY  = -103.30
+        DZ  = 256.90
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        Comment = "From Namibian Geo Survey (C.Merry UCT) - Rainer's Datum name"
+        ToDatum = NAMIBIA
+        DX  = -616.80
+        DY  = -103.30
+        DZ  = 256.90
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        Comment = "GETECH compilations"
+        ToDatum = SPHERE_CLARKE1880
+        DX  = 0.000000
+        DY  = 0.000000
+        DZ  = 0.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+	# DUMMY ENTRY
+        ToDatum = CLARKE1880
+        DX  = 0
+        DY  = 0
+        DZ  = 0
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        ToDatum = Lisbon
+        DX  = 0.000000
+        DY  = 0.000000
+        DZ  = 0.0000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.0000
+        SCALEDIFF   = 0.00000
+	DatumChange End
+    DatumChange Begin
+        Comment = "Version 27 for Balearics - EPSG 1631"
+        ToDatum = ED50
+        DX  = 181.5
+        DY  = 90.3
+        DZ  = 187.2
+        OMEGA   = -0.144
+        PHI     = -0.492
+        KAPPA   =  0.394
+        SCALEDIFF   = -17.57
+    DatumChange End 
+    DatumChange Begin
+        Comment = "EPSG Transformation 1614"
+        ToDatum = SIERRA_LEONE1968
+        DX  = 88.0
+        DY  =  -4.0
+        DZ  =  -101.0
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End 
+	DatumChange Begin
+        ToDatum = ETRF89
+		DX= 92
+		DY= -3.5
+		DZ= 64.1 
+		OMEGA= -0.144
+		PHI= -0.492
+		KAPPA= 0.238
+		SCALEDIFF = -16.37
+	DatumChange End
+	DatumChange Begin
+	Comment = "Brazil national datum"
+        ToDatum = SAD69
+		DX= 66.87  
+		DY= -4.37
+		DZ= 38.52 
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+	DatumChange Begin
+	Comment = "Brazil national datum 1996"
+        ToDatum = SAD69(96)
+		DX= 67.35  
+		DY= -3.88
+		DZ= 38.22 
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+	DatumChange Begin
+	Comment = "International 1924 datum"
+        ToDatum = INT24
+		DX= -175
+		DY= 38
+		DZ= -113
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+	DatumChange Begin
+	Comment = "Merchich"
+        ToDatum = MERCHICH
+		DX= -31
+		DY= -146
+		DZ= -47
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+	DatumChange Begin
+		Comment = "New Zealand Geodetic Datum 1949"
+# Accuracy 0.2m for these transform values	EPSG	 WGS84 (3)
+		ToDatum = NZGD49
+#		DistortionGrid = "nzgd2kgrid9911.asc"
+#		DistortionReverse = yes
+		DX= -59.47
+		DY= 5.04
+		DZ= -187.44
+    OMEGA= 0.47
+    PHI= -0.10
+    KAPPA= 1.024
+    SCALEDIFF= 4.5993
+# Accuracy 5m for these transform values	EPSG	 WGS84 (4)
+#		DX= -54.4
+#		DY= 20.1
+#		DZ= -183.1
+#    OMEGA   = 0
+#    PHI = 0
+#    KAPPA   = 0
+#    SCALEDIFF   = 0
+	DatumChange End
+	DatumChange Begin
+	Comment = "WGS84(1) is identical to SIRGAS-ROU98"
+		ToDatum = SIRGAS-ROU98
+		DX= 0
+		DY= 0
+		DZ= 0
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+	DatumChange Begin
+	Comment = "WGS84(1)"
+        ToDatum = IRENET95
+		DX= 0
+		DY= 0
+		DZ= 0
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+	DatumChange Begin
+	Comment = "WGS 84"
+        ToDatum = HTRS96
+		DX= 0
+		DY= 0
+		DZ= 0
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+	DatumChange Begin
+	Comment = "WGS 84"
+        ToDatum = Beijing_1954
+		DX= -15.53
+		DY= 113.82
+		DZ= 41.38
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= -0.814
+		SCALEDIFF = 0.38
+	DatumChange End
+    POSCName    = "World Geodetic System 1984"
+    POSCCode    = 6326
+    Description = "Generated"
+    Ellipsoid Begin
+        POSCCode    = "7030"
+        POSCName    = "WGS 84"
+    Ellipsoid End
+Datum End

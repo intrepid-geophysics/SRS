@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_GRS_1980_ELLIPSOID
+	POSCName	= "Not specified (based on GRS 1980 ellipsoid)"
+	POSCCode	= 6019
+	Description	= "Generated"
+	Ellipsoid	= "GRS 1980"
+	Major	= 6378137
+	Minor	= 6356752.314140
+Datum End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= HD72
+	POSCName	= "Hungarian Datum 1972"
+	POSCCode	= 6237
+	Description	= "Generated"
+	Ellipsoid	= "GRS 1967"
+	Major	= 6378160
+	Minor	= 6356774.516089
+Datum End

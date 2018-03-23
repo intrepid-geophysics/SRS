@@ -1,0 +1,23 @@
+Datum Begin
+	DatumName	= JAD69
+	Description	= "Generated"
+	MeridID	= 1
+	OriginName	= "FORT CHARLES F/STAFF"
+	OriginLatitude	= 17.9321667
+	OriginLongitude	= -76.9436833
+	OriginHeight	= 0.0
+	AngleID	= 1
+	HeigthID	= 1
+	UseAreaID	= 1
+	Source	= "RJL 8/4/83 REF: S.D. JAMAICA "
+	Visibility	= SURVEY
+	Release	= PUBLIC
+	Minor	= 6356583.8
+	Major	= 6378206.4
+	POSCName	= "Jamaica 1969"
+	POSCCode	= 6242
+	Ellipsoid Begin
+		POSCCode	= "7008"
+		POSCName	= "Clarke 1866"
+	Ellipsoid End
+Datum End

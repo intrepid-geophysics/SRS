@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= Croatia_TM
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 0
+	LatOrigin	= 16.5
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 19851
+	POSCName	= "Croatia Transverse Mercator"
+	POSCMethod	= "Transverse Mercator"
+Projection End

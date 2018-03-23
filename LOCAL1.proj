@@ -1,0 +1,37 @@
+#
+# Example Local Projection definition file (LOCAL1.proj)
+#
+# Rules for defining a Local Projection file:
+# The local projection definition file must begin with the word Local and end with an integer 
+# eg: (Local1.proj)
+# The LocalZone statement in the file must be LocalZone=1
+# The rotation angle (FPAngle) in Local1.proj should be positive and in degrees minutes seconds
+# ie; ddd:mm:ss.sss. Decimal degrees do not work.
+# The file must be copied to the Intrepid /proj directory.
+# The following line needs to be added into the proj.csv file in the Intrepid /proj directory:
+# Unknown,Unknown,Unknown,Local,LOCAL1
+#
+#
+# Definition of Local Projection file parameters:
+#
+# LocalZone is a unique identifier.
+# FixedPointX, Y are known world coordinates of a reference point, in an
+#   existing defined projection.
+# FPProjection is the existing defined projection of FixedPointX, Y.
+# FPXoffset, FPYoffset is the offset of the local origin (ie; X=0, Y=0) 
+#   from FixedPointX, Y.
+# FPAngle is the angle between North in the existing defined
+#   Projection and North in the local coordinate system.
+#
+Projection Begin
+	ProjectionType=Local
+	LocalZone=1
+	Comment="Derived from plot X"
+ 	FixedPointX=498029.00
+ 	FixedPointY=6395731.00
+ 	FPProjection=TMAMG53
+	FPXoffset=934.80
+	FPYoffset=1565.00
+ 	FPAngle=45:0:4.59289944
+	LocalScale=1
+Projection End

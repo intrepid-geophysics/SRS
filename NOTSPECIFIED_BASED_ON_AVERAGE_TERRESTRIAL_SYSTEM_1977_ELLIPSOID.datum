@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_AVERAGE_TERRESTRIAL_SYSTEM_1977_ELLIPSOID
+	POSCName	= "Not specified (based on Average Terrestrial System 1977 ellipsoid)"
+	POSCCode	= 6041
+	Description	= "Generated"
+	Ellipsoid	= "Average Terrestrial System 1977"
+	Major	= 6378135
+	Minor	= 6356750.304922
+Datum End

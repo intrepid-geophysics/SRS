@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= BESSMOD
+	POSCName	= "Bessel Modified"
+	Description	= "Generated"
+	Major	= 6377492.018
+	Flattening	= 299.1528128
+	POSCCode	= "7005"
+Ellipsoid End

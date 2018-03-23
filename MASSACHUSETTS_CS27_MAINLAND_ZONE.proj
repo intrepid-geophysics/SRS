@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= MASSACHUSETTS_CS27_MAINLAND_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 41.43
+	StdLat2	= 42.41
+	POSCCode	= 12001
+	POSCName	= "Massachusetts CS27 Mainland zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

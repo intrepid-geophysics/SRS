@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= AIRY
+	POSCName	= "Airy 1830"
+	Description	= "Generated"
+	Major	= 6377563.396
+	Flattening	= 299.3249646
+	POSCCode	= "7001"
+Ellipsoid End

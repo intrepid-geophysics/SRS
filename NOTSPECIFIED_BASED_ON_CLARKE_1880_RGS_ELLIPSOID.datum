@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_CLARKE_1880_RGS_ELLIPSOID
+	POSCName	= "Not specified (based on Clarke 1880 (RGS) ellipsoid)"
+	POSCCode	= 6012
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (RGS)"
+	Major	= 6378249.145
+	Minor	= 6356514.869550
+Datum End

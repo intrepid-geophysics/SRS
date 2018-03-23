@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= KOREA_CENTRAL_BELT
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 127
+	LatOrigin	= 38
+	FalseEasting	= 200000
+	FalseNorthing	= 500000
+	ScaleFactor	= 1
+	POSCCode	= 18252
+	POSCName	= "Korea Central Belt"
+	POSCMethod	= "Transverse Mercator"
+Projection End

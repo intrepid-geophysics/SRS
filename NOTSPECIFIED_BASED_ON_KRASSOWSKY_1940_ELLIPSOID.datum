@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_KRASSOWSKY_1940_ELLIPSOID
+	POSCName	= "Not specified (based on Krassowsky 1940 ellipsoid)"
+	POSCCode	= 6024
+	Description	= "Generated"
+	Ellipsoid	= "Krassowsky 1940"
+	Major	= 6378245
+	Minor	= 6356863.018773
+Datum End

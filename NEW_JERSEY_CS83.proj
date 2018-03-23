@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= NEW_JERSEY_CS83
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -74.3
+	LatOrigin	= 38.5
+	FalseEasting	= 150000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 12930
+	POSCName	= "New Jersey CS83"
+	POSCMethod	= "Transverse Mercator"
+Projection End

@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= WYOMING_CS27_EAST_CENTRAL_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -107.2
+	LatOrigin	= 40.4
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999941177
+	POSCCode	= 14902
+	POSCName	= "Wyoming CS27 East Central zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

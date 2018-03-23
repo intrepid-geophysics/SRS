@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= ITALY_ZONE_1
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 9
+	LatOrigin	= 0
+	FalseEasting	= 1500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9996
+	POSCCode	= 18121
+	POSCName	= "Italy zone 1"
+	POSCMethod	= "Transverse Mercator"
+Projection End

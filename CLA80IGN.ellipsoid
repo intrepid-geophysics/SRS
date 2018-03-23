@@ -1,0 +1,9 @@
+Ellipsoid Begin
+	Name	= CLA80IGN
+	POSCName	= "Clarke 1880 (IGN)"
+	Description	= "Generated"
+	Major	= 6378249.2
+	Flattening	= 293.4660213
+	POSCCode	= "7011"
+	Minor	= 6356515
+Ellipsoid End

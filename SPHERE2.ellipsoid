@@ -1,0 +1,7 @@
+Ellipsoid Begin
+	Name=SPHERE2
+	POSCName="Unknown"
+	Description="SPHERE "
+	Major=6370997.0 
+	Flattening=1.0 
+Ellipsoid End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= DEALUL_PISCULUI_1933
+	POSCName	= "Dealul Piscului 1933"
+	POSCCode	= 6316
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+Datum End

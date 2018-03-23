@@ -1,0 +1,20 @@
+Datum Begin
+	DatumName	= SCHWARZECK
+	DatumChange Begin
+		Comment = "From Namibian Geo Survey (C.Merry UCT)"
+		ToDatum	= WGS84
+		DX	= 616.80
+		DY	= 103.30
+		DZ	= -256.90
+		OMEGA	= 0.000000
+		PHI	= 0.000000
+		KAPPA	= 0.000000
+		SCALEDIFF	= 0.000000
+	DatumChange End
+	POSCName	= "Schwarzeck"
+	POSCCode	= 6293
+	Description	= "Generated"
+	Ellipsoid	= "Bessel Namibia"
+	Major	= 6377483.865
+	Minor	= 6356165.382966
+Datum End

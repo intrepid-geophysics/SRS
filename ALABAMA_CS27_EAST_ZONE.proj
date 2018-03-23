@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= ALABAMA_CS27_EAST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -85.5
+	LatOrigin	= 30.3
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.99996
+	POSCCode	= 10101
+	POSCName	= "Alabama CS27 East zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

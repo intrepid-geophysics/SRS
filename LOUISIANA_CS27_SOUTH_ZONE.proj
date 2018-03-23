@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= LOUISIANA_CS27_SOUTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 29.18
+	StdLat2	= 30.42
+	POSCCode	= 11702
+	POSCName	= "Louisiana CS27 South zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

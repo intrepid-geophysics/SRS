@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= BRITISH_WEST_INDIES_GRID
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -62
+	LatOrigin	= 0
+	FalseEasting	= 400000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9995
+	POSCCode	= 19942
+	POSCName	= "British West Indies Grid"
+	POSCMethod	= "Transverse Mercator"
+Projection End

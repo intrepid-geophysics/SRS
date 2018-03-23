@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=RD
+	Description="RIJKDRIEHOEKSMETING "
+	MeridID=1 
+	OriginName="AMERSFOORT "
+	OriginLatitude=52.1561606 
+	OriginLongitude=5.3876328 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 22/3/83. USED ONSHORE NETHERLANDS. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356078.962818
+	Major=6377397.155 
+Datum End

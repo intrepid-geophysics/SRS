@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= ILLINOIS_CS83_WEST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -90.1
+	LatOrigin	= 36.4
+	FalseEasting	= 700000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999941177
+	POSCCode	= 11232
+	POSCName	= "Illinois CS83 West zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

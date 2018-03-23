@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= PULKOVO1942
+	POSCName	= "Pulkovo 1942"
+	POSCCode	= 6284
+	Description	= "Generated"
+	Ellipsoid	= "Krassowsky 1940"
+	Major	= 6378245
+	Minor	= 6356863.018773
+Datum End

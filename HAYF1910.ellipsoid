@@ -1,0 +1,7 @@
+Ellipsoid Begin
+	Name=HAYF1910
+	POSCName="Unknown"
+	Description="HAYFORD 1910 "
+	Major=6378388.0 
+	Flattening=296.9592625 
+Ellipsoid End

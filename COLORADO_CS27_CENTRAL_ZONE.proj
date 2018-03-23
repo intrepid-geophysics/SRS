@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= COLORADO_CS27_CENTRAL_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 39.45
+	StdLat2	= 38.27
+	POSCCode	= 10502
+	POSCName	= "Colorado CS27 Central zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= WISCONSIN_CS83_CENTRAL_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 45.3
+	StdLat2	= 44.15
+	POSCCode	= 14832
+	POSCName	= "Wisconsin CS83 Central zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= KALIANPUR1937
+	POSCName	= "Kalianpur 1937"
+	POSCCode	= 6144
+	Description	= "Generated"
+	Ellipsoid	= "Everest 1830 (1937 Adjustment)"
+	Major	= 6377276.345
+	Minor	= 6356075.413140
+Datum End

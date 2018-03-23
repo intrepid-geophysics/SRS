@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= KRAS1940
+	POSCName	= "Krassowsky 1940"
+	Description	= "Generated"
+	Major	= 6378245
+	Flattening	= 298.3
+	POSCCode	= "7024"
+Ellipsoid End

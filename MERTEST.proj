@@ -1,0 +1,8 @@
+Projection Begin
+	ProjectionType=Mercator
+	CentralMeridian=0
+	LatOrigin=0
+	FalseEasting=0
+	FalseNorthing=0
+	ScaleFactor=1
+Projection End

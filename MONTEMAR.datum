@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=MONTEMAR
+	Description="MONTE MARIO "
+	MeridID=1 
+	OriginName="MONTE MARIO "
+	OriginLatitude=41.9237528 
+	OriginLongitude=12.4523333 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 22/3/83. USED IN PARTS OF ITALY. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356911.946128
+	Major=6378388.0 
+Datum End

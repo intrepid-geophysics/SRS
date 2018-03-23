@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= QUEBEC_LAMBERT_PROJECTION
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 60
+	StdLat2	= 46
+	POSCCode	= 19944
+	POSCName	= "Quebec Lambert Projection"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

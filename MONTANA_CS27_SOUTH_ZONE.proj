@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= MONTANA_CS27_SOUTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 46.24
+	StdLat2	= 44.52
+	POSCCode	= 12503
+	POSCName	= "Montana CS27 South zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

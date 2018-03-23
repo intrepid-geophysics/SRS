@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= MINNESOTA_CS27_NORTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 47.02
+	StdLat2	= 48.38
+	POSCCode	= 12201
+	POSCName	= "Minnesota CS27 North zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

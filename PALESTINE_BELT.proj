@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= PALESTINE_BELT
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 35.124349
+	LatOrigin	= 31.4402749
+	FalseEasting	= 170251.555
+	FalseNorthing	= 1126867.909
+	ScaleFactor	= 1
+	POSCCode	= 18202
+	POSCName	= "Palestine Belt"
+	POSCMethod	= "Transverse Mercator"
+Projection End

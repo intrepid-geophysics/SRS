@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= GEM_10C
+	POSCName	= "GEM 10C"
+	POSCCode	= "7031"
+	Description	= "Generated"
+	Major	= 6378137
+	Flattening	= 298.2572236
+Ellipsoid End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_GEM_10C_ELLIPSOID
+	POSCName	= "Not specified (based on GEM 10C ellipsoid)"
+	POSCCode	= 6031
+	Description	= "Generated"
+	Ellipsoid	= "GEM 10C"
+	Major	= 6378137
+	Minor	= 6356752.314248
+Datum End

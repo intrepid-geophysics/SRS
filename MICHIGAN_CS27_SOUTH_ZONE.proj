@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= MICHIGAN_CS27_SOUTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 42.06
+	StdLat2	= 43.4
+	POSCCode	= 12113
+	POSCName	= "Michigan CS27 South zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

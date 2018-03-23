@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= MAP_GRID_OF_AUSTRALIA_ZONE_54
+	ProjectionType	= UniversalTransverseMercator
+	CentralMeridian	= 141
+	LatOrigin	= 0
+	FalseEasting	= 500000
+	FalseNorthing	= 10000000
+	ScaleFactor	= 0.9996
+	POSCCode	= 17354
+	POSCName	= "Map Grid of Australia zone 54"
+	POSCMethod	= "Transverse Mercator"
+Projection End

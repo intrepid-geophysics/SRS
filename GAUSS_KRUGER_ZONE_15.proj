@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= GAUSS_KRUGER_ZONE_15
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 87
+	LatOrigin	= 0
+	FalseEasting	= 15500000
+	FalseNorthing	= 0
+	ScaleFactor	= 1
+	POSCCode	= 16215
+	POSCName	= "Gauss-Kruger zone 15"
+	POSCMethod	= "Transverse Mercator"
+Projection End

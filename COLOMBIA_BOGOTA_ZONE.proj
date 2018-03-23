@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= COLOMBIA_BOGOTA_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -74.04513
+	LatOrigin	= 4.355657
+	FalseEasting	= 1000000
+	FalseNorthing	= 1000000
+	ScaleFactor	= 1
+	POSCCode	= 18052
+	POSCName	= "Colombia Bogota zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

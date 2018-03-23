@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= AUSTRIA_WEST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 28
+	LatOrigin	= 0
+	FalseEasting	= 0
+	FalseNorthing	= 0
+	ScaleFactor	= 1
+	POSCCode	= 18041
+	POSCName	= "Austria West Zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

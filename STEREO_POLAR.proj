@@ -1,0 +1,7 @@
+Projection Begin
+# south pole
+	ProjectionType=PolarStereographic
+	CentralLatitude = -90
+	CentralMeridian = -100
+	StdLat = -71
+Projection End

@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= AIRYMOD
+	POSCName	= "Airy Modified 1849"
+	Description	= "Generated"
+	Major	= 6377340.189
+	Flattening	= 299.3249646
+	POSCCode	= "7002"
+Ellipsoid End

@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= COLOMBIA_WEST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -77.04513
+	LatOrigin	= 4.355657
+	FalseEasting	= 1000000
+	FalseNorthing	= 1000000
+	ScaleFactor	= 1
+	POSCCode	= 18051
+	POSCName	= "Colombia West zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

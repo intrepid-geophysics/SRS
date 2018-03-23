@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= ALASKA_CS27_ZONE_4
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -150
+	LatOrigin	= 54
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 15004
+	POSCName	= "Alaska CS27 zone 4"
+	POSCMethod	= "Transverse Mercator"
+Projection End

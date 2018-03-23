@@ -1,0 +1,6 @@
+Projection Begin
+	ProjectionType=Polyconic
+	CentralMeridian=134
+	Datum=WGS84
+	LatOrigin = 34
+Projection End

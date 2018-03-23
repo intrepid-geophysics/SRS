@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= VERMONT_CS27
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -72.3
+	LatOrigin	= 42.3
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999964286
+	POSCCode	= 14400
+	POSCName	= "Vermont CS27"
+	POSCMethod	= "Transverse Mercator"
+Projection End

@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= IRISH_NATIONAL_GRID
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -8
+	LatOrigin	= 53.5
+	FalseEasting	= 200000
+	FalseNorthing	= 250000
+	ScaleFactor	= 1.000035
+	POSCCode	= 19908
+	POSCName	= "Irish National Grid"
+	POSCMethod	= "Transverse Mercator"
+Projection End

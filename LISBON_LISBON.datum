@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= LISBON_LISBON
+	POSCName	= "Lisbon (Lisbon)"
+	POSCCode	= 6803
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+Datum End

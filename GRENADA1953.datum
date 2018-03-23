@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= GRENADA1953
+	POSCName	= "Grenada 1953"
+	POSCCode	= 6603
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (RGS)"
+	Major	= 6378249.145
+	Minor	= 6356514.869550
+Datum End

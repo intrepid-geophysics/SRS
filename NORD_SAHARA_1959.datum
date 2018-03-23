@@ -1,0 +1,19 @@
+Datum Begin
+	DatumName	= NORD_SAHARA_1959
+	POSCName	= "Nord Sahara 1959"
+	POSCCode	= 6307
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (RGS)"
+	Major	= 6378249.145
+	Minor	= 6356514.869550
+	DatumChange Begin
+		ToDatum	= WGS84
+		DX	= -186.000000
+		DY	= -93.000000
+		DZ	= 310.000000
+		OMEGA	= 0.000000
+		PHI	= 0.000000
+		KAPPA	= 0.000000
+		SCALEDIFF	= 0.000000
+	DatumChange End
+Datum End

@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=DEIR
+	Description="DEIR EZ ZOR "
+	MeridID=1 
+	OriginName="TRIG 254 AT DEIR "
+	OriginLatitude=35.3638819 
+	OriginLongitude=40.096325 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=5
+	Source="PNM 26 JAN 1990 SURVEY CONTRACT SYRIA LAND SEISMIC 1990 "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356515.000000
+	Major=6378249.2 
+Datum End

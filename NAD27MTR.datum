@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=NAD27MTR
+	Description="NORTH AMERICAN 1927 "
+	MeridID=1 
+	OriginName="MEADE'S RANCH "
+	OriginLatitude=39.2240794 
+	OriginLongitude=-98.5418072 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="SJM 16/9/83. USED IN NORTH AMERICA. (To be superceded by NAD83). "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356583.799999
+	Major=6378206.4 
+Datum End

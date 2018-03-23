@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= BESS1841
+	POSCName	= "Bessel 1841"
+	Description	= "Generated"
+	Major	= 6377397.155
+	Flattening	= 299.1528128
+	POSCCode	= "7004"
+Ellipsoid End

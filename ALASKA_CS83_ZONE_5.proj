@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= ALASKA_CS83_ZONE_5
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -154
+	LatOrigin	= 54
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 15035
+	POSCName	= "Alaska CS83 zone 5"
+	POSCMethod	= "Transverse Mercator"
+Projection End

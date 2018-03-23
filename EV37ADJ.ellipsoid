@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= EV37ADJ
+	POSCName	= "Everest 1830 (1937 Adjustment)"
+	Description	= "Generated"
+	Major	= 6377276.345
+	Flattening	= 300.8017
+	POSCCode	= "7015"
+Ellipsoid End

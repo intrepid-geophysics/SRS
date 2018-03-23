@@ -1,0 +1,10 @@
+#converted from feet
+Datum Begin
+	DatumName	= TRINIDAD_1903
+	POSCName	= "Trinidad 1903"
+	POSCCode	= 6302
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1858"
+	Major	= 6378350.8704 
+	Minor	= 6356675.0184 
+Datum End

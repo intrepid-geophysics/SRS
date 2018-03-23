@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= GGRS87
+	POSCName	= "Greek Geodetic Reference System 1987"
+	POSCCode	= 6121
+	Description	= "Generated"
+	Ellipsoid	= "GRS 1980"
+	Major	= 6378137
+	Minor	= 6356752.314140
+Datum End

@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= NWL9D
+	POSCName	= "NWL 9D"
+	Description	= "Generated"
+	Major	= 6378145
+	Flattening	= 298.25
+	POSCCode	= "7025"
+Ellipsoid End

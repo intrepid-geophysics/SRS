@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= AVERAGE_TERRESTRIAL_SYSTEM_1977
+	POSCName	= "Average Terrestrial System 1977"
+	POSCCode	= "7041"
+	Description	= "Generated"
+	Major	= 6378135
+	Flattening	= 298.257
+Ellipsoid End

@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= INDIANA_CS27_EAST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -85.4
+	LatOrigin	= 37.3
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999966667
+	POSCCode	= 11301
+	POSCName	= "Indiana CS27 East zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

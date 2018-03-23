@@ -1,0 +1,18 @@
+#Converted from feet
+Datum Begin
+	DatumName=JA1875
+	Description="JAMAICA 1875 "
+	MeridID=1 
+	OriginName="FORT CHARLES F/STAFF"
+	OriginLatitude=17.9321667 
+	OriginLongitude=-76.9436833 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 8/4/83 REF: S.D. JAMAICA. USED IN JAMAICA SINCE 1978. (See also JAD69). "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356571.996 
+	Major=6378306.3696
+Datum End

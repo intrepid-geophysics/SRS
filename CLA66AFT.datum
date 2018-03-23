@@ -1,0 +1,6 @@
+#Converted from feet to metres
+Datum Begin
+	DatumName=CLA66AFT
+	Minor=6356571.08562 
+	Major=6378193.64237 
+Datum End

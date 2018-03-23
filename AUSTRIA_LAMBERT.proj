@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= AUSTRIA_LAMBERT
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 49
+	StdLat2	= 46
+	POSCCode	= 19947
+	POSCName	= "Austria Lambert"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

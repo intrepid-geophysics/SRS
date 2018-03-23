@@ -1,0 +1,9 @@
+# Need to check with Kit about this
+Projection Begin
+	ProjectionType=UniversalTransverseMercator
+	CentralMeridian=24
+	Datum=CAPE
+	FalseNorthing=10000000
+        FalseEasting=500000
+        ScaleFactor=0.9996
+Projection End

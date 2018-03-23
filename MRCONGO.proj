@@ -1,0 +1,8 @@
+Projection Begin
+	ProjectionType = Mercator
+	CentralMeridian=11
+	LatOrigin=-5
+	FalseEasting=200000.0 
+	FalseNorthing=1051440.8 
+	ScaleFactor=0.9962204409159013
+Projection End

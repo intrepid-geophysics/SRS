@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= EVERST67
+	POSCName	= "Everest 1830 (1967 Definition)"
+	Description	= "Generated"
+	Major	= 6377298.556
+	Flattening	= 300.8017
+	POSCCode	= "7016"
+Ellipsoid End

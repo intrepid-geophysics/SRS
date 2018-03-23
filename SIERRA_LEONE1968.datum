@@ -1,0 +1,16 @@
+Datum Begin
+	DatumName=CLA80MOD
+	Minor=6356514.69550
+	Major=6378249.145 
+    DatumChange Begin
+        Comment = "EPSG Transformation 1614"
+        ToDatum = WGS84
+        DX  = -88.0
+        DY  =  4.0
+        DZ  =  101.0
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End 
+Datum End

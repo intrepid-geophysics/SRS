@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= MALONGO1987
+	POSCName	= "Malongo 1987"
+	POSCCode	= 6259
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+Datum End

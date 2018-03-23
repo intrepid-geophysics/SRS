@@ -1,0 +1,44 @@
+Datum Begin
+	DatumName	= SAD69(96)
+	Description	= "Generated"
+	MeridID	= 1
+	OriginLatitude	= 0.0
+	OriginLongitude	= 0.0
+	OriginHeight	= 0.0
+	AngleID	= 1
+	HeigthID	= 1
+	UseAreaID	= 1
+	Source	= "RGP 09/02/2013. USED IN PARTS OF SOUTH AMERICA. "
+	Visibility	= SURVEY
+	Release	= PUBLIC
+	Minor	= 6356774.7191953
+	Major	= 6378160
+	POSCName	= "South American Datum 1969(96)"
+	POSCCode	= 1075
+	Ellipsoid Begin
+		POSCCode	= "7050"
+		POSCName	= "GRS 1967 Modified"
+	Ellipsoid End
+	DatumChange Begin
+		Comment = "World Geodetic System 1984"
+        	ToDatum = WGS84
+		DX= -67.35
+		DY= 3.88
+		DZ= -38.22 
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+	DatumChange Begin
+		Comment = "SIRGAS 2000 (2), EPSG::5881, same as WGS84"
+        	ToDatum = SIRGAS2000
+		DX= -67.35
+		DY= 3.88
+		DZ= -38.22 
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+Datum End

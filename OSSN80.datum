@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=OSSN80
+	Description="OS (SN) 1980 "
+	MeridID=1 
+	OriginName="HERSTMONCEUX "
+	OriginLatitude=50.8653531 
+	OriginLongitude=0.3460783 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 20/12/83 "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356256.909237
+	Major=6377563.396 
+Datum End

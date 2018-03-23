@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= UTM_ZONE_9N
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -129
+	LatOrigin	= 0
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9996
+	POSCCode	= 16009
+	POSCName	= "UTM zone 9N"
+	POSCMethod	= "Transverse Mercator"
+Projection End

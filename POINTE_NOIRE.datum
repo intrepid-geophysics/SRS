@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= POINTE_NOIRE
+	POSCName	= "Pointe Noire"
+	POSCCode	= 6282
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (IGN)"
+	Major	= 6378249.2
+	Minor	= 6356515
+Datum End

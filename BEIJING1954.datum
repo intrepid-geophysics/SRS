@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= BEIJING1954
+	POSCName	= "Beijing 1954"
+	POSCCode	= 6214
+	Description	= "Generated"
+	Ellipsoid	= "Krassowsky 1940"
+	Major	= 6378245
+	Minor	= 6356863.018773
+Datum End

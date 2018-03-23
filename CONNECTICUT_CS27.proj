@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= CONNECTICUT_CS27
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 41.52
+	StdLat2	= 41.12
+	POSCCode	= 10600
+	POSCName	= "Connecticut CS27"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

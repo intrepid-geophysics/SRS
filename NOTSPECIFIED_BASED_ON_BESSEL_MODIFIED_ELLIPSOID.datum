@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_BESSEL_MODIFIED_ELLIPSOID
+	POSCName	= "Not specified (based on Bessel Modified ellipsoid)"
+	POSCCode	= 6005
+	Description	= "Generated"
+	Ellipsoid	= "Bessel Modified"
+	Major	= 6377492.018
+	Minor	= 6356173.508713
+Datum End

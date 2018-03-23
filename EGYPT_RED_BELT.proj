@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= EGYPT_RED_BELT
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 31
+	LatOrigin	= 30
+	FalseEasting	= 615000
+	FalseNorthing	= 810000
+	ScaleFactor	= 1
+	POSCCode	= 18072
+	POSCName	= "Egypt Red Belt"
+	POSCMethod	= "Transverse Mercator"
+Projection End

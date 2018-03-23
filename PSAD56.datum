@@ -1,0 +1,33 @@
+Datum Begin
+	DatumName	= PSAD56
+	Description	= "Generated"
+	MeridID	= 1
+	OriginName	= "LA CANOA "
+	OriginLatitude	= 8.5714361000000001
+	OriginLongitude	= -63.8596889
+	OriginHeight	= 0.0
+	AngleID	= 1
+	HeigthID	= 1
+	UseAreaID	= 1
+	Source	= "RJL 22/3/83. USED IN PARTS OF CARIBBEAN AND SOUTH AMERICA. "
+	Visibility	= SURVEY
+	Release	= PUBLIC
+	Minor	= 6356911.946128
+	Major	= 6378388
+	DatumChange Begin
+		ToDatum	= WGS84
+		DX	= -270.000000
+		DY	= 183.000000
+		DZ	= -390.000000
+		OMEGA	= 0.000000
+		PHI	= 0.000000
+		KAPPA	= 0.000000
+		SCALEDIFF	= 0.000000
+	DatumChange End
+	POSCName	= "Provisional South American Datum 1956"
+	POSCCode	= 6248
+	Ellipsoid Begin
+		POSCCode	= "7022"
+		POSCName	= "International 1924"
+	Ellipsoid End
+Datum End

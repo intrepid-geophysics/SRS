@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= ST_VINCENT_1945
+	POSCName	= "St. Vincent 1945"
+	POSCCode	= 6607
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (RGS)"
+	Major	= 6378249.145
+	Minor	= 6356514.869550
+Datum End

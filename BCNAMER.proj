@@ -1,0 +1,6 @@
+Projection Begin
+	ProjectionType = BipolarObliqueConicConformal
+	CentralMeridian=-90
+	FalseEasting=10000000.0 
+	FalseNorthing=5000000.0 
+Projection End

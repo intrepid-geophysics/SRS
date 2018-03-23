@@ -1,0 +1,13 @@
+Datum Begin
+	DatumName	= CH1903
+	POSCName	= "CH1903+"
+	POSCCode	= 6150
+	Description	= "Generated"
+	Ellipsoid	= "Bessel 1841"
+	Major	= 6377397.155
+	Minor	= 6356078.962818
+	Ellipsoid Begin
+		POSCCode	= "7004"
+		POSCName	= "Bessel 1841"
+	Ellipsoid End
+Datum End

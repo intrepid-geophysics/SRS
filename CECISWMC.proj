@@ -1,0 +1,9 @@
+Projection Begin
+	ProjectionType = SimpleConic
+	CentralMeridian=100
+	StdLat1=70
+	StdLat2=50
+	LatOrigin=0
+	FalseEasting= 0.0
+	FalseNorthing= 0.0
+Projection End

@@ -1,0 +1,10 @@
+#Converted from feet to metres
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_EVEREST_1830_DEFINITION_ELLIPSOID
+	POSCName	= "Not specified (based on Everest (1830 Definition) ellipsoid)"
+	POSCCode	= 6042
+	Description	= "Generated"
+	Ellipsoid	= "Everest (1830 Definition)"
+	Major	= 6377309.61264 
+	Minor	= 6356108.57198
+Datum End

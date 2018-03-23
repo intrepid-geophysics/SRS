@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= EGYPT1907
+	POSCName	= "Egypt 1907"
+	POSCCode	= 6229
+	Description	= "Generated"
+	Ellipsoid	= "Helmert 1906"
+	Major	= 6378200
+	Minor	= 6356818.169628
+Datum End

@@ -1,0 +1,5 @@
+Projection Begin
+	ProjectionType=VanDerGrinten
+	CentralMeridian=105
+	Datum=WGS72
+Projection End

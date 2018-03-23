@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= ALASKA_CS27_ZONE_9
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -170
+	LatOrigin	= 54
+	FalseEasting	= 600000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 15009
+	POSCName	= "Alaska CS27 zone 9"
+	POSCMethod	= "Transverse Mercator"
+Projection End

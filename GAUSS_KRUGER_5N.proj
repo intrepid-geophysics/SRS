@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= GAUSS_KRUGER_5N
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 27
+	LatOrigin	= 0
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 1
+	POSCCode	= 16305
+	POSCName	= "Gauss-Kruger 5N"
+	POSCMethod	= "Transverse Mercator"
+Projection End

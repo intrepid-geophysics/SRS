@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= NEVADA_CS27_EAST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -115.35
+	LatOrigin	= 34.45
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 12701
+	POSCName	= "Nevada CS27 East zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

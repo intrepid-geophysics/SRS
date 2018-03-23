@@ -1,0 +1,20 @@
+Datum Begin
+	DatumName	= MERCHICH
+	POSCName	= "Merchich"
+	POSCCode	= 6261
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (IGN)"
+	Major	= 6378249.2
+	Minor	= 6356515
+	DatumChange Begin
+	Comment = "Merchich"
+        ToDatum = WGS84
+		DX= 31
+		DY= 146
+		DZ= 47
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+Datum End

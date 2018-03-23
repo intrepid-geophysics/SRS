@@ -1,0 +1,37 @@
+Datum Begin
+	DatumName=NZGD2000
+	Description="NEW ZEALAND GEODETIC DATUM 2000 "
+	Source="www.linz.govt.nz"
+	Minor=6356752.314140
+	Major=6378137.0
+	Flattening = 298.257222101
+	DatumChange Begin
+		ToDatum = NZGD49
+		DistortionGrid = "nzgd2kgrid9911.asc"
+		DistortionReverse = yes
+					DX= -59.47
+	        DY= 5.04
+	        DZ= -187.44
+	        OMEGA= 0.47
+	        PHI= -0.10
+	        KAPPA= 1.024
+	        SCALEDIFF= 4.5993		
+	DatumChange End
+	DatumChange Begin
+	        ToDatum = WGS84
+	        DX  = 0.000000
+	        DY  = 0.000000
+	        DZ  = 0.000000
+	        OMEGA   = 0.000000
+	        PHI = 0.000000
+	        KAPPA   = 0.000000
+	        SCALEDIFF   = 0.000000
+    	DatumChange End
+Datum End
+    POSCName    = "New Zealand Geodetic Datum 2000"
+    POSCCode    = 6167
+    Description = "Generated"
+    Ellipsoid Begin
+        POSCCode    = "7019"
+        POSCName    = "GRS 1980"
+    Ellipsoid End

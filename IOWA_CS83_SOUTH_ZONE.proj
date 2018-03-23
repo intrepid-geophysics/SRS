@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= IOWA_CS83_SOUTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 41.47
+	StdLat2	= 40.37
+	POSCCode	= 11432
+	POSCName	= "Iowa CS83 South zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

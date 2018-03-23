@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= MADRID_1870_MADRID
+	POSCName	= "Madrid 1870 (Madrid)"
+	POSCCode	= 6903
+	Description	= "Generated"
+	Ellipsoid	= "Struve 1860"
+	Major	= 6378298.3
+	Minor	= 6356657.142670
+Datum End

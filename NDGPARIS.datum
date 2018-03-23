@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NDGPARIS
+	POSCName	= "Nord de Guerre (Paris)"
+	POSCCode	= 6902
+	Description	= "Generated"
+	Ellipsoid	= "Plessis 1817"
+	Major	= 6376523
+	Minor	= 6355862.933256
+Datum End

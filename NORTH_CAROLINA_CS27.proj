@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= NORTH_CAROLINA_CS27
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 34.2
+	StdLat2	= 36.1
+	POSCCode	= 13200
+	POSCName	= "North Carolina CS27"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= EVEREST_1830_MODIFIED
+	POSCName	= "Everest 1830 Modified"
+	POSCCode	= "7018"
+	Description	= "Generated"
+	Major	= 6377304.063
+	Flattening	= 300.8017
+Ellipsoid End

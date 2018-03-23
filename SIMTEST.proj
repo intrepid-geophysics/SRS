@@ -1,0 +1,6 @@
+Projection Begin
+	ProjectionType=SimpleConic
+	CentralMeridian=0
+	StdLat1=29.5
+	StdLat2=45.5
+Projection End

@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=LACANOA
+	Description="LA CANOA "
+	MeridID=1 
+	OriginName="LA CANOA "
+	OriginLatitude=8.5714361000000001
+	OriginLongitude=-63.8596889 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=11
+	Source="PNM 16/4/91 SHELL TOPO LISTING. ORIGIN COORDS EDITED AGB 10/91 M.A.B.JONES 1989"
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356911.946128
+	Major=6378388.0 
+Datum End

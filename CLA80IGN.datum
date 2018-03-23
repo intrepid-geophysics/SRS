@@ -1,0 +1,23 @@
+# datum modifie     JP mars 98 
+# pour etre conforme au syteme NTF
+# ellispsoide Clarke 1880
+Datum Begin
+
+	DatumName=CLA80IGN
+
+	Minor=6356515.000000
+
+	Major=6378249.2 
+
+	DatumChange Begin
+		ToDatum=WGS84
+		DX= -168.0000
+		DY=  -60.00000
+		DZ=  320.000000
+		OMEGA=    0.000000
+		PHI=    0.000000
+		KAPPA=    0.000000
+		SCALEDIFF=    0.000000
+	DatumChange End
+Datum End
+

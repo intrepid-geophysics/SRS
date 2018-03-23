@@ -1,0 +1,6 @@
+Projection Begin
+	ProjectionType = VanDerGrinten
+	CentralMeridian=0
+	FalseEasting=20000000.0 
+	FalseNorthing=20000000.0 
+Projection End

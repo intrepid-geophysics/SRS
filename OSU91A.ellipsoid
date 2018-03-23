@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= OSU91A
+	POSCName	= "OSU91A"
+	POSCCode	= "7033"
+	Description	= "Generated"
+	Major	= 6378136.3
+	Flattening	= 298.2572236
+Ellipsoid End

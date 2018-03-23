@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NORD_SAHARA_1959_PARIS
+	POSCName	= "Nord Sahara 1959 (Paris)"
+	POSCCode	= 6819
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (RGS)"
+	Major	= 6378249.145
+	Minor	= 6356514.869550
+Datum End

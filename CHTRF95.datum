@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= CHTRF95
+	POSCName	= "Swiss Terrestrial Reference Frame 1995"
+	POSCCode	= 6151
+	Description	= "Generated"
+	Ellipsoid	= "GRS 1980"
+	Major	= 6378137
+	Minor	= 6356752.314140
+Datum End

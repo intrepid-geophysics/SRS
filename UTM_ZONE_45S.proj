@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= UTM_ZONE_45S
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 87
+	LatOrigin	= 0
+	FalseEasting	= 500000
+	FalseNorthing	= 10000000
+	ScaleFactor	= 0.9996
+	POSCCode	= 16145
+	POSCName	= "UTM zone 45S"
+	POSCMethod	= "Transverse Mercator"
+Projection End

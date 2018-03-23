@@ -1,0 +1,6 @@
+Projection Begin
+# as per page 156, figure C in Snyder
+	ProjectionType=Stereographic
+	CentralLatitude = 40
+	CentralMeridian = -80
+Projection End

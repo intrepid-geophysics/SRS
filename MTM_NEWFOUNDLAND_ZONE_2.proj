@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= MTM_NEWFOUNDLAND_ZONE_2
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -56
+	LatOrigin	= 0
+	FalseEasting	= 304800
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 17702
+	POSCName	= "MTM Newfoundland zone 2"
+	POSCMethod	= "Transverse Mercator"
+Projection End

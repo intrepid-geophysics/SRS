@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= EST92
+	POSCName	= "Estonia 1992"
+	POSCCode	= 6133
+	Description	= "Generated"
+	Ellipsoid	= "GRS 1980"
+	Major	= 6378137
+	Minor	= 6356752.314140
+Datum End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= BUKITRIMPAH
+	POSCName	= "Bukit Rimpah"
+	POSCCode	= 6219
+	Description	= "Generated"
+	Ellipsoid	= "Bessel 1841"
+	Major	= 6377397.155
+	Minor	= 6356078.962818
+Datum End

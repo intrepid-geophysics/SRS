@@ -1,0 +1,14 @@
+Projection Begin
+	POSCCode	= 19917
+	POSCName	= "New Zealand Transverse Mercator 2000"
+	POSCMethod	= "Transverse Mercator"
+	Name	= NZTM
+	ProjectionType = TransverseMercator
+	CentralMeridian=173
+	LatOrigin=0
+	LongOrigin=173
+	FalseEasting=1600000
+	FalseNorthing=10000000
+	ScaleFactor=0.9996 
+Projection End
+

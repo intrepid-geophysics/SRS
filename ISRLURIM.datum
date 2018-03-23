@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=ISRLURIM
+	Description="ISRAEL URIM "
+	MeridID=1 
+	OriginName="TRIG POINT URIM "
+	OriginLatitude=31.3451908 
+	OriginLongitude=34.4674542 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=10
+	Source="LETTER FROM DR. RON ADLER DIRECTOR GENERAL SURVEY OF ISRAEL 3 OCT 89 (DS)"
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356566.440000
+	Major=6378300.79 
+Datum End

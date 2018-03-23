@@ -1,0 +1,18 @@
+Datum Begin
+	DatumName=NTFPARIS
+	Description="N.T.F "
+	MeridID=5
+	OriginName="PANTHEON "
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=3 
+	HeigthID=1 
+	UseAreaID=21
+	RefDatum=NTF 
+	Source="R.A.S - UNITS CHANGED TO GRADS (9/5/88) NEW VERSIONS : CALCESETCALCCONV "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356515.000000
+	Major=6378249.2 
+Datum End

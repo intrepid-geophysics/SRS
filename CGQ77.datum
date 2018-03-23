@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= CGQ77
+	POSCName	= "North American Datum 1927 (CGQ77)"
+	POSCCode	= 6609
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1866"
+	Major	= 6378206.4
+	Minor	= 6356583.8
+Datum End

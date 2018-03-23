@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= MAINE_CS27_EAST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -68.3
+	LatOrigin	= 43.5
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 11801
+	POSCName	= "Maine CS27 East zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

@@ -1,0 +1,9 @@
+Projection Begin
+	ProjectionType = AlbersEqualArea
+	CentralMeridian=-153
+	StdLat1=65
+	StdLat2=55
+	LatOrigin=0
+	FalseEasting=0.0 
+	FalseNorthing=-4943910.68 
+Projection End

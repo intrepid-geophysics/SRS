@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= VIRGINIA_CS27_NORTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 38.02
+	StdLat2	= 39.12
+	POSCCode	= 14501
+	POSCName	= "Virginia CS27 North zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

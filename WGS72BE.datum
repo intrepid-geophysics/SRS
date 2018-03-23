@@ -1,0 +1,33 @@
+Datum Begin
+	DatumName	= WGS72BE
+	Description	= "Generated"
+	MeridID	= 1
+	OriginName	= "GEOCENTRE "
+	OriginLatitude	= 0.0
+	OriginLongitude	= 0.0
+	OriginHeight	= 0.0
+	AngleID	= 1
+	HeigthID	= 1
+	UseAreaID	= 1
+	Source	= "RJL 15/11/82. RAW BROADCAST EPHEMERIS DOPPLER SATELLITE SYSTEM. "
+	Visibility	= SURVEY
+	Release	= PUBLIC
+	Minor	= 6356750.520016
+	Major	= 6378135
+	DatumChange Begin
+		ToDatum	= WGS84
+		DX	= 0.000000
+		DY	= 0.000000
+		DZ	= 1.900000
+		OMEGA	= 0.000000
+		PHI	= 0.000000
+		KAPPA	= -167899.552247
+		SCALEDIFF	= -0.380000
+	DatumChange End
+	POSCName	= "WGS 72 Transit Broadcast Ephemeris"
+	POSCCode	= 6324
+	Ellipsoid Begin
+		POSCCode	= "7043"
+		POSCName	= "WGS 72"
+	Ellipsoid End
+Datum End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_WAR_OFFICE_ELLIPSOID
+	POSCName	= "Not specified (based on War Office ellipsoid)"
+	POSCCode	= 6029
+	Description	= "Generated"
+	Ellipsoid	= "War Office"
+	Major	= 6378300.583
+	Minor	= 6356752.270220
+Datum End

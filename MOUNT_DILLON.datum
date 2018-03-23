@@ -1,0 +1,10 @@
+#Converted from feet
+Datum Begin
+	DatumName	= MOUNT_DILLON
+	POSCName	= "Mount Dillon"
+	POSCCode	= 6157
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1858"
+	Major	= 6378350.8704 
+	Minor	= 6356675.0184
+Datum End

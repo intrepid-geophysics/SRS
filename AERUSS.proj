@@ -1,0 +1,8 @@
+Projection Begin
+	ProjectionType = AzimuthalEquidistant
+	CentralMeridian=96
+	StdLat=0
+	LatOrigin=90
+	FalseEasting=0.0 
+	FalseNorthing=0.0 
+Projection End

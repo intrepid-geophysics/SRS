@@ -1,0 +1,7 @@
+Projection Begin
+	ProjectionType=Mollweide
+## a good value for australia
+	#CentralMeridian=160
+	CentralMeridian=55
+	Datum=WGS84
+Projection End

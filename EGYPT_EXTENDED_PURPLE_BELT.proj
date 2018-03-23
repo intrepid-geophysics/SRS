@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= EGYPT_EXTENDED_PURPLE_BELT
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 27
+	LatOrigin	= 30
+	FalseEasting	= 700000
+	FalseNorthing	= 1200000
+	ScaleFactor	= 1
+	POSCCode	= 18074
+	POSCName	= "Egypt Extended Purple Belt"
+	POSCMethod	= "Transverse Mercator"
+Projection End

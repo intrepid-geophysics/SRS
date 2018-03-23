@@ -1,0 +1,27 @@
+Datum Begin
+	DatumName=NWL9D
+	Description="NWL-9D "
+	MeridID=1 
+	OriginName="GEOCENTRE "
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 28/4/83 "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356759.769489
+	Major=6378145.0 
+	DatumChange Begin
+		ToDatum=WGS84
+		DX=0.000000
+		DY=0.000000
+		DZ=4.500000
+		OMEGA=0.000000
+		PHI=0.000000
+		KAPPA=-0.814000
+		SCALEDIFF=-0.600000
+	DatumChange End
+Datum End

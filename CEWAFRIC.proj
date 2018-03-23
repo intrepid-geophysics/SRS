@@ -1,0 +1,7 @@
+Projection Begin
+        ProjectionType=SimpleConic
+        CentralMeridian=-5
+        StdLat1=10
+        StdLat2=15
+        Datum=CLA80MOD
+Projection End

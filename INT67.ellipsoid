@@ -1,0 +1,7 @@
+Ellipsoid Begin
+	Name=INT67
+	POSCName="International 1967"
+	Description="INTERNATIONAL 1967 "
+	Major=6378160.0 
+	Flattening=298.25 
+Ellipsoid End

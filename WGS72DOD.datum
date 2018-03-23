@@ -1,0 +1,37 @@
+Datum Begin
+	DatumName=WGS72DOD
+	Description="WGS 72 (DoD) "
+	MeridID=1 
+	OriginName="GEOCENTRE "
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 15/7/83. "TRUE" WGS-72. (See also WGS72BE). "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356750.520016
+	Major=6378135.0 
+	DatumChange Begin
+		ToDatum=ED50
+		DX=89.500002
+		DY=93.800005
+		DZ=127.599998
+		OMEGA=0.000000
+		PHI=0.000000
+		KAPPA=-0.970000
+		SCALEDIFF=-1.800000
+	DatumChange End
+	DatumChange Begin
+		ToDatum=NWL9D
+		DX=0.000000
+		DY=0.000000
+		DZ=0.000000
+		OMEGA=0.000000
+		PHI=0.000000
+		KAPPA=0.260000
+		SCALEDIFF=0.800000
+	DatumChange End
+Datum End

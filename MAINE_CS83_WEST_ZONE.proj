@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= MAINE_CS83_WEST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -70.1
+	LatOrigin	= 42.5
+	FalseEasting	= 900000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999966667
+	POSCCode	= 11832
+	POSCName	= "Maine CS83 West zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

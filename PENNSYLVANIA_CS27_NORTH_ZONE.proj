@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= PENNSYLVANIA_CS27_NORTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 40.53
+	StdLat2	= 41.57
+	POSCCode	= 13701
+	POSCName	= "Pennsylvania CS27 North zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

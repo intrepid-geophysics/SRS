@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_CLARKE_1880_ARC_ELLIPSOID
+	POSCName	= "Not specified (based on Clarke 1880 (Arc) ellipsoid)"
+	POSCCode	= 6013
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (Arc)"
+	Major	= 6378249.145
+	Minor	= 6356514.966399
+Datum End

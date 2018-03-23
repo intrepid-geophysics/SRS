@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NAPARIMA_1955
+	POSCName	= "Naparima 1955"
+	POSCCode	= 6158
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+Datum End

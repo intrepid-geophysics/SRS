@@ -1,0 +1,21 @@
+Datum Begin
+	DatumName	= NAD27
+	Description	= "NIMA Code NAS-B. Western United States"
+	Source	= "NIMA TR8350.2 3rd edition"
+	Minor	= 6356583.8
+	Major	= 6378206.4
+	DatumChange Begin
+		ToDatum	= WGS84
+		DX	= -8.000000
+		DY	= 159.000000
+		DZ	= 175.000000
+		OMEGA	= 0.000000
+		PHI	= 0.000000
+		KAPPA	= 0.000000
+		SCALEDIFF	= 0.000000
+	DatumChange End
+	Ellipsoid Begin
+		POSCCode	= "7008"
+		POSCName	= "Clarke 1866"
+	Ellipsoid End
+Datum End

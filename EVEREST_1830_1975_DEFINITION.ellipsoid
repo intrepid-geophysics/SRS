@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= EVEREST_1830_1975_DEFINITION
+	POSCName	= "Everest 1830 (1975 Definition)"
+	POSCCode	= "7045"
+	Description	= "Generated"
+	Major	= 6377299.151
+	Flattening	= 300.8017255
+Ellipsoid End

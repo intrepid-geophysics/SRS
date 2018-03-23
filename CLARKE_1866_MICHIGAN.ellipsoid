@@ -1,0 +1,9 @@
+#Converted from feet
+Ellipsoid Begin
+	Name	= CLARKE_1866_MICHIGAN
+	POSCName	= "Clarke 1866 Michigan"
+	POSCCode	= "7009"
+	Description	= "Generated"
+	Major	= 6378437.29034 
+	Minor	= 6356813.90662
+Ellipsoid End

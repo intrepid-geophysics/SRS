@@ -1,0 +1,5 @@
+Projection Begin
+	ProjectionType=AzimuthalEqualArea
+	CentralMeridian=134
+	StdLat=40
+Projection End

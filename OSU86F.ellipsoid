@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= OSU86F
+	POSCName	= "OSU86F"
+	POSCCode	= "7032"
+	Description	= "Generated"
+	Major	= 6378136.2
+	Flattening	= 298.2572236
+Ellipsoid End

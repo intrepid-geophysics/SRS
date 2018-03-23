@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= ANS
+	POSCName	= "Australian National Spheroid"
+	Description	= "Generated"
+	Major	= 6378160
+	Flattening	= 298.25
+	POSCCode	= "7003"
+Ellipsoid End

@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= WAROFFICE
+	POSCName	= "War Office"
+	POSCCode	= "7029"
+	Description	= "Generated"
+	Major	= 6378300.583
+	Flattening	= 296
+Ellipsoid End

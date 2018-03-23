@@ -1,0 +1,25 @@
+Datum Begin
+	DatumName=ETRS89 
+	Minor=6356752.314248
+	Major=6378137
+	DatumChange Begin
+		ToDatum=ED50
+		DX=  89.5
+		DY=   93.8
+		DZ= 123.1
+		OMEGA=    0.000000
+		PHI=    0.000000
+		KAPPA=    0.156
+		SCALEDIFF=    -1.2
+	DatumChange End
+	DatumChange Begin
+		ToDatum=OSGB36
+		DX=    -446.448
+		DY=    125.157
+		DZ=   -542.060
+		OMEGA=    -0.15
+		PHI=    -0.247
+		KAPPA=   -0.842
+		SCALEDIFF=    20.4894
+	DatumChange End
+Datum End

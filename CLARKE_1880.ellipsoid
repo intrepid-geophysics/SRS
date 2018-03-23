@@ -1,0 +1,9 @@
+#Converted from feet
+Ellipsoid Begin
+	Name	= CLARKE_1880
+	POSCName	= "Clarke 1880"
+	POSCCode	= "7034"
+	Description	= "Generated"
+	Major	= 6378306.3696 
+	Flattening	= 293.465
+Ellipsoid End

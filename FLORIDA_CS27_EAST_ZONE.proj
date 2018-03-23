@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= FLORIDA_CS27_EAST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -81
+	LatOrigin	= 24.2
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999941177
+	POSCCode	= 10901
+	POSCName	= "Florida CS27 East zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

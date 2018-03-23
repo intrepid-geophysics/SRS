@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= MISSOURI_CS83_EAST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -90.3
+	LatOrigin	= 35.5
+	FalseEasting	= 250000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999933333
+	POSCCode	= 12431
+	POSCName	= "Missouri CS83 East zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

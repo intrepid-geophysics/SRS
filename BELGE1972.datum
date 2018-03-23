@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= BELGE1972
+	POSCName	= "Reseau National Belge 1972"
+	POSCCode	= 6313
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+Datum End

@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= ALABAMA_CS83_WEST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -87.3
+	LatOrigin	= 30
+	FalseEasting	= 600000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999933333
+	POSCCode	= 10132
+	POSCName	= "Alabama CS83 West zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

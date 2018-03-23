@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=CORRALEG
+	Description="CORREGO ALEGRE "
+	MeridID=1 
+	OriginName="CORREGO ALEGRE "
+	OriginLatitude=-19.8375389 
+	OriginLongitude=-48.961875 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="SJM 28/2/83 REF:GEODESY BY MAGNAVOX USED IN PARTS OF BRAZIL. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356911.946128
+	Major=6378388.0 
+Datum End

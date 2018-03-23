@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= PULKOVO1995
+	POSCName	= "Pulkovo 1995"
+	POSCCode	= 6200
+	Description	= "Generated"
+	Ellipsoid	= "Krassowsky 1940"
+	Major	= 6378245
+	Minor	= 6356863.018773
+Datum End

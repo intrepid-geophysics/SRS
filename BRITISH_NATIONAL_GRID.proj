@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= BRITISH_NATIONAL_GRID
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -2
+	LatOrigin	= 49
+	FalseEasting	= 400000
+	FalseNorthing	= -100000
+	ScaleFactor	= 0.999601272
+	POSCCode	= 19916
+	POSCName	= "British National Grid"
+	POSCMethod	= "Transverse Mercator"
+Projection End

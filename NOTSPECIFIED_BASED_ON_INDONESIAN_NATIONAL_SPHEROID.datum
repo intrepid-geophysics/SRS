@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_INDONESIAN_NATIONAL_SPHEROID
+	POSCName	= "Not specified (based on Indonesian National Spheroid)"
+	POSCCode	= 6021
+	Description	= "Generated"
+	Ellipsoid	= "Indonesian National Spheroid"
+	Major	= 6378160
+	Minor	= 6356774.504086
+Datum End

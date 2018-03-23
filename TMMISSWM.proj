@@ -1,0 +1,8 @@
+Projection Begin
+	ProjectionType = TransverseMercator
+	CentralMeridian=-90.3333
+	LatOrigin=29.5
+	FalseEasting=700000.0 
+	FalseNorthing=0.0 
+	ScaleFactor=0.99995 
+Projection End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName=GEM6
+	Description="GEM6 "
+	Source="ESA er-tn-jp-esa-0009 v1.2 19/11/91"
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356759.274746
+	Major=6378144.0 
+Datum End

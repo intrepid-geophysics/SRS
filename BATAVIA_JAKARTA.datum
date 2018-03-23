@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= BATAVIA_JAKARTA
+	POSCName	= "Batavia (Jakarta)"
+	POSCCode	= 6813
+	Description	= "Generated"
+	Ellipsoid	= "Bessel 1841"
+	Major	= 6377397.155
+	Minor	= 6356078.962818
+Datum End

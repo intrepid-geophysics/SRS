@@ -1,0 +1,33 @@
+Datum Begin
+	DatumName	= ARC1960
+	Description	= "Generated"
+	MeridID	= 1
+	OriginName	= "BUFFELSFONTEIN "
+	OriginLatitude	= -33.9922222
+	OriginLongitude	= 25.512395
+	OriginHeight	= 0.0
+	AngleID	= 1
+	HeigthID	= 1
+	UseAreaID	= 1
+	Source	= "RJL 20/12/83. USED IN SOUTHERN AND EASTERN AFRICA. "
+	Visibility	= SURVEY
+	Release	= PUBLIC
+	Minor	= 6356514.869550
+	Major	= 6378249.145
+	DatumChange Begin
+		ToDatum	= WGS84
+		DX	= -160.000000
+		DY	= -8.000000
+		DZ	= -300.000000
+		OMEGA	= 0.000000
+		PHI	= 0.000000
+		KAPPA	= 0.000000
+		SCALEDIFF	= 0.000000
+	DatumChange End
+	POSCName	= "Arc 1960"
+	POSCCode	= 6210
+	Ellipsoid Begin
+		POSCCode	= "7012"
+		POSCName	= "Clarke 1880 (RGS)"
+	Ellipsoid End
+Datum End

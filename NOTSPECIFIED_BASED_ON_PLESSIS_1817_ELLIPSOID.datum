@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_PLESSIS_1817_ELLIPSOID
+	POSCName	= "Not specified (based on Plessis 1817 ellipsoid)"
+	POSCCode	= 6027
+	Description	= "Generated"
+	Ellipsoid	= "Plessis 1817"
+	Major	= 6376523
+	Minor	= 6355862.933256
+Datum End

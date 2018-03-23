@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= MISSISSIPPI_CS83_EAST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -88.5
+	LatOrigin	= 29.3
+	FalseEasting	= 300000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.99995
+	POSCCode	= 12331
+	POSCName	= "Mississippi CS83 East zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

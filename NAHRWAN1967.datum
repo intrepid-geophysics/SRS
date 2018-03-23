@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NAHRWAN1967
+	POSCName	= "Nahrwan 1967"
+	POSCCode	= 6270
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (RGS)"
+	Major	= 6378249.145
+	Minor	= 6356514.869550
+Datum End

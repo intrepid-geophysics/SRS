@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= AUSTRALIAN_MAP_GRID_ZONE_49
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 111
+	LatOrigin	= 0
+	FalseEasting	= 500000
+	FalseNorthing	= 10000000
+	ScaleFactor	= 0.9996
+	POSCCode	= 17449
+	POSCName	= "Australian Map Grid zone 49"
+	POSCMethod	= "Transverse Mercator"
+Projection End

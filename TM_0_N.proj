@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= TM_0_N
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 0
+	LatOrigin	= 0
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9996
+	POSCCode	= 16400
+	POSCName	= "TM 0 N"
+	POSCMethod	= "Transverse Mercator"
+Projection End

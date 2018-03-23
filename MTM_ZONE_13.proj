@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= MTM_ZONE_13
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -84
+	LatOrigin	= 0
+	FalseEasting	= 304800
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 17713
+	POSCName	= "MTM zone 13"
+	POSCMethod	= "Transverse Mercator"
+Projection End

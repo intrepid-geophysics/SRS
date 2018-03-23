@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= INDONESIAN_NATIONAL_SPHEROID
+	POSCName	= "Indonesian National Spheroid"
+	POSCCode	= "7021"
+	Description	= "Generated"
+	Major	= 6378160
+	Flattening	= 298.247
+Ellipsoid End

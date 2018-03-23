@@ -1,0 +1,28 @@
+Datum Begin
+	DatumName=CLRK1866
+	Description="NORTH AMERICAN 1927 "
+	MeridID=1 
+	OriginName="MEADE'S RANCH "
+	OriginLatitude=39.2240794 
+	OriginLongitude=-98.5418072 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="R. GORDON 27/2/89 COPIED FROM NAD27MTR "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356583.799999
+	Major=6378206.4 
+    DatumChange Begin
+	# INCO PILOT
+        ToDatum = WGS84
+        DX  = -8.000000
+        DY  = 160.000000
+        DZ  = 176.000000
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+Datum End

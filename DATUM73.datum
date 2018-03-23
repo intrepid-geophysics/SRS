@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= DATUM73
+	POSCName	= "Datum 73"
+	POSCCode	= 6274
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+Datum End

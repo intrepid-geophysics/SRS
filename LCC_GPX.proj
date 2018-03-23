@@ -1,0 +1,10 @@
+Projection Begin
+	ProjectionType=LambertConicConformal
+	CentralMeridian=10
+	StdLat1=31
+	StdLat2=34
+	LatOrigin=28
+	FalseEasting= 0
+	FalseNorthing= 0
+	ScaleFactor= 1.0
+Projection End

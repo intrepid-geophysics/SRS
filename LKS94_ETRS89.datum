@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= LKS94_ETRS89
+	POSCName	= "Lithuania 1994 (ETRS89)"
+	POSCCode	= 6126
+	Description	= "Generated"
+	Ellipsoid	= "GRS 1980"
+	Major	= 6378137
+	Minor	= 6356752.314140
+Datum End

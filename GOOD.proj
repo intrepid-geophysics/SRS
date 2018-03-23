@@ -1,0 +1,4 @@
+Projection Begin
+	ProjectionType=GoodeIntHomalographic
+	CentralMeridian=120
+Projection End

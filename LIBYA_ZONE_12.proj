@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= LIBYA_ZONE_12
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 23
+	LatOrigin	= 0
+	FalseEasting	= 200000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 18247
+	POSCName	= "Libya zone 12"
+	POSCMethod	= "Transverse Mercator"
+Projection End

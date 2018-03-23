@@ -1,0 +1,16 @@
+Datum Begin
+	DatumName=ELD79SSL 
+	Major=6378388.000
+	Minor=6356911.946 
+	DatumChange Begin
+		ToDatum=WGS84
+		DX= -69.06
+		DY=  -90.71
+		DZ=  -142.56
+		OMEGA=    0.000000
+		PHI=    0.000000
+		KAPPA=    0.000000
+		SCALEDIFF=    0.000000
+	DatumChange End
+Datum End
+	

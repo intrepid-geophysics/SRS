@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=VENUS
+	Description="VENUS MGN"
+	MeridID= 1
+	OriginName=" EVE"
+	OriginLatitude= 0.0
+	OriginLongitude= 0.0
+	OriginHeight= 0.0
+	AngleID= 1
+	HeigthID= 1
+	UseAreaID= 1
+	Source=" JPL"
+	Visibility= SURVEY
+	Release= PUBLIC
+	Minor=0.000000
+	Major=6051920.0
+Datum End

@@ -1,0 +1,6 @@
+Projection Begin
+# as per page 156, Snyder, figure B
+	ProjectionType=PolarStereographic
+	CentralLatitude = 0
+	CentralMeridian = -100
+Projection End

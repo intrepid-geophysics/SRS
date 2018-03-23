@@ -1,0 +1,5 @@
+Projection Begin
+	ProjectionType=UniversalTransverseMercator
+	CentralMeridian=99
+	Datum=EVEREST1830
+Projection End

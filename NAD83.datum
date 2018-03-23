@@ -1,0 +1,49 @@
+Datum Begin
+	DatumName=NAD83
+	Description="NORTH AMERICAN 1983 "
+	MeridID=1 
+	OriginName="GEOCENTRE "
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=17
+	Source="RJL 20/2/85. REF:S&M 44/4 DEC 1984. SPHEROID UPDATED 27/5/88 (R.A.S) "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356752.314140
+	Major=6378137.0 
+	DatumChange Begin
+		ToDatum=WGS84
+		DX=0.000000
+		DY=0.000000
+		DZ=0.000000
+		OMEGA=0.000000
+		PHI=0.000000
+		KAPPA=0.000000
+		SCALEDIFF=0.000000
+	DatumChange End
+	DatumChange Begin
+        	# NAD27_NAS-C United States Mean Solution (CONUS)
+		ToDatum	= NAD27
+		DX	= 8.000000
+		DY	= -160.000000
+		DZ	= -176.000000
+		OMEGA	= 0.000000
+		PHI	= 0.000000
+		KAPPA	= 0.000000
+		SCALEDIFF	= 0.000000
+	DatumChange End
+	DatumChange Begin
+		# NAD27_NAS-E Canada Mean Solution (including Newfoundland)
+		ToDatum	= NAD27_NAS-E
+		DX	= 10.000000
+		DY	= -158.000000
+		DZ	= -187.000000
+		OMEGA	= 0.000000
+		PHI	= 0.000000
+		KAPPA	= 0.000000
+		SCALEDIFF	= 0.000000
+	DatumChange End
+Datum End

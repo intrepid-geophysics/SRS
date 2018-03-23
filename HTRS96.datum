@@ -1,0 +1,42 @@
+Datum Begin
+	DatumName=HTRS96 
+	Minor=6356752.314248
+	Major=6378137
+	DatumChange Begin
+		ToDatum=ED50
+		DX=  89.5
+		DY=   93.8
+		DZ= 123.1
+		OMEGA=    0.000000
+		PHI=    0.000000
+		KAPPA=    0.156
+		SCALEDIFF=    -1.2
+	DatumChange End
+	DatumChange Begin
+		ToDatum=OSGB36
+		DX=    -446.448
+		DY=    125.157
+		DZ=   -542.060
+		OMEGA=    -0.15
+		PHI=    -0.247
+		KAPPA=   -0.842
+		SCALEDIFF=    20.4894
+	DatumChange End
+	DatumChange Begin
+		ToDatum=WGS84
+		DX=    0
+		DY=    0
+		DZ=   0
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+    POSCName    = "Croatian_Terrestrial_Reference_System"
+    POSCCode    = 6761
+    Description = "Generated"
+    Ellipsoid Begin
+        POSCCode    = "7019"
+        POSCName    = "GRS 1980"
+    Ellipsoid End
+Datum End

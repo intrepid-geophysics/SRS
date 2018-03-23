@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=EVVIETNM
+	Description="EVEREST-VIETNAM "
+	MeridID=1 
+	OriginName="UNKNOWN "
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=8
+	Source="ELF AND DEMINEX ENTERED DFN 14/1/92 "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356075.413140
+	Major=6377276.345 
+Datum End

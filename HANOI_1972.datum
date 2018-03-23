@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= HANOI_1972
+	POSCName	= "Hanoi 1972"
+	POSCCode	= 6147
+	Description	= "Generated"
+	Ellipsoid	= "Krassowsky 1940"
+	Major	= 6378245
+	Minor	= 6356863.018773
+Datum End

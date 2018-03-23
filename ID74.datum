@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= ID74
+	POSCName	= "Indonesian Datum 1974"
+	POSCCode	= 6238
+	Description	= "Generated"
+	Ellipsoid	= "Indonesian National Spheroid"
+	Major	= 6378160
+	Minor	= 6356774.504086
+Datum End

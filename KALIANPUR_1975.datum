@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= KALIANPUR_1975
+	POSCName	= "Kalianpur 1975"
+	POSCCode	= 6146
+	Description	= "Generated"
+	Ellipsoid	= "Everest 1830 (1975 Definition)"
+	Major	= 6377299.151
+	Minor	= 6356098.145120
+Datum End

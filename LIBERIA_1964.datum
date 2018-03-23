@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= LIBERIA_1964
+	POSCName	= "Liberia 1964"
+	POSCCode	= 6251
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (RGS)"
+	Major	= 6378249.145
+	Minor	= 6356514.869550
+Datum End

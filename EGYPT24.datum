@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=EGYPT24
+	Description="NEW EGYPT 1930 "
+	MeridID=1 
+	OriginName="STATION F1 "
+	OriginLatitude=30.0285719 
+	OriginLongitude=31.2769583 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=7
+	Source="PNM FROM BRITOIL 'EGYPT - GENERAL SURVEY INFO' FILE "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356911.946128
+	Major=6378388.0 
+Datum End

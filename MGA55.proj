@@ -1,0 +1,10 @@
+Projection Begin
+        ProjectionType=UniversalTransverseMercator
+	AMGZone=55
+        CentralMeridian=147
+        Datum=GDA94
+        FalseNorthing=10000000
+        FalseEasting=500000
+        ScaleFactor=0.9996
+Projection End
+

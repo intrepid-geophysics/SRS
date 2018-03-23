@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= COLORADO_CS83_NORTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 40.47
+	StdLat2	= 39.43
+	POSCCode	= 10531
+	POSCName	= "Colorado CS83 North zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

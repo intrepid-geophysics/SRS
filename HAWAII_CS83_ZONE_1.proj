@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= HAWAII_CS83_ZONE_1
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -155.3
+	LatOrigin	= 18.5
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999966667
+	POSCCode	= 15131
+	POSCName	= "Hawaii CS83 zone 1"
+	POSCMethod	= "Transverse Mercator"
+Projection End

@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=ED50EGYT
+	Description="EUROPEAN DATUM 1950 "
+	MeridID=1 
+	OriginName="POINT F1 "
+	OriginLatitude=30.0298853 
+	OriginLongitude=31.2779997 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=6
+	Source="D. STOKES 8 NOV 1989. FROM DR. TOM GREENSHIELDS MILITARY SURVEY FELTHAM. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356911.946128
+	Major=6378388.0 
+Datum End

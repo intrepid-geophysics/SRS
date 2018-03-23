@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= CLA80RSA
+	POSCName	= "Clarke 1880 (Arc)"
+	Description	= "Generated"
+	Major	= 6378249.145
+	Flattening	= 293.4663077
+	POSCCode	= "7013"
+Ellipsoid End

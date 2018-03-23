@@ -1,0 +1,55 @@
+Datum Begin
+	DatumName=IRENET95 
+	Minor=6356752.314248
+	Major=6378137
+	Ellipsoid Begin
+		POSCCode	= "7019"
+		POSCName	= "GRS 1980"
+	Ellipsoid End
+    POSCName    = "IRENET95"
+    POSCCode    = 6173
+    Description = "Ireland - onshore. United Kingdom (UK) - Northern Island (Ulster) - onshore"
+	DatumChange Begin
+	Comment = "IRENET95"
+        ToDatum = WGS84
+		DX= 0
+		DY= 0
+		DZ= 0
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+	DatumChange Begin
+	Comment = "IRENET95"
+        ToDatum = ETRF_1989
+		DX= 0
+		DY= 0
+		DZ= 0
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+	DatumChange Begin
+	Comment = "IRENET95"
+        ToDatum = ETRS_1989
+		DX= 0
+		DY= 0
+		DZ= 0
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+  DatumChange Begin
+		ToDatum = TM75
+		DX  				= -482.53
+		DY  				= 130.596
+		DZ  				= -564.557
+		OMEGA 			= 1.042
+		PHI 				= 0.214
+		KAPPA 			= 0.631
+		SCALEDIFF   =  -8.15
+  DatumChange End
+Datum End

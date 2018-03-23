@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= UTM_ZONE_7S
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -141
+	LatOrigin	= 0
+	FalseEasting	= 500000
+	FalseNorthing	= 10000000
+	ScaleFactor	= 0.9996
+	POSCCode	= 16107
+	POSCName	= "UTM zone 7S"
+	POSCMethod	= "Transverse Mercator"
+Projection End

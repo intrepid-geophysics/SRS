@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= NEW_MEXICO_CS27_CENTRAL_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -106.15
+	LatOrigin	= 31
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 13002
+	POSCName	= "New Mexico CS27 Central zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

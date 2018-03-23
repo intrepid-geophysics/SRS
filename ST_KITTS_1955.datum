@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= ST_KITTS_1955
+	POSCName	= "St. Kitts 1955"
+	POSCCode	= 6605
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (RGS)"
+	Major	= 6378249.145
+	Minor	= 6356514.869550
+Datum End

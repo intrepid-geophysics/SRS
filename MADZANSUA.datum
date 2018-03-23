@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= MADZANSUA
+	POSCName	= "Madzansua"
+	POSCCode	= 6128
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1866"
+	Major	= 6378206.4
+	Minor	= 6356583.8
+Datum End

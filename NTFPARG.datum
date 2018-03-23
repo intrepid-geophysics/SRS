@@ -1,0 +1,18 @@
+Datum Begin
+	DatumName=NTFPARG
+	Description="N.T.F "
+	MeridID=5
+	OriginName="PANTHEON "
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=3 
+	HeigthID=1 
+	UseAreaID=20
+	RefDatum=NTF 
+	Source="R.A.S - TEMPORARY MNEMONIC FOR WISARD TO BE REPLACED BY 'NTFPARIS' "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356515.000000
+	Major=6378249.2 
+Datum End

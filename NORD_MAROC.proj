@@ -1,0 +1,10 @@
+Projection Begin
+	ProjectionType=LambertConicConformal
+	CentralMeridian=-6
+	LatOrigin=37
+	StdLat1=37
+	ScaleFactor=0.999625769
+	FalseEasting=500000
+  FalseNorthing=300000
+        Datum=CLA80MOD
+Projection End

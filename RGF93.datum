@@ -1,0 +1,65 @@
+Datum Begin
+    DatumName   = RGF93
+    Minor   = 6356752.314248
+    Major   = 6378137.00
+	POSCName	= "Reseau Geodesique Francais 1993 "
+	POSCCode	= 6171
+    Description = "Generated"
+	Ellipsoid Begin
+		POSCCode	= "7019"
+		POSCName	= "GRS 1980"
+	Ellipsoid End
+    DatumChange Begin
+	# BRGM ENTRY
+        ToDatum = NTF
+        DX  = 168
+        DY  = 60
+        DZ  = -320
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+    DatumChange Begin
+        Comment = "Version 27 for Balearics - EPSG 1631"
+        ToDatum = ED50
+        DX  = 181.5
+        DY  = 90.3
+        DZ  = 187.2
+        OMEGA   = -0.144
+        PHI     = -0.492
+        KAPPA   =  0.394
+        SCALEDIFF   = -17.57
+    DatumChange End 
+	DatumChange Begin
+        ToDatum = ETRF89
+		DX= 0
+		DY= 0
+		DZ= 0 
+		OMEGA= 0
+		PHI= 0
+		KAPPA= 0
+		SCALEDIFF = 0
+	DatumChange End
+	DatumChange Begin
+        ToDatum = ETRS89
+		DX= 0
+		DY= 0
+		DZ= 0 
+		OMEGA= 0
+		PHI= 0
+		KAPPA= 0
+		SCALEDIFF = 0
+	DatumChange End
+	DatumChange Begin
+	Comment = "WGS84(1)"
+		ToDatum = WGS84
+		DX= 0
+		DY= 0
+		DZ= 0
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+Datum End

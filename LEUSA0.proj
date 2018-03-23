@@ -1,0 +1,8 @@
+Projection Begin
+	ProjectionType = AzimuthalEqualArea
+	CentralMeridian=-100
+	StdLat=45
+	FalseEasting=0.0 
+	FalseNorthing=0.0 
+	ScaleFactor=1.0 
+Projection End

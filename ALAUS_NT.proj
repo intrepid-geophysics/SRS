@@ -1,0 +1,10 @@
+Projection Begin
+	ProjectionType=AlbersEqualArea
+	CentralMeridian=133.5
+	StdLat1=-13.5
+	StdLat2=-23.5
+	LatOrigin=0.0
+	FalseEasting=0.0
+	FalseNorthing=0.0
+	Datum=GDA94
+Projection End

@@ -1,0 +1,55 @@
+Datum Begin
+	DatumName=NZGD49
+	Description="NEW ZEALAND GEODETIC DATUM 1949 "
+	MeridID=1 
+	OriginName="PAPATAHI "
+	OriginLatitude=-41.3191389 
+	OriginLongitude=175.0475 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 8/4/83. USED IN NEW ZEALAND. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356911.9461279461
+	Major=6378388.0
+	Flattening = 297.0
+	DatumChange Begin
+		ToDatum = NZGD2000
+		DistortionGrid = "nzgd2kgrid9911.asc"
+		DistortionReverse = no
+					DX= 59.47
+	        DY= -5.04
+	        DZ= 187.44
+	        OMEGA= -0.47
+	        PHI= 0.10
+	        KAPPA= -1.024
+	        SCALEDIFF= -4.5993		
+	DatumChange End
+	DatumChange Begin
+		ToDatum = WGS84
+					DX= 59.47
+	        DY= -5.04
+	        DZ= 187.44
+	        OMEGA= -0.47
+	        PHI= 0.10
+	        KAPPA= -1.024
+	        SCALEDIFF= -4.5993		
+# Accuracy 5m for these transform values	EPSG	 WGS84 (4)
+#					DX  = 54.4
+#	        DY  = -20.1
+#	        DZ  = 183.1
+#	        OMEGA   = 0
+#	        PHI = 0
+#	        KAPPA   = 0
+#	        SCALEDIFF   = 0
+	DatumChange End
+Datum End
+    POSCName    = "New Zealand Geodetic Datum 1949"
+    POSCCode    = 6272
+    Description = "Generated"
+    Ellipsoid Begin
+        POSCCode    = "7022"
+        POSCName    = "International 1924"
+    Ellipsoid End

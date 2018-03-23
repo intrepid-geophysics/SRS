@@ -1,0 +1,10 @@
+#converted from feet
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_CLARKE_1880_ELLIPSOID
+	POSCName	= "Not specified (based on Clarke 1880 ellipsoid)"
+	POSCCode	= 6034
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880"
+	Major	= 6378306.3696 
+	Minor	= 6356571.996
+Datum End

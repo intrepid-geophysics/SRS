@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= KANSAS_CS27_NORTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 39.47
+	StdLat2	= 38.43
+	POSCCode	= 11501
+	POSCName	= "Kansas CS27 North zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

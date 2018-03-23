@@ -1,0 +1,20 @@
+Datum Begin
+	DatumName	= CAMPO_INCHAUSPE
+	POSCName	= "Campo Inchauspe"
+	POSCCode	= 6221
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+    DatumChange Begin
+        # Ref: NIMA, 2000
+        ToDatum = WGS84
+        DX  = -148.0
+        DY  = 136.0
+        DZ  = 90.0
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+    DatumChange End
+Datum End

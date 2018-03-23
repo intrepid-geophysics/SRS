@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= ALASKA_CS83_ZONE_10
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 53.5
+	StdLat2	= 51.5
+	POSCCode	= 15040
+	POSCName	= "Alaska CS83 zone 10"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

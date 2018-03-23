@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= BELGE1950
+	POSCName	= "Reseau National Belge 1950"
+	POSCCode	= 6215
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+Datum End

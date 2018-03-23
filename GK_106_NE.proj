@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= GK_106_NE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 106
+	LatOrigin	= 0
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 1
+	POSCCode	= 16586
+	POSCName	= "GK 106 NE"
+	POSCMethod	= "Transverse Mercator"
+Projection End

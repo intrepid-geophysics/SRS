@@ -1,0 +1,11 @@
+#Converted from feet
+
+Ellipsoid Begin
+	Name	= CLA58MTR
+	POSCName	= "Clarke 1858"
+	Description	= "Generated"
+	Major	= 6378350.8704
+	Flattening	= 294.2606764
+	POSCCode	= "7007"
+	Minor	= 6356675.0184 
+Ellipsoid End

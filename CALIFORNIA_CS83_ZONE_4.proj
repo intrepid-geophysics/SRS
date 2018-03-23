@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= CALIFORNIA_CS83_ZONE_4
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 37.15
+	StdLat2	= 36
+	POSCCode	= 10434
+	POSCName	= "California CS83 zone 4"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

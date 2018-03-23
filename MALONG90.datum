@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=MALONG90
+	Description="MALONGO 1990 "
+	MeridID=1 
+	OriginName="MALONGO STATION Y "
+	OriginLatitude=-5.3928686 
+	OriginLongitude=12.2006647 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=15
+	Source="PNM 6/11/91 GEODETIC REPORT 3289/91 "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356911.946128
+	Major=6378388.0 
+Datum End

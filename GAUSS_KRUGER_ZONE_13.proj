@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= GAUSS_KRUGER_ZONE_13
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 75
+	LatOrigin	= 0
+	FalseEasting	= 13500000
+	FalseNorthing	= 0
+	ScaleFactor	= 1
+	POSCCode	= 16213
+	POSCName	= "Gauss-Kruger zone 13"
+	POSCMethod	= "Transverse Mercator"
+Projection End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= ABIDJAN1987
+	POSCName	= "Abidjan 1987"
+	POSCCode	= 6143
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (RGS)"
+	Major	= 6378249.145
+	Minor	= 6356514.869550
+Datum End

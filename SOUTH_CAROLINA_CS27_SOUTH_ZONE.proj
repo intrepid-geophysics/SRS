@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= SOUTH_CAROLINA_CS27_SOUTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 32.2
+	StdLat2	= 33.4
+	POSCCode	= 13902
+	POSCName	= "South Carolina CS27 South zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

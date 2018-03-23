@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= VOIROL1875
+	POSCName	= "Voirol 1875"
+	POSCCode	= 6304
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (IGN)"
+	Major	= 6378249.2
+	Minor	= 6356515
+Datum End

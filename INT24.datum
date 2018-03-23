@@ -1,0 +1,16 @@
+Datum Begin
+	DatumName=INT24
+	Minor=6356911.946128
+	Major=6378388.0
+Datum End
+	DatumChange Begin
+	Comment = "World Geodetic System 1984"
+        ToDatum = WGS84
+		DX= 175
+		DY= -38
+		DZ= 113
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End

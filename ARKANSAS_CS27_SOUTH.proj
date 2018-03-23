@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= ARKANSAS_CS27_SOUTH
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 34.46
+	StdLat2	= 33.18
+	POSCCode	= 10302
+	POSCName	= "Arkansas CS27 South"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

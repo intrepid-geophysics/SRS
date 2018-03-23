@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=TRUCIAL
+	Description="TRUCIAL COAST 1948 "
+	MeridID=1 
+	OriginName="TC1 "
+	OriginLatitude=25.397275 
+	OriginLongitude=55.4455417 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=31
+	Source="TCJ 28.6.88 TRIG FILE "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356818.169628
+	Major=6378200.0 
+Datum End

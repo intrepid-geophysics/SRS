@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= UTM_ZONE_41N
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 63
+	LatOrigin	= 0
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9996
+	POSCCode	= 16041
+	POSCName	= "UTM zone 41N"
+	POSCMethod	= "Transverse Mercator"
+Projection End

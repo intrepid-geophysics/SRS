@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= JAPAN_PLANE_RECTANGULAR_CS_ZONE_XVIII
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 136
+	LatOrigin	= 20
+	FalseEasting	= 0
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 17818
+	POSCName	= "Japan Plane Rectangular CS zone XVIII"
+	POSCMethod	= "Transverse Mercator"
+Projection End

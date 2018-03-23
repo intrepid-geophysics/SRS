@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= NEBRASKA_CS27_SOUTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 40.17
+	StdLat2	= 41.43
+	POSCCode	= 12602
+	POSCName	= "Nebraska CS27 South zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

@@ -1,0 +1,11 @@
+#converted from feet
+
+Datum Begin
+	DatumName	= NADMICHIGAN
+	POSCName	= "NAD Michigan"
+	POSCCode	= 6268
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1866 Michigan"
+	Major	= 6378437.29034
+	Minor	= 6356813.90662
+Datum End

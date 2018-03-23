@@ -1,0 +1,13 @@
+Projection Begin
+	Name	= KENTUCKY_CS27_SOUTH_ZONE
+	ProjectionType	= LambertConicConformal
+	CentralMeridian	= -85.75
+	LatOrigin	= 36.33333
+	FalseEasting	= 609601.22539
+	FalseNorthing	= 0
+	StdLat1	= 37.93333
+	StdLat2	= 36.73333
+	POSCCode	= 11602
+	POSCName	= "Kentucky CS27 South zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= ATS77
+	POSCName	= "Average Terrestrial System 1977"
+	POSCCode	= 6122
+	Description	= "Generated"
+	Ellipsoid	= "Average Terrestrial System 1977"
+	Major	= 6378135
+	Minor	= 6356750.304922
+Datum End

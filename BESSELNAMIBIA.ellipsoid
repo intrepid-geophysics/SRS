@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= BESSELNAMIBIA
+	POSCName	= "Bessel Namibia"
+	POSCCode	= "7006"
+	Description	= "Generated"
+	Major	= 6377483.865
+	Flattening	= 299.1528128
+Ellipsoid End

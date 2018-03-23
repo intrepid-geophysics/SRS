@@ -1,0 +1,9 @@
+Projection Begin
+	ProjectionType = Stereographic
+	CentralMeridian=-150
+	StdLat=90
+	CentralLatitude=90
+	FalseEasting=2000000.0 
+	FalseNorthing=2000000.0 
+	ScaleFactor=0.994 
+Projection End

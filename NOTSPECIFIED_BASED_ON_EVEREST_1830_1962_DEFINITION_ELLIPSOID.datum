@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_EVEREST_1830_1962_DEFINITION_ELLIPSOID
+	POSCName	= "Not specified (based on Everest 1830 (1962 Definition) ellipsoid)"
+	POSCCode	= 6044
+	Description	= "Generated"
+	Ellipsoid	= "Everest 1830 (1962 Definition)"
+	Major	= 6377301.243
+	Minor	= 6356100.230165
+Datum End

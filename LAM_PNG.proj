@@ -1,0 +1,12 @@
+# author is des, date is 10/7/2001  subject is PNG
+Projection Begin
+	ProjectionType=LambertConicConformal
+	CentralMeridian=144
+	StdLat1=-4.5
+	StdLat2=-8.5
+	LatOrigin=-6.5
+	FalseEasting=0.0 
+	FalseNorthing=0.0 
+	ScaleFactor=0.9660477089437976
+	Datum=AGD66
+Projection End

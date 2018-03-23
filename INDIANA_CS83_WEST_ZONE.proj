@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= INDIANA_CS83_WEST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -87.05
+	LatOrigin	= 37.3
+	FalseEasting	= 900000
+	FalseNorthing	= 250000
+	ScaleFactor	= 0.999966667
+	POSCCode	= 11332
+	POSCName	= "Indiana CS83 West zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

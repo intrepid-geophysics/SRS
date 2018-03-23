@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= MASSACHUSETTS_CS27_ISLAND_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 41.17
+	StdLat2	= 41.29
+	POSCCode	= 12002
+	POSCName	= "Massachusetts CS27 Island zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= MTM_ZONE_4
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -61.3
+	LatOrigin	= 0
+	FalseEasting	= 304800
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 17704
+	POSCName	= "MTM zone 4"
+	POSCMethod	= "Transverse Mercator"
+Projection End

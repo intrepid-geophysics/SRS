@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= OHIO_CS27_SOUTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 38.44
+	StdLat2	= 40.02
+	POSCCode	= 13402
+	POSCName	= "Ohio CS27 South zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= SAPPERHILL1943
+	POSCName	= "Sapper Hill 1943"
+	POSCCode	= 6292
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+Datum End

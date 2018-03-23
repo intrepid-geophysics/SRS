@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= AUSTRIA_M34
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 16.2
+	LatOrigin	= 0
+	FalseEasting	= 750000
+	FalseNorthing	= 0
+	ScaleFactor	= 1
+	POSCCode	= 18046
+	POSCName	= "Austria M34"
+	POSCMethod	= "Transverse Mercator"
+Projection End

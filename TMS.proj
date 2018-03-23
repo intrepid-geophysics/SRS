@@ -1,0 +1,4 @@
+Projection Begin
+	ProjectionType=TransverseMercatorSphere
+	CentralMeridian=134
+Projection End

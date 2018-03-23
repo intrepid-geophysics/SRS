@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= NWL10D
+	POSCName	= "WGS 72"
+	Description	= "Generated"
+	Major	= 6378135
+	Flattening	= 298.26
+	POSCCode	= "7043"
+Ellipsoid End

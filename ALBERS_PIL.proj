@@ -1,0 +1,7 @@
+Projection Begin
+	ProjectionType=AlbersEqualArea
+	CentralMeridian=119
+	StdLat1=-17.5
+	StdLat2=-31.5
+	Datum=AGD66
+Projection End

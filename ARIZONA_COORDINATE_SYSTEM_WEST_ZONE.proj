@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= ARIZONA_COORDINATE_SYSTEM_WEST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -113.45
+	LatOrigin	= 31
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999933333
+	POSCCode	= 10203
+	POSCName	= "Arizona Coordinate System West zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

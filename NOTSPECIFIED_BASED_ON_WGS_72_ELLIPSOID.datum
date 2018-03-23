@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_WGS_72_ELLIPSOID
+	POSCName	= "Not specified (based on WGS 72 ellipsoid)"
+	POSCCode	= 6043
+	Description	= "Generated"
+	Ellipsoid	= "WGS 72"
+	Major	= 6378135
+	Minor	= 6356750.520016
+Datum End

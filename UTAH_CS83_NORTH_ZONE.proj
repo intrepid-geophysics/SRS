@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= UTAH_CS83_NORTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 41.47
+	StdLat2	= 40.43
+	POSCCode	= 14331
+	POSCName	= "Utah CS83 North zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= OKLAHOMA_CS27_SOUTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 33.56
+	StdLat2	= 35.14
+	POSCCode	= 13502
+	POSCName	= "Oklahoma CS27 South zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

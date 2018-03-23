@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=TIMBALAI
+	Description="TIMBALAI "
+	MeridID=1 
+	OriginName="TIMBALAI "
+	OriginLatitude=5.2843189 
+	OriginLongitude=115.1823358 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 11/1/83. USED IN EAST MALAYSIA. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356097.550301
+	Major=6377298.556 
+Datum End

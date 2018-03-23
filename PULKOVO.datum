@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=PULKOVO
+	Description="PULKOVO 1942 "
+	MeridID=1 
+	OriginName="PULKOVO OBSERVATORY "
+	OriginLatitude=59.7718194 
+	OriginLongitude=30.3283583 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="SJM 28/2/84 REF:GEODESY BY MAGNAVOX "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356863.018773
+	Major=6378245.0 
+Datum End

@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= HELM1906
+	POSCName	= "Helmert 1906"
+	Description	= "Generated"
+	Major	= 6378200
+	Flattening	= 298.3
+	POSCCode	= "7020"
+Ellipsoid End

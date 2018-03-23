@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= SOUTH_CAROLINA_CS83
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 34.5
+	StdLat2	= 32.3
+	POSCCode	= 13930
+	POSCName	= "South Carolina CS83"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

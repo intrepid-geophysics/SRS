@@ -1,0 +1,8 @@
+Projection Begin
+	ProjectionType=Polyconic
+	CentralMeridian=-96
+	Datum=CLA80MOD
+	FalseEasting=0
+	FalseNorthing= 0
+	LatOrigin= 30
+Projection End

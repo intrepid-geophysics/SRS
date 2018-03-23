@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= BLM_ZONE_16N_IN_FEET
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -87
+	LatOrigin	= 0
+	FalseEasting	= 1640416.67
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9996
+	POSCCode	= 15916
+	POSCName	= "BLM zone 16N in feet"
+	POSCMethod	= "Transverse Mercator"
+Projection End

@@ -1,0 +1,8 @@
+Projection Begin
+	ProjectionType = Polyconic
+	CentralMeridian=100
+	LatOrigin=69
+	FalseEasting=5000000.0 
+	FalseNorthing=5000000.0 
+	ScaleFactor=1.0 
+Projection End

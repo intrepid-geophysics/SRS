@@ -1,0 +1,5 @@
+Projection Begin
+	ProjectionType = AMG
+	AMGZone=57
+	ScaleFactor=0.9996 
+Projection End

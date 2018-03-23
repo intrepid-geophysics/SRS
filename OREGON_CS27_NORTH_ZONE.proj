@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= OREGON_CS27_NORTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 44.2
+	StdLat2	= 46
+	POSCCode	= 13601
+	POSCName	= "Oregon CS27 North zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

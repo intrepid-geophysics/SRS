@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= INT24
+	POSCName	= "International 1924"
+	Description	= "Generated"
+	Major	= 6378388
+	Flattening	= 297
+	POSCCode	= "7022"
+Ellipsoid End

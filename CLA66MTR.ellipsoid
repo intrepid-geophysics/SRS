@@ -1,0 +1,9 @@
+Ellipsoid Begin
+	Name	= CLA66MTR
+	POSCName	= "Clarke 1866"
+	Description	= "Generated"
+	Major	= 6378206.4
+	Flattening	= 294.9786982
+	POSCCode	= "7008"
+	Minor	= 6356583.8
+Ellipsoid End

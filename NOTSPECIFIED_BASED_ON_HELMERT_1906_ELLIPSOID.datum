@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_HELMERT_1906_ELLIPSOID
+	POSCName	= "Not specified (based on Helmert 1906 ellipsoid)"
+	POSCCode	= 6020
+	Description	= "Generated"
+	Ellipsoid	= "Helmert 1906"
+	Major	= 6378200
+	Minor	= 6356818.169628
+Datum End

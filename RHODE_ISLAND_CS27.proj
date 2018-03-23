@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= RHODE_ISLAND_CS27
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -71.3
+	LatOrigin	= 41.05
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999938
+	POSCCode	= 13800
+	POSCName	= "Rhode Island CS27"
+	POSCMethod	= "Transverse Mercator"
+Projection End

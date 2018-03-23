@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= WASHINGTON_CS83_NORTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 48.44
+	StdLat2	= 47.3
+	POSCCode	= 14631
+	POSCName	= "Washington CS83 North zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

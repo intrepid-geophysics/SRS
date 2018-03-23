@@ -1,0 +1,10 @@
+#Converted from feet
+Datum Begin
+	DatumName	= JAMAICA1875
+	POSCName	= "Jamaica 1875"
+	POSCCode	= 6241
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880"
+	Major	= 6378306.3696 
+	Minor	= 6356571.996 
+Datum End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= ANTIGUA1943
+	POSCName	= "Antigua 1943"
+	POSCCode	= 6601
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (RGS)"
+	Major	= 6378249.145
+	Minor	= 6356514.869550
+Datum End

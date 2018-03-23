@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= CALIFORNIA_CS27_ZONE_II
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 39.5
+	StdLat2	= 38.2
+	POSCCode	= 10402
+	POSCName	= "California CS27 zone II"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

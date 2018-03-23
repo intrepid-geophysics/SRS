@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=MINAA
+	Description="MINAA "
+	MeridID=1 
+	OriginName="MINAA BASE STAT. L40"
+	OriginLatitude=9.6358333 
+	OriginLongitude=6.5163889 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 11/1/83 USED IN PARTS OF NIGERIA. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356514.869550
+	Major=6378249.145 
+Datum End

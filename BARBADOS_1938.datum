@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= BARBADOS_1938
+	POSCName	= "Barbados 1938"
+	POSCCode	= 6212
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (RGS)"
+	Major	= 6378249.145
+	Minor	= 6356514.869550
+Datum End

@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= Irish_Transverse_Mercator
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -8
+	LatOrigin	= 53.5
+	FalseEasting	= 600000
+	FalseNorthing	= 750000
+	ScaleFactor	= 0.99982
+	POSCCode	= 19962
+	POSCName	= "Irish Transverse Mercator"
+	POSCMethod	= "Transverse Mercator"
+Projection End

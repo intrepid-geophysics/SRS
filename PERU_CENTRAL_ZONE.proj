@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= PERU_CENTRAL_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -76
+	LatOrigin	= -9.3
+	FalseEasting	= 720000
+	FalseNorthing	= 1039979.159
+	ScaleFactor	= 0.99932994
+	POSCCode	= 18162
+	POSCName	= "Peru central zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

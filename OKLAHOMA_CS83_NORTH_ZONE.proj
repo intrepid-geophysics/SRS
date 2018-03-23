@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= OKLAHOMA_CS83_NORTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 36.46
+	StdLat2	= 35.34
+	POSCCode	= 13531
+	POSCName	= "Oklahoma CS83 North zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

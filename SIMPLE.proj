@@ -1,0 +1,8 @@
+Projection Begin
+	ProjectionType=SimpleConic
+	CentralMeridian=-96
+	MiddleLatitude=23
+	StdLat1=29.5
+	StdLat2=45.5
+	Datum=CLA80MOD
+Projection End

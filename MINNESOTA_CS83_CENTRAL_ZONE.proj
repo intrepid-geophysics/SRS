@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= MINNESOTA_CS83_CENTRAL_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 47.03
+	StdLat2	= 45.37
+	POSCCode	= 12232
+	POSCName	= "Minnesota CS83 Central zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

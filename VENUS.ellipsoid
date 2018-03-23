@@ -1,0 +1,7 @@
+Ellipsoid Begin
+	Name=VENUS
+	POSCName="Unknown"
+	Description="VENUS MGN "
+	Major=6051920.0
+	Flattening= 1.0 
+Ellipsoid End

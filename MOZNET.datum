@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= MOZNET
+	POSCName	= "Moznet (ITRF94)"
+	POSCCode	= 6130
+	Description	= "Generated"
+	Ellipsoid	= "WGS 84"
+	Major	= 6378137
+	Minor	= 6356752.314248
+Datum End

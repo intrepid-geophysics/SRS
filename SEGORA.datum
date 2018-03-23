@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= SEGORA
+	POSCName	= "Segora"
+	POSCCode	= 6294
+	Description	= "Generated"
+	Ellipsoid	= "Bessel 1841"
+	Major	= 6377397.155
+	Minor	= 6356078.962818
+Datum End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NGO1948
+	POSCName	= "NGO 1948"
+	POSCCode	= 6273
+	Description	= "Generated"
+	Ellipsoid	= "Bessel Modified"
+	Major	= 6377492.018
+	Minor	= 6356173.508713
+Datum End

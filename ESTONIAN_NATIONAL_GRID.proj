@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= ESTONIAN_NATIONAL_GRID
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 59.2
+	StdLat2	= 58
+	POSCCode	= 19938
+	POSCName	= "Estonian National Grid"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

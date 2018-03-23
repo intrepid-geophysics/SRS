@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= WGS84
+	POSCName	= "WGS 84"
+	Description	= "Generated"
+	Major	= 6378137
+	Flattening	= 298.257223563
+	POSCCode	= "7030"
+Ellipsoid End

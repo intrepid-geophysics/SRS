@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= KOREANDATUM1985
+	POSCName	= "Korean Datum 1985"
+	POSCCode	= 6162
+	Description	= "Generated"
+	Ellipsoid	= "Bessel 1841"
+	Major	= 6377397.155
+	Minor	= 6356078.962818
+Datum End

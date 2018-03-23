@@ -1,0 +1,7 @@
+Projection Begin
+	ProjectionType=AlbersEqualArea
+	CentralMeridian=-96.
+	StdLat1=29.5
+	StdLat2=45.5
+	Datum=CLA80MOD
+Projection End

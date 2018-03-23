@@ -1,0 +1,7 @@
+Projection Begin
+	ProjectionType=LambertConicConformal
+	CentralMeridian=142
+	StdLat1=-40
+	StdLat2=-32
+	Datum=AGD66
+Projection End

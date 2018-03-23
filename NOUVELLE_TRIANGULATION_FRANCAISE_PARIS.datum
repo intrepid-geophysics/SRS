@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOUVELLE_TRIANGULATION_FRANCAISE_PARIS
+	POSCName	= "Nouvelle Triangulation Francaise (Paris)"
+	POSCCode	= 6807
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (IGN)"
+	Major	= 6378249.2
+	Minor	= 6356515
+Datum End

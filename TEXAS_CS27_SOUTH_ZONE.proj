@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= TEXAS_CS27_SOUTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 26.1
+	StdLat2	= 27.5
+	POSCCode	= 14205
+	POSCName	= "Texas CS27 South zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

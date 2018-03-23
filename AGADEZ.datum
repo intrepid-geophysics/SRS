@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= AGADEZ
+	POSCName	= "Agadez"
+	POSCCode	= 6206
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (IGN)"
+	Major	= 6378249.2
+	Minor	= 6356515
+Datum End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= CONAKRY1905
+	POSCName	= "Conakry 1905"
+	POSCCode	= 6315
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (IGN)"
+	Major	= 6378249.2
+	Minor	= 6356515
+Datum End

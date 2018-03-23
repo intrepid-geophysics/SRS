@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= FINLAND_ZONE_4
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 30
+	LatOrigin	= 0
+	FalseEasting	= 4500000
+	FalseNorthing	= 0
+	ScaleFactor	= 1
+	POSCCode	= 18194
+	POSCName	= "Finland zone 4"
+	POSCMethod	= "Transverse Mercator"
+Projection End

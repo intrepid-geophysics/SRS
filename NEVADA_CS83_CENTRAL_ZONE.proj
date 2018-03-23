@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= NEVADA_CS83_CENTRAL_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -116.4
+	LatOrigin	= 34.45
+	FalseEasting	= 500000
+	FalseNorthing	= 6000000
+	ScaleFactor	= 0.9999
+	POSCCode	= 12732
+	POSCName	= "Nevada CS83 Central zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

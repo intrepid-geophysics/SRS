@@ -1,0 +1,22 @@
+Datum Begin
+	DatumName	= MAGNA
+	Description	= "Generated"
+	MeridID	= 1
+	OriginLatitude	= 0.0
+	OriginLongitude	= 0.0
+	OriginHeight	= 0.0
+	AngleID	= 1
+	HeigthID	= 1
+	UseAreaID	= 1
+	Source	= "EPSG Database"
+	Visibility	= SURVEY
+	Release	= PUBLIC
+	Minor	= 6377838.742777899
+	Major	= 6378137
+	POSCName	= "MAGNA-SIRGAS"
+	POSCCode	= 6686
+	Ellipsoid Begin
+		POSCCode	= "7019"
+		POSCName	= "GRS 1980"
+	Ellipsoid End
+Datum End

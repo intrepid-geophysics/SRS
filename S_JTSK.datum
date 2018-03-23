@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= S_JTSK
+	POSCName	= "Jednote Trigonometricke Siti Kataastrali"
+	POSCCode	= 6156
+	Description	= "Generated"
+	Ellipsoid	= "Bessel 1841"
+	Major	= 6377397.155
+	Minor	= 6356078.962818
+Datum End

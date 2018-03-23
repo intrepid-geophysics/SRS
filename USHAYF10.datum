@@ -1,0 +1,15 @@
+Datum Begin
+	DatumName=USHAYF10
+	Description="NOT SPECIFIED "
+	MeridID=1 
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356908.999997
+	Major=6378388.0 
+Datum End

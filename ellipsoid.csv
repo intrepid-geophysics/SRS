@@ -1,0 +1,47 @@
+posc_code,posc_name,erm_name,prj
+7001,Airy 1830,AIRY,Unknown
+7002,Airy Modified 1849,AIRYMOD,Unknown
+7003,Australian National Spheroid,ANS,Australian
+7041,Average Terrestrial System 1977,AVERAGE_TERRESTRIAL_SYSTEM_1977,Unknown
+7004,Bessel 1841,BESS1841,Unknown
+7006,Bessel Namibia,BESSEL_NAMIBIA,Unknown
+7005,Bessel Modified,BESSMOD,Unknown
+7007,Clarke 1858,CLA58MTR,Clarke_1858
+Unknown,Unknown,CLA66AFT,Unknown
+7008,Clarke 1866,CLA66MTR,Clarke_1866
+7009,Clarke 1866 Michigan,CLARKE_1866_MICHIGAN,Unknown
+7034,Clarke 1880,CLARKE_1880,Clarke_1880
+7034,Clarke 1880,CLARKE1880,Clarke_1880
+7011,Clarke 1880 (IGN),CLA80IGN,Unknown
+7012,Clarke 1880 (RGS),CLA80MOD,Unknown
+7013,Clarke 1880 (Arc),CLA80RSA,Unknown
+7010,Clarke 1880 (Benoit),CLARKE_1880_BENOIT,Unknown
+7014,Clarke 1880 (SGA 1922),CLARKE_1880_SGA_1922,Unknown
+7015,Everest 1830 (1937 Adjustment),EV37ADJ,Unknown
+7044,Everest 1830 (1962 Definition),EVEREST_1830_1962_DEFINITION,Unknown
+7016,Everest 1830 (1967 Definition),EVERST67,Unknown
+7045,Everest 1830 (1975 Definition),EVEREST_1830_1975_DEFINITION,Unknown
+7042,Everest (1830 Definition),EVEREST_1830_DEFINITION,Unknown
+7018,Everest 1830 Modified,EVEREST_1830_MODIFIED,Unknown
+Unknown,Unknown,EVERST1830,Unknown
+7031,GEM 10C,GEM_10C,Unknown
+7036,GRS 1967,GRS67,GRS_1967
+7050,GRS 1967 Modified,GRS67_Modified,Unknown
+7019,GRS 1980,GRS80,GRS_1980
+Unknown,Unknown,HAYF1910,Unknown
+7020,Helmert 1906,HELM1906,Unknown
+7021,Indonesian National Spheroid,INDONESIAN_NATIONAL_SPHEROID,Unknown
+7022,International 1924,INT24,Unknown
+Unknown,International 1967,INT67,Unknown
+7024,Krassowsky 1940,KRAS1940,Unknown
+7025,NWL 9D,NWL9D,Unknown
+7043,WGS 72,NWL10D,WGS_1972
+7032,OSU86F,OSU86F,Unknown
+7033,OSU91A,OSU91A,Unknown
+7027,Plessis 1817,PLESSIS_1817,Unknown
+7035,Sphere,SPHERE,Unknown
+Unknown,Unknown,SPHERE2,Unknown
+7028,Struve 1860,STRUVE_1860,Unknown
+Unknown,Unknown,VENUS,Unknown
+7029,War Office,WAR_OFFICE,Unknown
+7030,WGS 84,WGS84,WGS_1984

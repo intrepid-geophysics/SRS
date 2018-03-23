@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= TENNESSEE_CS27
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 35.15
+	StdLat2	= 36.25
+	POSCCode	= 14100
+	POSCName	= "Tennessee CS27"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

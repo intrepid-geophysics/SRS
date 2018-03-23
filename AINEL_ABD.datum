@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= AINEL_ABD
+	POSCName	= "Ain el Abd 1970"
+	POSCCode	= 6204
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+Datum End

@@ -1,0 +1,42 @@
+Datum Begin
+	DatumName	= TM65
+	Description	= "Generated"
+	MeridID	= 1
+	OriginLatitude	= 0.0
+	OriginLongitude	= 0.0
+	OriginHeight	= 0.0
+	AngleID	= 1
+	HeigthID	= 1
+	UseAreaID	= 1
+	Source	= "RJL 3/9/84. USED FOR ONSHORE IRELAND TOPOGRAPHIC MAPPING. "
+	Visibility	= SURVEY
+	Release	= PUBLIC
+	Minor	= 6356034.447939
+	Major	= 6377340.189
+	POSCName	= "TM65"
+	POSCCode	= 6299
+	Ellipsoid Begin
+		POSCCode	= "7002"
+		POSCName	= "Airy Modified 1849"
+	Ellipsoid End
+  DatumChange Begin
+		ToDatum = IRENET95
+		DX  				= 482.53  
+		DY  				= -130.596
+		DZ  				= 564.557 
+		OMEGA 			= -1.042  
+		PHI 				= -0.214  
+		KAPPA 			= -0.631  
+		SCALEDIFF   = 8.15    
+  DatumChange End
+  DatumChange Begin
+		ToDatum = WGS84
+		DX  				=  482.53
+		DY  				= -130.596
+		DZ  				=  564.557
+		OMEGA 			= -1.042
+		PHI 				= -0.214
+		KAPPA 			= -0.631
+		SCALEDIFF   =  8.15
+  DatumChange End
+Datum End

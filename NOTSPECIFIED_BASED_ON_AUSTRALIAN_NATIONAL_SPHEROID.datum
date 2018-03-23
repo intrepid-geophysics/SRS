@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_AUSTRALIAN_NATIONAL_SPHEROID
+	POSCName	= "Not specified (based on Australian National Spheroid)"
+	POSCCode	= 6003
+	Description	= "Generated"
+	Ellipsoid	= "Australian National Spheroid"
+	Major	= 6378160
+	Minor	= 6356774.719195
+Datum End

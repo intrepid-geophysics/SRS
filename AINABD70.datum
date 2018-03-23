@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=AINABD70
+	Description="AIN EL ABD (1970) "
+	MeridID=1 
+	OriginName="AIN EL ABD "
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 11/1/83. USED FOR SAUDI 1970 PRIMARYTRIANGULATION. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356911.946128
+	Major=6378388.0 
+Datum End

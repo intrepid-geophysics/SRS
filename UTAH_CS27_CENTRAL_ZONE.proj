@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= UTAH_CS27_CENTRAL_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 39.01
+	StdLat2	= 40.39
+	POSCCode	= 14302
+	POSCName	= "Utah CS27 Central zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

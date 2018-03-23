@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_AIRY_MODIFIED_1849_ELLIPSOID
+	POSCName	= "Not specified (based on Airy Modified 1849 ellipsoid)"
+	POSCCode	= 6002
+	Description	= "Generated"
+	Ellipsoid	= "Airy Modified 1849"
+	Major	= 6377340.189
+	Minor	= 6356034.447939
+Datum End

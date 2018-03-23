@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= NEW_YORK_CS27_EAST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -74.2
+	LatOrigin	= 40
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999966667
+	POSCCode	= 13101
+	POSCName	= "New York CS27 East zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

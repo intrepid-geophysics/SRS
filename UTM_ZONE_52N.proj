@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= UTM_ZONE_52N
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 129
+	LatOrigin	= 0
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9996
+	POSCCode	= 16052
+	POSCName	= "UTM zone 52N"
+	POSCMethod	= "Transverse Mercator"
+Projection End

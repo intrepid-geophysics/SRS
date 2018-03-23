@@ -1,0 +1,23 @@
+Datum Begin
+	DatumName	= QATAR
+	Description	= "Generated"
+	MeridID	= 1
+	OriginName	= "STATION G3 "
+	OriginLatitude	= 0.0
+	OriginLongitude	= 0.0
+	OriginHeight	= 0.0
+	AngleID	= 1
+	HeigthID	= 1
+	UseAreaID	= 1
+	Source	= "RJL 30/1/85. REF: TRIG FILE "
+	Visibility	= SURVEY
+	Release	= PUBLIC
+	Minor	= 6356911.946128
+	Major	= 6378388
+	POSCName	= "Qatar"
+	POSCCode	= 6285
+	Ellipsoid Begin
+		POSCCode	= "7022"
+		POSCName	= "International 1924"
+	Ellipsoid End
+Datum End

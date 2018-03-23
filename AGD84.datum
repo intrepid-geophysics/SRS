@@ -1,0 +1,32 @@
+Datum Begin
+	DatumName	= AGD84
+	Minor	= 6356774.719195
+	Major	= 6378160
+	DatumChange Begin
+		ToDatum	= WGS84
+		DX	= -116.000000
+		DY	= -50.470000
+		DZ	= 141.690000
+		OMEGA	= -0.230000
+		PHI	= -0.390000
+		KAPPA	= -0.344000
+		SCALEDIFF	= -0.098300
+	DatumChange End
+	DatumChange Begin
+		ToDatum	= GDA94
+		DX	= -117.763000
+		DY	= -51.510000
+		DZ	= 139.061000
+		OMEGA	= -0.292000
+		PHI	= -0.443000
+		KAPPA	= -0.277000
+		SCALEDIFF	= -0.191000
+	DatumChange End
+	POSCName	= "Australian Geodetic Datum 1984"
+	POSCCode	= 6203
+	Description	= "Generated"
+	Ellipsoid Begin
+		POSCCode	= "7003"
+		POSCName	= "Australian National Spheroid"
+	Ellipsoid End
+Datum End

@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= PLESSIS1817
+	POSCName	= "Plessis 1817"
+	POSCCode	= "7027"
+	Description	= "Generated"
+	Major	= 6376523
+	Flattening	= 308.64
+Ellipsoid End

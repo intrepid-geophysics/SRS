@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= CLARKE_1880_BENOIT
+	POSCName	= "Clarke 1880 (Benoit)"
+	POSCCode	= "7010"
+	Description	= "Generated"
+	Major	= 6378300.789
+	Minor	= 6356566.435
+Ellipsoid End

@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= NETHERLANDS_EAST_INDIES_EQUATORIAL_ZONE
+	ProjectionType	= Mercator
+	CentralMeridian	= 110
+	LatOrigin	= 0
+	FalseEasting	= 3900000
+	FalseNorthing	= 900000
+	ScaleFactor	= 0.997
+	POSCCode	= 19905
+	POSCName	= "Netherlands East Indies Equatorial Zone"
+	POSCMethod	= "Mercator (1SP)"
+Projection End

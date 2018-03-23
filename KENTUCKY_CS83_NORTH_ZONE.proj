@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= KENTUCKY_CS83_NORTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 38.96667
+	StdLat2	= 37.96667
+	POSCCode	= 11631
+	POSCName	= "Kentucky CS83 North zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

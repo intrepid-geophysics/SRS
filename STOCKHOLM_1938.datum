@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= STOCKHOLM_1938
+	POSCName	= "Stockholm 1938"
+	POSCCode	= 6308
+	Description	= "Generated"
+	Ellipsoid	= "Bessel 1841"
+	Major	= 6377397.155
+	Minor	= 6356078.962818
+Datum End

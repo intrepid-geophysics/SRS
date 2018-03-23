@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= STRUVE_1860
+	POSCName	= "Struve 1860"
+	POSCCode	= "7028"
+	Description	= "Generated"
+	Major	= 6378298.3
+	Flattening	= 294.73
+Ellipsoid End

@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= ARGENTINA_ZONE_1
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -72
+	LatOrigin	= -90
+	FalseEasting	= 1500000
+	FalseNorthing	= 0
+	ScaleFactor	= 1
+	POSCCode	= 18031
+	POSCName	= "Argentina zone 1"
+	POSCMethod	= "Transverse Mercator"
+Projection End

@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= MTM_ZONE_15
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -90
+	LatOrigin	= 0
+	FalseEasting	= 304800
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999
+	POSCCode	= 17715
+	POSCName	= "MTM zone 15"
+	POSCMethod	= "Transverse Mercator"
+Projection End

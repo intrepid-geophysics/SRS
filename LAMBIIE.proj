@@ -1,0 +1,13 @@
+# parametres de lambert II etendu JP 03 98
+# selon IGN france (systeme NTF)
+# Stdlat1et2 (latitude standart a controler)
+Projection Begin
+	ProjectionType=LambertConicConformal
+	CentralMeridian=2.337229167
+	StdLat1=45.89891889
+	StdLat2=47.69601444
+        LatOrigin=46.8
+	FalseEasting=600000.0 
+	FalseNorthing=2200000.0 
+	ScaleFactor=0.99987742
+Projection End

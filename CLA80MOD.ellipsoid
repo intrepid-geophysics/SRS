@@ -1,0 +1,8 @@
+Ellipsoid Begin
+	Name	= CLA80MOD
+	POSCName	= "Clarke 1880 (RGS)"
+	Description	= "Generated"
+	Major	= 6378249.145
+	Flattening	= 293.465
+	POSCCode	= "7012"
+Ellipsoid End

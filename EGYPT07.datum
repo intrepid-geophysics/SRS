@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=EGYPT07
+	Description="EGYPT 1907 "
+	MeridID=1 
+	OriginName="STATION F1 "
+	OriginLatitude=30.0285722 
+	OriginLongitude=31.276 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 22/2/83 REF: S145 USED IN EGYPT. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356818.169628
+	Major=6378200.0 
+Datum End

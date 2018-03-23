@@ -1,0 +1,23 @@
+Datum Begin
+	DatumName	= LISBON
+	Description	= "Generated"
+	MeridID	= 1
+	OriginName	= "CASTELLO DE S. JORGE"
+	OriginLatitude	= 0.0
+	OriginLongitude	= -9.1318906
+	OriginHeight	= 0.0
+	AngleID	= 1
+	HeigthID	= 1
+	UseAreaID	= 1
+	Source	= "RJL 5/4/84 REF: S89. Note: Origin may be 54.862sec W. OLD PORTUGESE SYSTEM. "
+	Visibility	= SURVEY
+	Release	= PUBLIC
+	Minor	= 6356911.946128
+	Major	= 6378388
+	POSCName	= "Lisbon"
+	POSCCode	= 6207
+	Ellipsoid Begin
+		POSCCode	= "7022"
+		POSCName	= "International 1924"
+	Ellipsoid End
+Datum End

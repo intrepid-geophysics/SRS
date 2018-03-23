@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= AFGOOYE
+	POSCName	= "Afgooye"
+	POSCCode	= 6205
+	Description	= "Generated"
+	Ellipsoid	= "Krassowsky 1940"
+	Major	= 6378245
+	Minor	= 6356863.018773
+Datum End

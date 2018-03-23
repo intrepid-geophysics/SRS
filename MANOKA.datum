@@ -1,0 +1,16 @@
+Datum Begin
+	DatumName=MANOKA
+	Description="MANOKA "
+	MeridID=1 
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=16
+	Source="NAV TAPE LISTING - SVY DATE JULY 1988 CLIENT:MERLIN / GEO: GECO / POSN: DORIS "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356514.869550
+	Major=6378249.145 
+Datum End

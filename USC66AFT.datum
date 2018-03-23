@@ -1,0 +1,17 @@
+#Converted from feet to metres
+
+Datum Begin
+	DatumName=USC66AFT
+	Description="NOT SPECIFIED "
+	MeridID=1 
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=4
+	UseAreaID=1
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356571.08562 
+	Major=6378193.64237  
+Datum End

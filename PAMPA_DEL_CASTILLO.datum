@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= PAMPA_DEL_CASTILLO
+	POSCName	= "Pampa del Castillo"
+	POSCCode	= 6161
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+Datum End

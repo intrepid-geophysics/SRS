@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= VIRGINIA_CS83_SOUTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 37.58
+	StdLat2	= 36.46
+	POSCCode	= 14532
+	POSCName	= "Virginia CS83 South zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

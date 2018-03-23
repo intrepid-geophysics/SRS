@@ -1,0 +1,10 @@
+#Converted from feet to metres
+Datum Begin
+	DatumName	= KALIANPUR1880
+	POSCName	= "Kalianpur 1880"
+	POSCCode	= 6243
+	Description	= "Generated"
+	Ellipsoid	= "Everest (1830 Definition)"
+	Major	= 6377309.61264 
+	Minor	= 6356108.57198 
+Datum End

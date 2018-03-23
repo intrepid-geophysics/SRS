@@ -1,0 +1,19 @@
+#Converted from feet to metres
+
+Datum Begin
+	DatumName=TIMBALFT
+	Description="TIMBALAI "
+	MeridID=1 
+	OriginName="TIMBALAI "
+	OriginLatitude=5.2843189 
+	OriginLongitude=115.1823358 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=5
+	UseAreaID=29
+	Source="R.A.S - FOR DIGITISING PETRONAS MAPS. USE WITH BORNEOFT PROJN. (ELF-AQUITAINE)"
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356108.57018 
+	Major=6377309.61264 
+Datum End

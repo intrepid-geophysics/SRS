@@ -1,0 +1,6 @@
+Projection Begin
+	ProjectionType = ModifiedPolyconic
+	CentralMeridian=-118
+	StdLat1=36
+	StdLat2=40
+Projection End

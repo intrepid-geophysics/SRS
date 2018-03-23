@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= ELD79
+	POSCName	= "European Libyan Datum 1979"
+	POSCCode	= 6159
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+Datum End

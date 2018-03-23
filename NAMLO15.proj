@@ -1,0 +1,9 @@
+Projection Begin
+#  namibian zone
+	ProjectionType = TransverseMercator
+	CentralMeridian=15.0
+	LatOrigin = -22.0
+	FalseNorthing=0.0 
+	FalseEasting=0.0 
+	ScaleFactor=1.0 
+Projection End

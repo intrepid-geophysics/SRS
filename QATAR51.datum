@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=QATAR51
+	Description="QATAR GRID 1948 "
+	MeridID=1 
+	OriginName="SOKEY 0 M "
+	OriginLatitude=25.3823611 
+	OriginLongitude=50.7613889 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=25
+	Source="TCJ 28.6.88 TRIG.FILE "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356818.169628
+	Major=6378200.0 
+Datum End

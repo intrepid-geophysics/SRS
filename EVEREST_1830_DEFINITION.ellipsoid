@@ -1,0 +1,9 @@
+#Converted from feet to metres
+Ellipsoid Begin
+	Name	= EVEREST_1830_DEFINITION
+	POSCName	= "Everest (1830 Definition)"
+	POSCCode	= "7042"
+	Description	= "Generated"
+	Major	= 6377309.61264
+	Flattening	= 300.8017
+Ellipsoid End

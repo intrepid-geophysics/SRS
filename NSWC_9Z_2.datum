@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NSWC_9Z_2
+	POSCName	= "NSWC 9Z-2"
+	POSCCode	= 6276
+	Description	= "Generated"
+	Ellipsoid	= "NWL 9D"
+	Major	= 6378145
+	Minor	= 6356759.769489
+Datum End

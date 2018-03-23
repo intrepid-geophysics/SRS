@@ -1,0 +1,9 @@
+Projection Begin
+	ProjectionType=AlbersEqualArea
+	CentralMeridian=-126.0000
+	StdLat1=58.5000
+	StdLat2=50.0000
+	LatOrigin=45.0000
+	FalseEasting=1000000.000000
+	FalseNorthing=0.0000000
+Projection End

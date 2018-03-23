@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= MICHIGAN_STATE_PLANE_WEST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -88.45
+	LatOrigin	= 41.3
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999909091
+	POSCCode	= 12103
+	POSCName	= "Michigan State Plane West zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

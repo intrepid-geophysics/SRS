@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= FLORIDA_CS27_NORTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 30.45
+	StdLat2	= 29.35
+	POSCCode	= 10903
+	POSCName	= "Florida CS27 North zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

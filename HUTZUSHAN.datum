@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= HUTZUSHAN
+	POSCName	= "Hu Tzu Shan"
+	POSCCode	= 6236
+	Description	= "Generated"
+	Ellipsoid	= "International 1924"
+	Major	= 6378388
+	Minor	= 6356911.946128
+Datum End

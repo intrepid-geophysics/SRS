@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= UTM_ZONE_34S
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 21
+	LatOrigin	= 0
+	FalseEasting	= 500000
+	FalseNorthing	= 10000000
+	ScaleFactor	= 0.9996
+	POSCCode	= 16134
+	POSCName	= "UTM zone 34S"
+	POSCMethod	= "Transverse Mercator"
+Projection End

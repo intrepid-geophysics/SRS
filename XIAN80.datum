@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=XIAN80
+	Description="XIAN 1980 "
+	MeridID=1 
+	OriginName="XIAN OBSERVATORY "
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 18/8/83. PAPER BY ZHOU JIANG WEN I.G.G. WUCHANG. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356752.314140
+	Major=6378137.0 
+Datum End

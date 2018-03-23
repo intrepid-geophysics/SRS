@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_EVEREST_1830_MODIFIED_ELLIPSOID
+	POSCName	= "Not specified (based on Everest 1830 Modified ellipsoid)"
+	POSCCode	= 6018
+	Description	= "Generated"
+	Ellipsoid	= "Everest 1830 Modified"
+	Major	= 6377304.063
+	Minor	= 6356103.038993
+Datum End

@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= DEIR_EZ_ZOR
+	POSCName	= "Deir ez Zor"
+	POSCCode	= 6227
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (IGN)"
+	Major	= 6378249.2
+	Minor	= 6356515
+Datum End

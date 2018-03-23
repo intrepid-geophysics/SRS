@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= PADANG_1884_JAKARTA
+	POSCName	= "Padang 1884 (Jakarta)"
+	POSCCode	= 6808
+	Description	= "Generated"
+	Ellipsoid	= "Bessel 1841"
+	Major	= 6377397.155
+	Minor	= 6356078.962818
+Datum End

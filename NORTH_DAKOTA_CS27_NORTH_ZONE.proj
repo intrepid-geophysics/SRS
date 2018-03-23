@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= NORTH_DAKOTA_CS27_NORTH_ZONE
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 47.26
+	StdLat2	= 48.44
+	POSCCode	= 13301
+	POSCName	= "North Dakota CS27 North zone"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

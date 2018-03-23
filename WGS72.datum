@@ -1,0 +1,23 @@
+Datum Begin
+	DatumName	= WGS72
+	Minor	= 6356750.520016
+	Major	= 6378135
+	DatumChange Begin
+		Comment	= "WGS 72 to WGS 84 (1)"
+		ToDatum	= WGS84
+		DX	= 0
+		DY	= 0
+		DZ	= 4.5
+		OMEGA	= 0
+		PHI	= 0
+		KAPPA	= 0.554
+		SCALEDIFF	= 0.2263
+	DatumChange End
+	POSCName	= "World Geodetic System 1972"
+	POSCCode	= 6322
+	Description	= "Generated"
+	Ellipsoid Begin
+		POSCCode	= "7043"
+		POSCName	= "WGS 72"
+	Ellipsoid End
+Datum End

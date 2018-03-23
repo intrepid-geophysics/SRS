@@ -1,0 +1,20 @@
+#converted from feet
+
+Datum Begin
+# original units feet
+	DatumName=ACCRA
+	Description="ACCRA "
+	MeridID=1 
+	OriginName="G.C.S. STATION 547 "
+	OriginLatitude=5.3953611 
+	OriginLongitude=-0.1978611 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="RJL 22/3/83. USED FOR INITIAL ADJUSTMENTOF GOLD COAST (GHANA) TRIANGULATION. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356757.7335
+	Major=6378306.0648
+Datum End

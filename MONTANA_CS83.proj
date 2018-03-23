@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= MONTANA_CS83
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 49
+	StdLat2	= 45
+	POSCCode	= 12530
+	POSCName	= "Montana CS83"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

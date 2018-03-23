@@ -1,0 +1,5 @@
+Datum Begin
+	DatumName=WGS60
+	Major=6378165
+	Minor=6356783.4
+Datum End

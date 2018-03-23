@@ -1,0 +1,6 @@
+Projection Begin
+	ProjectionType=PolarStereographic
+	StdLat = -60.0  # latitude where scale factor is true
+	CentralMeridian = 120
+	CentralLatitude = -90.0  # south pole view
+Projection End

@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= NEW_YORK_CS83_CENTRAL_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -76.35
+	LatOrigin	= 40
+	FalseEasting	= 250000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9999375
+	POSCCode	= 13132
+	POSCName	= "New York CS83 Central zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

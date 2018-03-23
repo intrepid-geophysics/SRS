@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_NWL_9D_ELLIPSOID
+	POSCName	= "Not specified (based on NWL 9D ellipsoid)"
+	POSCCode	= 6025
+	Description	= "Generated"
+	Ellipsoid	= "NWL 9D"
+	Major	= 6378145
+	Minor	= 6356759.769489
+Datum End

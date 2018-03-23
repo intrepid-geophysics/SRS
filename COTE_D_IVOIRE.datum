@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= COTE_D_IVOIRE
+	POSCName	= "Cote d'Ivoire"
+	POSCCode	= 6226
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (IGN)"
+	Major	= 6378249.2
+	Minor	= 6356515
+Datum End

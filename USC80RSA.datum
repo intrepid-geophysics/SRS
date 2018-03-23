@@ -1,0 +1,16 @@
+Datum Begin
+	DatumName=USC80RSA
+	Description="NOT SPECIFIED "
+	MeridID=1 
+	OriginLatitude=0.0 
+	OriginLongitude=0.0 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="USED ONLY IN SOUTH AFRICA. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356514.966399
+	Major=6378249.145 
+Datum End

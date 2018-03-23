@@ -1,0 +1,15 @@
+Datum Begin
+	DatumName=EUREF_FIN
+	Minor=6356752.314140356
+	Major=6378137.0
+	DatumChange Begin
+		ToDatum=FINKKJ
+		DX=  -96.061700
+		DY=   -82.427800
+		DZ= -121.753500
+		OMEGA=    -4.801070
+		PHI=    -0.345430
+		KAPPA=    1.376460
+		SCALEDIFF=    1.496400
+	DatumChange End
+Datum End

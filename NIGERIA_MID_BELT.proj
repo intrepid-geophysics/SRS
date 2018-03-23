@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= NIGERIA_MID_BELT
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 8.3
+	LatOrigin	= 4
+	FalseEasting	= 670553.98
+	FalseNorthing	= 0
+	ScaleFactor	= 0.99975
+	POSCCode	= 18152
+	POSCName	= "Nigeria Mid Belt"
+	POSCMethod	= "Transverse Mercator"
+Projection End

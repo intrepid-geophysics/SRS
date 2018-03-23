@@ -1,0 +1,34 @@
+Datum Begin
+    DatumName   = SIRGAS-ROU98
+    Minor   = 6356752.314248
+    Major   = 6378137
+    POSCName    = "SIRGAS-ROU98"
+    POSCCode    = 1068
+    Description = "WGS84(1) equivalent for Uruguay - replaces Yacare 6309"
+    Ellipsoid Begin
+        POSCCode    = "7030"
+        POSCName    = "WGS 84"
+    Ellipsoid End
+	DatumChange Begin
+	Comment = "WGS84 is identical"
+		ToDatum = WGS84
+		DX= 0
+		DY= 0
+		DZ= 0
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
+	DatumChange Begin
+	Comment = "SIRGAS-ROU98 to Yacare Note: WGS84(1)Datum is identical to SIRGAS-ROU98"
+		ToDatum = YACARE
+		DX= 124.45
+		DY= -183.74
+		DZ= -44.64
+		OMEGA= -0.4384
+		PHI= -0.5446
+		KAPPA= 0.9706
+		SCALEDIFF = 2.1365
+	DatumChange End
+Datum End

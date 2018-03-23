@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=PTNOIRE
+	Description="POINT NOIRE (ASTRO) "
+	MeridID=1 
+	OriginName="POINT NOIRE (ASTRO) "
+	OriginLatitude=-4.7833611 
+	OriginLongitude=11.8504306 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=24
+	Source="RAS - 1/6/89. INFO FROM DGL. "
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356515.000000
+	Major=6378249.2 
+Datum End

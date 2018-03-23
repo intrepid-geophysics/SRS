@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= IDAHO_CS83_CENTRAL_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -114
+	LatOrigin	= 41.4
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999947368
+	POSCCode	= 11132
+	POSCName	= "Idaho CS83 Central zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

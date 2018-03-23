@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= NEW_MEXICO_CS83_WEST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -107.5
+	LatOrigin	= 31
+	FalseEasting	= 830000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999916667
+	POSCCode	= 13033
+	POSCName	= "New Mexico CS83 West zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

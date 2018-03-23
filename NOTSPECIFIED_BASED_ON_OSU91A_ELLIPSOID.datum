@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= NOTSPECIFIED_BASED_ON_OSU91A_ELLIPSOID
+	POSCName	= "Not specified (based on OSU91A ellipsoid)"
+	POSCCode	= 6033
+	Description	= "Generated"
+	Ellipsoid	= "OSU91A"
+	Major	= 6378136.3
+	Minor	= 6356751.616595
+Datum End

@@ -1,0 +1,356 @@
+posc_code,posc_name,erm_name,mapinfo,prj
+6143,Abidjan 1987,ABIDJAN_1987,0,Unknown
+Unknown,Unknown,ACCRA,0,Unknown
+6201,Adindan,ADINDAN,1,Unknown
+6205,Afgooye,AFGOOYE,2,Unknown
+6206,Agadez,AGADEZ,0,Unknown
+Unknown,Unknown,AINABD70,0,Unknown
+6204,Ain el Abd 1970,AINEL_ABD,3,Unknown
+6289,Amersfoort,AMERSFOORT,0,Unknown
+6901,Ancienne Triangulation Francaise (Paris),ATFPARIS,0,Unknown
+6600,Anguilla 1957,ANGUILLA_1957,0,Unknown
+6601,Antigua 1943,ANTIGUA_1943,0,Unknown
+6208,Aratu,ARATU,0,Unknown
+6209,Arc 1950,ARC1950,5,Unknown
+6210,Arc 1960,ARC1960,6,Unknown
+Unknown,Unknown,ARCDRC,0,Unknown
+6202,Australian Geodetic Datum 1966,AGD66,12,D_Australian_1966
+6203,Australian Geodetic Datum 1984,AGD84,13,D_Australian_1984
+6122,Average Terrestrial System 1977,ATS77,0,Unknown
+Unknown,Unknown,BAHRAIN,0,Unknown
+6212,Barbados 1938,BARBADOS_1938,0,Unknown
+6211,Batavia,BATAVIA,25,Unknown
+6813,Batavia (Jakarta),BATAVIA_JAKARTA,25,Unknown
+6213,Beduaram,BEDUARAM,0,Unknown
+Unknown,Unknown,BEIJING,0,Unknown
+6214,Beijing 1954,BEIJING_1954,0,Unknown
+Unknown,Unknown,BELG50,0,Unknown
+6216,Bermuda 1957,BERMUDA_1957,15,Unknown
+6306,Bern 1938,BERN_1938,0,Unknown
+Unknown,Unknown,BERNNEW,0,Unknown
+6165,Bissau,BISSAU,0,Unknown
+6218,Bogota,BOGOTA,16,Unknown
+6802,Bogota (Bogota),BOGOTA_BOGOTA,16,Unknown
+6686,MAGNA,MAGNA,0,D_MAGNA
+6219,Bukit Rimpah,BUKIT_RIMPAH,0,Unknown
+6220,Camacupa,CAMACUPA,0,Unknown
+6221,Campo Inchauspe,CAMPO_INCHAUSPE,17,Unknown
+6222,Cape,CAPE,19,Unknown
+6223,Carthage,CARTHAGE,21,Unknown
+6816,Carthage (Paris),CARTHAGE_PARIS,21,Unknown
+6150,CH1903+,CH1903,0,Unknown
+6801,CH1903 (Bern),CH1903_BERN,0,Unknown
+6160,Chos Malal 1914,CHOS_MALAL_1914,0,Unknown
+6224,Chua,CHUA,23,Unknown
+Unknown,Unknown,CLRK1866,0,Unknown
+Unknown,Unknown,CLARKE1880,0,Unknown
+Unknown,Unknown,CMPOINCH,0,Unknown
+6315,Conakry 1905,CONAKRY_1905,0,Unknown
+Unknown,Unknown,CORRALEG,24,Unknown
+6225,Corrego Alegre,CORREGO_ALEGRE,24,Unknown
+6226,Cote d'Ivoire,COTE_D_IVOIRE,0,Unknown
+6155,Dabola 1981,DABOLA_1981,0,Unknown
+6274,Datum 73,DATUM_73,0,Unknown
+6316,Dealul Piscului 1933,DEALUL_PISCULUI_1933,0,Unknown
+6317,Dealul Piscului 1970,DEALUL_PISCULUI_1970,0,Unknown
+Unknown,Unknown,DEIR,0,Unknown
+6227,Deir ez Zor,DEIR_EZ_ZOR,0,Unknown
+6314,Deutsche Hauptdreiecksnetz,DHDN,0,Unknown
+6602,Dominica 1945,DOMINICA_1945,0,Unknown
+6228,Douala,DOUALA,0,Unknown
+Unknown,Unknown,ED50EGYT,28,Unknown
+Unknown,Unknown,ED50SVAL,0,Unknown
+Unknown,Unknown,EDMCE75,0,Unknown
+Unknown,Unknown,EGYPT07,76,Unknown
+Unknown,Unknown,EGYPT24,76,Unknown
+6229,Egypt 1907,EGYPT_1907,76,Unknown
+6133,Estonia 1992,EST92,0,Unknown
+Unknown,Unknown,ETRF89,0,Unknown
+6230,European Datum 1950,ED50,28,Unknown
+6154,European Datum 1950(1977),ED50_ED77,28,Unknown
+6231,European Datum 1987,ED87,108,Unknown
+6159,European Libyan Datum 1979,ELD79,0,Unknown
+6258,European Terrestrial Reference Frame 89,EUROPEAN_TERRESTRIAL_REFERENCE_FRAME_89,0,Unknown
+6761,HTRS96,HTRS96,HTRS96,GCS_HTRS69
+6760,ETRS89,ETRS89,ETRS89_GCS_ETRS89
+Unknown,Unknown,EVVIETNM,0,Unknown
+6232,Fahud,FAHUD,0,Unknown
+6132,Final Datum 1958,FD58,0,Unknown
+6123,Kartastokoordinaattijarjestelma (1966),FINKKJ,24,DD_KKJ
+6258,European Terrestrial Reference System 1989,EUREF_FIN,0,D_ETRS_1989
+Unknown,Unknown,FISCHER1960,0,Unknown
+Unknown,Unknown,FISCHER1968,0,Unknown
+Unknown,Unknown,FISCHER60SA,0,Unknown
+6233,Gandajika 1970,GANDAJIKA_1970,30,Unknown
+6234,Garoua,GAROUA,0,Unknown
+Unknown,Unknown,GEM6,0,Unknown
+#For MAPINFO 5.5 GDA94 is treated as WGS84(104).  Use 116 with next version of MAPINFO,,,,Unknown
+#6283,Geocentric Datum of Australia 1994,GDA94,116,Unknown
+6283,Geocentric Datum of Australia 1994,GDA94,104,D_GDA_1994
+6120,Greek,GREEK,0,Unknown
+6815,Greek (Athens),GREEK_ATHENS,0,Unknown
+6121,Greek Geodetic Reference System 1987,GGRS87,0,Unknown
+6603,Grenada 1953,GRENADA_1953,0,Unknown
+6235,Guyane Francaise,GUYANE_FRANCAISE,0,Unknown
+6147,Hanoi 1972,HANOI_1972,0,Unknown
+6148,Hartebeesthoek94,HARTEBEESTHOEK94,0,Unknown
+6237,Hungarian Datum 1972,HD72,0,Unknown
+6255,Herat North,HERAT_NORTH,0,Unknown
+6254,Hito XVIII 1963,HITO_XVIII_1963,36,Unknown
+Unknown,Unknown,HOUGH,0,Unknown
+6236,Hu Tzu Shan,HU_TZU_SHAN,39,Unknown
+6238,Indonesian Datum 1974,ID74,0,Unknown
+Unknown,Unknown,IND74,0,Unknown
+Unknown,Unknown,INDIAN54,41,Unknown
+Unknown,Unknown,INDIAN60,41,Unknown
+Unknown,Unknown,INDIAN75,41,Unknown
+6239,Indian 1954,INDIAN_1954,41,Unknown
+6131,Indian 1960,INDIAN_1960,41,Unknown
+6240,Indian 1975,INDIAN_1975,41,Unknown
+6173,IRENET95,ETRS89,115,D_IRENET95
+6141,Israel,ISRAEL,0,Unknown
+Unknown,Unknown,ISRLURIM,0,Unknown
+Unknown,Unknown,JA1875,0,Unknown
+6242,Jamaica 1969,JAD69,0,Unknown
+6241,Jamaica 1875,JAMAICA_1875,0,Unknown
+6156,Jednote Trigonometricke Siti Kataastrali,S_JTSK,0,Unknown
+Unknown,Unknown,KALIANPR,0,Unknown
+6243,Kalianpur 1880,KALIANPUR_1880,0,Unknown
+6144,Kalianpur 1937,KALIANPUR_1937,0,Unknown
+6145,Kalianpur 1962,KALIANPUR_1962,0,Unknown
+6146,Kalianpur 1975,KALIANPUR_1975,0,Unknown
+6244,Kandawala,KANDAWALA,0,Unknown
+Unknown,Unknown,KARBALA,0,Unknown
+6123,Kartastokoordinaattijarjestelma,KKJ,24,Unknown
+6245,Kertau,KERTAU,47,Unknown
+6162,Korean Datum 1985,KOREAN_DATUM_1985,0,Unknown
+6166,Korean Datum 1995,KOREAN_DATUM_1995,0,Unknown
+6246,Kuwait Oil Company,KOC,0,Unknown
+6319,Kuwait Utility,KUDAMS,0,Unknown
+6247,La Canoa,LA_CANOA,0,Unknown
+Unknown,Unknown,LACANOA,0,Unknown
+6249,Lake,LAKE,0,Unknown
+6250,Leigon,LEIGON,0,Unknown
+6251,Liberia 1964,LIBERIA_1964,49,Unknown
+Unknown,Unknown,LISBOA,113,Unknown
+6207,Lisbon,LISBON,113,Unknown
+6803,Lisbon (Lisbon),LISBON_LISBON,113,Unknown
+6126,Lithuania 1994 (ETRS89),LKS94_ETRS89,0,Unknown
+6142,Locodjo 1965,LOCODJO_1965,0,Unknown
+6288,Loma Quintana,LOMA_QUINTANA,0,Unknown
+6252,Lome,LOME,0,Unknown
+Unknown,Unknown,LUZON11,0,Unknown
+6253,Luzon 1911,LUZON_1911,0,Unknown
+6903,Madrid 1870 (Madrid),MADRID_1870_MADRID,0,Unknown
+6128,Madzansua,MADZANSUA,0,Unknown
+Unknown,Unknown,MAHE71,0,Unknown
+6256,Mahe 1971,MAHE_1971,52,Unknown
+6257,Makassar,MAKASSAR,0,Unknown
+6804,Makassar (Jakarta),MAKASSAR_JAKARTA,0,Unknown
+Unknown,Unknown,MALONG79,0,Unknown
+Unknown,Unknown,MALONG90,0,Unknown
+6259,Malongo 1987,MALONGO_1987,0,Unknown
+6260,Manoca,MANOCA,0,Unknown
+Unknown,Unknown,MANOKA,0,Unknown
+6262,Massawa,MASSAWA,54,Unknown
+6261,Merchich,MERCHICH,55,D_Merchich
+6264,Mhast,MHAST,0,Unknown
+6312,Militar-Geographische Institut,MGI,0,Unknown
+6805,Militar-Geographische Institut (Ferro),MILITAR_GEOGRAPHISCHE_INSTITUT_FERRO,0,Unknown
+Unknown,Unknown,MINAA,57,Unknown
+6263,Minna,MINNA,57,Unknown
+Unknown,Unknown,MONTEMAR,0,Unknown
+6265,Monte Mario,MONTE_MARIO,0,Unknown
+6806,Monte Mario (Rome),MONTE_MARIO_ROME,0,Unknown
+Unknown,Unknown,MONTROME,0,Unknown
+6604,Montserrat 1958,MONTSERRAT_1958,0,Unknown
+6157,Mount Dillon,MOUNT_DILLON,0,Unknown
+6130,Moznet (ITRF94),MOZNET,0,Unknown
+Unknown,Unknown,MPORO,0,Unknown
+6266,M'poraloko,M_PORALOKO,0,Unknown
+Unknown,Unknown,NAD27_NAS-A,0,Unknown
+Unknown,Unknown,NAD27_NAS-B,0,Unknown
+Unknown,Unknown,NAD27_NAS-E,0,Unknown
+Unknown,Unknown,NAD27_NAS-F,0,Unknown
+Unknown,Unknown,NAD27_NAS-G,0,Unknown
+Unknown,Unknown,NAD27_NAS-H,0,Unknown
+Unknown,Unknown,NAD27_NAS-I,0,Unknown
+Unknown,Unknown,NAD27_NAS-J,0,Unknown
+Unknown,Unknown,NAD27_NAS-N,0,Unknown
+Unknown,Unknown,NAD27MOD,62,Unknown
+Unknown,Unknown,NAD27MTR,62,Unknown
+Unknown,Unknown,NAD83,74,Unknown
+6140,NAD83 Canadian Spatial Reference System,NAD83_CSRS98,74,Unknown
+6152,NAD83 (High Accuracy Regional Network),NAD83_HARN,74,Unknown
+6268,NAD Michigan,NADMICHIGAN,73,Unknown
+Unknown,Unknown,NAHRWAN,58,Unknown
+6270,Nahrwan 1967,NAHRWAN_1967,58,Unknown
+Unknown,Unknown,NAMIBIA,91,Unknown
+6158,Naparima 1955,NAPARIMA_1955,61,Unknown
+6271,Naparima 1972,NAPARIMA_1972,61,Unknown
+6902,Nord de Guerre (Paris),NDGPARIS,0,Unknown
+6318,National Geodetic Network,NGN,0,Unknown
+6272,New Zealand Geodetic Datum 1949,NZGD49,1010,GCS_New_Zealand_1949
+6272,New Zealand Geodetic Datum 1949,GD49,1010,GCS_New_Zealand_1949
+6167,New Zealand Geodetic Datum 2000,NZGD2000,117,GCS_NZGD_2000
+6273,NGO 1948,NGO1948,0,Unknown
+6817,NGO 1948 (Oslo),NGO1948_OSLO,0,Unknown
+6307,Nord Sahara 1959,NORD_SAHARA_1959,0,Unknown
+6819,Nord Sahara 1959 (Paris),NORD_SAHARA_1959_PARIS,0,Unknown
+6267,North American Datum 1927,NAD27,62,D_North_American_1927
+6609,North American Datum 1927 (CGQ77),CGQ77,63,D_North_American_1927_CGQ77
+6608,North American Datum 1927 (1976),NAD27_76,62,D_North_American_1927_1976
+6269,North American Datum 1983,NORTH_AMERICAN_DATUM_1983,74,D_North_American_1983
+6001,Not specified (based on Airy 1830 ellipsoid),NOTSPECIFIED_BASED_ON_AIRY_1830_ELLIPSOID,0,Unknown
+6002,Not specified (based on Airy Modified 1849 ellipsoid),NOTSPECIFIED_BASED_ON_AIRY_MODIFIED_1849_ELLIPSOID,0,Unknown
+6003,Not specified (based on Australian National Spheroid),NOTSPECIFIED_BASED_ON_AUSTRALIAN_NATIONAL_SPHEROID,0,Unknown
+6035,Not specified (based on Authalic Sphere),NOTSPECIFIED_BASED_ON_AUTHALIC_SPHERE,0,Unknown
+6041,Not specified (based on Average Terrestrial System 1977 ellipsoid),NOTSPECIFIED_BASED_ON_AVERAGE_TERRESTRIAL_SYSTEM_1977_ELLIPSOID,0,Unknown
+6004,Not specified (based on Bessel 1841 ellipsoid),NOTSPECIFIED_BASED_ON_BESSEL_1841_ELLIPSOID,0,Unknown
+6005,Not specified (based on Bessel Modified ellipsoid),NOTSPECIFIED_BASED_ON_BESSEL_MODIFIED_ELLIPSOID,0,Unknown
+6006,Not specified (based on Bessel Namibia ellipsoid),NOTSPECIFIED_BASED_ON_BESSEL_NAMIBIA_ELLIPSOID,0,Unknown
+6007,Not specified (based on Clarke 1858 ellipsoid),NOTSPECIFIED_BASED_ON_CLARKE_1858_ELLIPSOID,0,Unknown
+6008,Not specified (based on Clarke 1866 ellipsoid),NOTSPECIFIED_BASED_ON_CLARKE_1866_ELLIPSOID,0,Unknown
+6009,Not specified (based on Clarke 1866 Michigan ellipsoid),NOTSPECIFIED_BASED_ON_CLARKE_1866_MICHIGAN_ELLIPSOID,0,Unknown
+6013,Not specified (based on Clarke 1880 (Arc) ellipsoid),NOTSPECIFIED_BASED_ON_CLARKE_1880_ARC_ELLIPSOID,0,Unknown
+6010,Not specified (based on Clarke 1880 (Benoit) ellipsoid),NOTSPECIFIED_BASED_ON_CLARKE_1880_BENOIT_ELLIPSOID,0,Unknown
+6034,Not specified (based on Clarke 1880 ellipsoid),NOTSPECIFIED_BASED_ON_CLARKE_1880_ELLIPSOID,0,Unknown
+6011,Not specified (based on Clarke 1880 (IGN) ellipsoid),NOTSPECIFIED_BASED_ON_CLARKE_1880_IGN_ELLIPSOID,0,Unknown
+6012,Not specified (based on Clarke 1880 (RGS) ellipsoid),NOTSPECIFIED_BASED_ON_CLARKE_1880_RGS_ELLIPSOID,0,Unknown
+6014,Not specified (based on Clarke 1880 (SGA 1922) ellipsoid),NOTSPECIFIED_BASED_ON_CLARKE_1880_SGA_1922_ELLIPSOID,0,Unknown
+6015,Not specified (based on Everest 1830 (1937 Adjustment) ellipsoid),NOTSPECIFIED_BASED_ON_EVEREST_1830_1937_ADJUSTMENT_ELLIPSOID,0,Unknown
+6044,Not specified (based on Everest 1830 (1962 Definition) ellipsoid),NOTSPECIFIED_BASED_ON_EVEREST_1830_1962_DEFINITION_ELLIPSOID,0,Unknown
+6016,Not specified (based on Everest 1830 (1967 Definition) ellipsoid),NOTSPECIFIED_BASED_ON_EVEREST_1830_1967_DEFINITION_ELLIPSOID,0,Unknown
+6045,Not specified (based on Everest 1830 (1975 Definition) ellipsoid),NOTSPECIFIED_BASED_ON_EVEREST_1830_1975_DEFINITION_ELLIPSOID,0,Unknown
+6042,Not specified (based on Everest (1830 Definition) ellipsoid),NOTSPECIFIED_BASED_ON_EVEREST_1830_DEFINITION_ELLIPSOID,0,Unknown
+6018,Not specified (based on Everest 1830 Modified ellipsoid),NOTSPECIFIED_BASED_ON_EVEREST_1830_MODIFIED_ELLIPSOID,0,Unknown
+6031,Not specified (based on GEM 10C ellipsoid),NOTSPECIFIED_BASED_ON_GEM_10C_ELLIPSOID,0,Unknown
+6036,Not specified (based on GRS 1967 ellipsoid),NOTSPECIFIED_BASED_ON_GRS_1967_ELLIPSOID,0,Unknown
+6019,Not specified (based on GRS 1980 ellipsoid),NOTSPECIFIED_BASED_ON_GRS_1980_ELLIPSOID,0,Unknown
+6020,Not specified (based on Helmert 1906 ellipsoid),NOTSPECIFIED_BASED_ON_HELMERT_1906_ELLIPSOID,0,Unknown
+6021,Not specified (based on Indonesian National Spheroid),NOTSPECIFIED_BASED_ON_INDONESIAN_NATIONAL_SPHEROID,0,Unknown
+6022,Not specified (based on International 1924 ellipsoid),NOTSPECIFIED_BASED_ON_INTERNATIONAL_1924_ELLIPSOID,0,Unknown
+6024,Not specified (based on Krassowsky 1940 ellipsoid),NOTSPECIFIED_BASED_ON_KRASSOWSKY_1940_ELLIPSOID,0,Unknown
+6025,Not specified (based on NWL 9D ellipsoid),NOTSPECIFIED_BASED_ON_NWL_9D_ELLIPSOID,0,Unknown
+6032,Not specified (based on OSU86F ellipsoid),NOTSPECIFIED_BASED_ON_OSU86F_ELLIPSOID,0,Unknown
+6033,Not specified (based on OSU91A ellipsoid),NOTSPECIFIED_BASED_ON_OSU91A_ELLIPSOID,0,Unknown
+6027,Not specified (based on Plessis 1817 ellipsoid),NOTSPECIFIED_BASED_ON_PLESSIS_1817_ELLIPSOID,0,Unknown
+6028,Not specified (based on Struve 1860 ellipsoid),NOTSPECIFIED_BASED_ON_STRUVE_1860_ELLIPSOID,0,Unknown
+6029,Not specified (based on War Office ellipsoid),NOTSPECIFIED_BASED_ON_WAR_OFFICE_ELLIPSOID,0,Unknown
+6043,Not specified (based on WGS 72 ellipsoid),NOTSPECIFIED_BASED_ON_WGS_72_ELLIPSOID,0,Unknown
+6030,Not specified (based on WGS 84 ellipsoid),NOTSPECIFIED_BASED_ON_WGS_84_ELLIPSOID,0,Unknown
+6275,Nouvelle Triangulation Francaise,NTF,107,D_NTF
+6807,Nouvelle Triangulation Francaise (Paris),NOUVELLE_TRIANGULATION_FRANCAISE_PARIS,107,D_NTF
+6276,NSWC 9Z-2,NSWC_9Z_2,0,Unknown
+Unknown,Unknown,NTFPARG,107,Unknown
+Unknown,Unknown,NTFPARIS,107,Unknown
+Unknown,Unknown,NWL9D,0,Unknown
+6129,Observatario,OBSERVATARIO,0,Unknown
+6135,Old Hawaiian,OLDHAWAIIAN,77,Unknown
+Unknown,Unknown,OSGB36,0,Unknown
+6277,OSGB 1936,OSGB_1936,79,Unknown
+6278,OSGB 1970 (SN),OSGB70,79,Unknown
+Unknown,Unknown,OSSN80,0,Unknown
+6279,OS (SN) 1980,OS_SN_80,0,Unknown
+6280,Padang 1884,PADANG,0,Unknown
+6808,Padang 1884 (Jakarta),PADANG_1884_JAKARTA,0,Unknown
+Unknown,Unknown,PALEST23,0,Unknown
+6281,Palestine 1923,PALESTINE_1923,0,Unknown
+6161,Pampa del Castillo,PAMPA_DEL_CASTILLO,0,Unknown
+6134,PDO Survey Datum 1993,PSD93,0,Unknown
+6282,Pointe Noire,POINTE_NOIRE,0,Unknown
+Unknown,Unknown,POTSDAM,1000,Unknown
+Unknown,Unknown,PRS92,0,Unknown
+6248,Provisional South American Datum 1956,PSAD56,0,Unknown
+Unknown,Unknown,PTNOIRE,0,Unknown
+6139,Puerto Rico,PUERTO_RICO,83,Unknown
+Unknown,Unknown,PULKOVO,1001,Unknown
+6284,Pulkovo 1942,PULKOVO_1942,1001,Unknown
+6200,Pulkovo 1995,PULKOVO_1995,1001,Unknown
+6285,Qatar,QATAR,84,Unknown
+6286,Qatar 1948,QATAR_1948,84,Unknown
+Unknown,Unknown,QATAR51,84,Unknown
+6287,Qornoq,QORNOQ,85,Unknown
+6153,Rassadiran,RASSADIRAN,0,Unknown
+Unknown,Unknown,RAW,0,Unknown
+6215,Reseau National Belge 1950,BELGE_1950,110,Unknown
+6809,Reseau National Belge 1950 (Brussels),RESEAU_NATIONAL_BELGE_1950_BRUSSELS,0,Unknown
+6313,Reseau National Belge 1972,BELGE_1972,110,Unknown
+6171,Reseau Geodesique Francais 1993,RGF93,33,D_RGF_1993 
+6124,Rikets koordinatsystem 1990,RT90,112,Unknown
+6125,Samboja,SAMBOJA,0,Unknown
+6292,Sapper Hill 1943,SAPPER_HILL_1943,90,Unknown
+6293,Schwarzeck,SCHWARZECK,91,Unknown
+6294,Segora,SEGORA,0,Unknown
+6175,Sierra Leone 1968,SIERRA_LEONE1968,0,Unknown
+6295,Serindung,SERINDUNG,0,Unknown
+6618,South American Datum 1969,SAD69,92,D_SAD_1969
+1075,South American Datum 1969(96),SAD69(96),92,D_SAD_1969_96
+6164,South Yemen,SOUTH_YEMEN,0,Unknown
+Unknown,Unknown,SPHERE,0,Unknown
+Unknown,Unknown,SPHERE2,0,Unknown
+6308,Stockholm 1938,STOCKHOLM_1938,0,Unknown
+6814,Stockholm 1938 (Stockholm),STOCKHOLM_1938_STOCKHOLM,0,Unknown
+6138,St. George Island,ST_GEORGE_ISLAND,0,Unknown
+6605,St. Kitts 1955,ST_KITTS_1955,0,Unknown
+6136,St. Lawrence Island,ST_LAWRENCE_ISLAND,0,Unknown
+6606,St. Lucia 1955,ST_LUCIA_1955,0,Unknown
+6137,St. Paul Island,ST_PAUL_ISLAND,0,Unknown
+6607,St. Vincent 1945,ST_VINCENT_1945,0,Unknown
+6296,Sudan,SUDAN,0,Unknown
+6151,Swiss Terrestrial Reference Frame 1995,CHTRF95,1003,Unknown
+6818,S-JTSK (Ferro),S_JTSK_FERRO,0,Unknown
+Unknown,Unknown,TANANAR,0,Unknown
+6297,Tananarive 1925,TANANARIVE,0,Unknown
+6810,Tananarive 1925 (Paris),TANANARIVE_1925_PARIS,0,Unknown
+Unknown,Unknown,TANANPAR,0,Unknown
+6303,Trucial Coast 1948,TC_1948,0,Unknown
+6127,Tete,TETE,0,Unknown
+Unknown,Unknown,TIMBALAI,96,Unknown
+6298,Timbalai 1948,TIMBALAI_1948,96,Unknown
+Unknown,Unknown,TIMBALFT,96,Unknown
+6299,TM65,TM65,0,Unknown
+6300,TM75,TM75,0,Unknown
+6301,Tokyo,TOKYO,97,Unknown
+6302,Trinidad 1903,TRINIDAD_1903,0,Unknown
+Unknown,Unknown,TRUCIAL,0,Unknown
+Unknown,Unknown,USAIRMOD,0,Unknown
+Unknown,Unknown,USAIRY,0,Unknown
+Unknown,Unknown,USANS,0,Unknown
+Unknown,Unknown,USBESMOD,0,Unknown
+Unknown,Unknown,USBESS,0,Unknown
+Unknown,Unknown,USC58MTR,0,Unknown
+Unknown,Unknown,USC66AFT,0,Unknown
+Unknown,Unknown,USC66MTR,0,Unknown
+Unknown,Unknown,USC80IGN,0,Unknown
+Unknown,Unknown,USC80MOD,0,Unknown
+Unknown,Unknown,USC80RSA,0,Unknown
+Unknown,Unknown,USEV37AD,0,Unknown
+Unknown,Unknown,USEV67,0,Unknown
+Unknown,Unknown,USGRS67,0,Unknown
+Unknown,Unknown,USGRS80,0,Unknown
+Unknown,Unknown,USHAYF10,0,Unknown
+Unknown,Unknown,USHELM,0,Unknown
+Unknown,Unknown,USINT24,0,Unknown
+Unknown,Unknown,USINT67,0,Unknown
+Unknown,Unknown,USKRAS40,0,Unknown
+Unknown,Unknown,USNWL9D,0,Unknown
+Unknown,Unknown,USNWL10D,0,Unknown
+Unknown,Unknown,USSPHERE,0,Unknown
+Unknown,Unknown,VENUS,0,Unknown
+6304,Voirol 1875,VOIROL_1875,0,Unknown
+6811,Voirol 1875 (Paris),VOIROL_1875_PARIS,0,Unknown
+Unknown,Unknown,WGS60,101,Unknown
+Unknown,Unknown,WGS72DOD,103,Unknown
+6324,WGS 72 Transit Broadcast Ephemeris,WGS72BE,0,Unknown
+6322,World Geodetic System 1972,WGS72,103,D_WGS_1972
+6326,World Geodetic System 1984,WGS84,104,D_WGS_1984
+Unknown,Unknown,XIAN80,0,Unknown
+6309,Yacare,YACARE,105,Unknown
+1068,SIRGAS-ROU98,SIRGAS-ROU98,104,D_SIRGAS-ROU98
+1068,SIRGAS2000,SIRGAS2000,104,D_SIRGAS2000
+Unknown,Unknown,YEMHSL,0,Unknown
+6163,Yemen National Geodetic Network 1996,YNGN96,0,Unknown
+6310,Yoff,YOFF,0,Unknown
+Unknown,Unknown,YOFF2000,0,Unknown
+6311,Zanderij,ZANDERIJ,106,Unknown

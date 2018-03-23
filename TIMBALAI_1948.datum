@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= TIMBALAI_1948
+	POSCName	= "Timbalai 1948"
+	POSCCode	= 6298
+	Description	= "Generated"
+	Ellipsoid	= "Everest 1830 (1967 Definition)"
+	Major	= 6377298.556
+	Minor	= 6356097.550301
+Datum End

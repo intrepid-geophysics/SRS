@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= BELGE_LAMBERT_50
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 49.5
+	StdLat2	= 51.1
+	POSCCode	= 19901
+	POSCName	= "Belge Lambert 50"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

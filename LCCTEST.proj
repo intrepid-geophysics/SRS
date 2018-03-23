@@ -1,0 +1,6 @@
+Projection Begin
+	ProjectionType=LambertConicConformal
+	CentralMeridian=0
+	StdLat1=33
+	StdLat2=45
+Projection End

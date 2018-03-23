@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= TM35FIN
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 27
+	LatOrigin	= 0
+	FalseEasting	= 500000
+	FalseNorthing	= 0
+	ScaleFactor	= 0.9996
+Projection End

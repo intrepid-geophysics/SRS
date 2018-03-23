@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= ARIZONA_CS83_WEST_ZONE
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= -113.45
+	LatOrigin	= 31
+	FalseEasting	= 213360
+	FalseNorthing	= 0
+	ScaleFactor	= 0.999933333
+	POSCCode	= 10233
+	POSCName	= "Arizona CS83 West zone"
+	POSCMethod	= "Transverse Mercator"
+Projection End

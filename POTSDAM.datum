@@ -1,0 +1,17 @@
+Datum Begin
+	DatumName=POTSDAM
+	Description="POTSDAM "
+	MeridID=1 
+	OriginName="POTSDAM(HELMERT TWR)"
+	OriginLatitude=52.3816539 
+	OriginLongitude=13.0669869 
+	OriginHeight=0.0 
+	AngleID=1 
+	HeigthID=1 
+	UseAreaID=1
+	Source="SJM 28/2/84 REF:GEODESY BY MAGNAVOX. USED ONSHORE FEDERAL REPUBLIC OF GERMANY"
+	Visibility=SURVEY
+	Release=PUBLIC
+	Minor=6356078.962818
+	Major=6377397.155 
+Datum End

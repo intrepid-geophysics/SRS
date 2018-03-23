@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= PSD93
+	POSCName	= "PDO Survey Datum 1993"
+	POSCCode	= 6134
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (RGS)"
+	Major	= 6378249.145
+	Minor	= 6356514.869550
+Datum End

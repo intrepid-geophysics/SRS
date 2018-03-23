@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= QATAR_1948
+	POSCName	= "Qatar 1948"
+	POSCCode	= 6286
+	Description	= "Generated"
+	Ellipsoid	= "Helmert 1906"
+	Major	= 6378200
+	Minor	= 6356818.169628
+Datum End

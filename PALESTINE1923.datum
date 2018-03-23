@@ -1,0 +1,9 @@
+Datum Begin
+	DatumName	= PALESTINE1923
+	POSCName	= "Palestine 1923"
+	POSCCode	= 6281
+	Description	= "Generated"
+	Ellipsoid	= "Clarke 1880 (Benoit)"
+	Major	= 6378300.789
+	Minor	= 6356566.435
+Datum End

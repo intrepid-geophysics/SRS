@@ -1,0 +1,9 @@
+Projection Begin
+	Name	= PUERTO_RICO_&_VIRGIN_ISLANDS_CS83
+	ProjectionType	= LambertConicConformal
+	StdLat1	= 18.26
+	StdLat2	= 18.02
+	POSCCode	= 15230
+	POSCName	= "Puerto Rico & Virgin Islands CS83"
+	POSCMethod	= "Lambert Conic Conformal (2SP)"
+Projection End

@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= D3_DEGREE_GAUSS_KRUGER_ZONE_7
+	ProjectionType	= TransverseMercator
+	CentralMeridian	= 21
+	LatOrigin	= 0
+	FalseEasting	= 7500000
+	FalseNorthing	= 0
+	ScaleFactor	= 1
+	POSCCode	= 16267
+	POSCName	= "3-degree Gauss-Kruger zone 7"
+	POSCMethod	= "Transverse Mercator"
+Projection End
