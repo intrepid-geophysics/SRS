@@ -84,6 +84,7 @@ Unknown,Unknown,FISCHER60SA,0,Unknown
 6233,Gandajika 1970,GANDAJIKA_1970,30,Unknown
 6234,Garoua,GAROUA,0,Unknown
 Unknown,Unknown,GEM6,0,Unknown
+1076,Papua New Guinea Geodetic Datum 1994,PNG94,0,D_PNG94
 #For MAPINFO 5.5 GDA94 is treated as WGS84(104).  Use 116 with next version of MAPINFO,,,,Unknown
 #6283,Geocentric Datum of Australia 1994,GDA94,116,Unknown
 6283,Geocentric Datum of Australia 1994,GDA94,104,D_GDA_1994

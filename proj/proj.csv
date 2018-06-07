@@ -251,6 +251,9 @@ Unknown,Unknown,MGA zone 54,TransverseMercator,MGA54
 Unknown,Unknown,MGA zone 55,TransverseMercator,MGA55
 Unknown,Unknown,MGA zone 56,TransverseMercator,MGA56
 Unknown,Unknown,MGA zone 57,TransverseMercator,MGA57
+5550,Transverse Mercator,PNGMG94_ZONE_54,TransverseMercator,PNGMG94_ZONE_54
+5551,Transverse Mercator,PNGMG94_ZONE_55,TransverseMercator,PNGMG94_ZONE_55
+5552,Transverse Mercator,PNGMG94_ZONE_56,TransverseMercator,PNGMG94_ZONE_56
 12101,Transverse Mercator,Michigan State Plane East zone,TransverseMercator,MICHIGAN_STATE_PLANE_EAST_ZONE
 12102,Transverse Mercator,Michigan State Plane Old Central zone,TransverseMercator,MICHIGAN_STATE_PLANE_OLD_CENTRAL_ZONE
 12103,Transverse Mercator,Michigan State Plane West zone,TransverseMercator,MICHIGAN_STATE_PLANE_WEST_ZONE

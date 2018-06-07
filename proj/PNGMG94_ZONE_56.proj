@@ -1,0 +1,12 @@
+Projection Begin
+	Name	= PNGMG94_ZONE_56
+        ProjectionType=TransverseMercator
+        CentralMeridian=153
+        Datum=PNG94
+        FalseNorthing=10000000
+        FalseEasting=500000
+        ScaleFactor=0.9996
+	POSCName	= "PNGMG94 zone 55"
+	POSCMethod	= "Transverse Mercator"
+Projection End
+

@@ -1,0 +1,32 @@
+Datum Begin
+	DatumName	= PNG94
+	Description	= "Papua New Guinea Geodetic Datum 1994"
+	MeridID	= 1
+	OriginLatitude	= 0.0
+	OriginLongitude	= 0.0
+	OriginHeight	= 0.0
+	AngleID	= 1
+	HeightID	= 1
+	UseAreaID	= 1
+	Source	= "EPSG database - same as WGS84 in 1994"
+	Visibility	= SURVEY
+	Release	= PUBLIC
+	Minor	= 6356752.314140356
+	Major	= 6378137
+	DatumChange Begin
+		ToDatum	= WGS84
+		DX	= 0
+		DY	= 0
+		DZ	= 0
+        OMEGA   = 0.000000
+        PHI = 0.000000
+        KAPPA   = 0.000000
+        SCALEDIFF   = 0.000000
+	DatumChange End
+	POSCName	= "Papua New Guinea Geodetic Datum 1994"
+	POSCCode	= 1076
+	Ellipsoid Begin
+		POSCCode	= "7019"
+		POSCName	= "GRS 1980"
+	Ellipsoid End
+Datum End

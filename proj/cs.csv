@@ -287,6 +287,10 @@ posc_code,posc_name,erm_name,prj
 28356,GDA94 / Map Grid of Australia zone 56,GDA94/MGA56,GDA94_MGA_zone_56
 28357,GDA94 / Map Grid of Australia zone 57,GDA94/MGA57,GDA94_MGA_zone_57
 28358,GDA94 / Map Grid of Australia zone 58,GDA94/MGA58,GDA94_MGA_zone_58
+5546,PNG94,PNG94/GEODETIC,GCS_PNG94
+5550,PNG94 / PNGMG94_ZONE_54,PNG94/PNGMG94_zone_54,PNG94_PNGMG94_zone_54
+5551,PNG94 / PNGMG94_ZONE_55,PNG94/PNGMG94_zone_55,PNG94_PNGMG94_zone_55
+5552,PNG94 / PNGMG94_zone_56,PNG94/PNGMG94_zone_56,PNG94_PNGMG94_zone_56
 4121,GGRS87,GGRS87/GEODETIC,GCS_GGRS_1987
 2100,GGRS87 / Greek Grid,GGRS87/GREEK_GRID,Greek_Grid
 4120,Greek,GREEK/GEODETIC,GCS_Greek
@@ -1155,7 +1159,8 @@ posc_code,posc_name,erm_name,prj
 4029,Unknown datum based upon the War Office ellipsoid,NOTSPECIFIED_BASED_ON_WAR_OFFICE_ELLIPSOID/GEODETIC,GCS_War_Office
 4043,Unknown datum based upon the WGS 72 ellipsoid,NOTSPECIFIED_BASED_ON_WGS_72_ELLIPSOID/GEODETIC,Unknown
 4030,Unknown datum based upon the WGS 84 ellipsoid,NOTSPECIFIED_BASED_ON_WGS_84_ELLIPSOID/GEODETIC,Unknown
-7480,NAD83 / USA_Contiguous_Albers_Equal_Area_Conic, NAD83/ALBEAUSGS,USA_Contiguous_Albers_Equal_Area_Conic_USGS_version
+7480,NAD83 / Albers Equal Area Silverton,Does not exist,Albers_Equal_Area_Silverton
+7481,NAD83 / USA_Contiguous_Albers_Equal_Area_Conic, NAD83/ALBEAUSGS,USA_Contiguous_Albers_Equal_Area_Conic_USGS_version
 4304,Voirol 1875,VOIROL_1875/GEODETIC,GCS_Voirol_1875
 4811,Voirol 1875 (Paris),VOIROL_1875_PARIS/GEODETIC,GCS_Voirol_1875_Paris
 4322,WGS 72,WGS72/GEODETIC,GCS_WGS_1972
