@@ -24,6 +24,6 @@ There is a sub-directory for gdal, which also contains a mapping table, ecw_cs.w
 MapInfo mapping is also important, for historic purposes, as they also came up with their own methods. If, for any reason, we did not get the MapInfo internal magic number right, we set it to 0. You can simply edit this to the correct number, if you know it.
 
 ## Installation
-Download and unzip into a temporary directory, then replace the content in proj/ directory under <intrepid_installation> or <geomodeller_root> with the latest ones. 
+Download and unzip into a temporary directory, then replace the content in proj/ directory under <intrepid_root>/extras or <geomodeller_root>/extras with the latest version. 
 
 (c) 2017-2018 Intrepid Geophysics
