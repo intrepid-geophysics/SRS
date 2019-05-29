@@ -1,9 +1,6 @@
 posc_code,posc_type,posc_name,erm_type,erm_name
 Unknown,Unknown,Unknown,Spherical,GEODETIC
 1024,Pseudo-Mercator,WGS 84 / Pseudo-Mercator,Pseudo-Mercator,Pseudo-Mercator
-6729,Transverse Mercator,Australian Map Grid zone 46,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_46
-6730,Transverse Mercator,Australian Map Grid zone 47,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_47
-6738,Transverse Mercator,Australian Map Grid zone 59,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_59
 10101,Transverse Mercator,Alabama CS27 East zone,TransverseMercator,ALABAMA_CS27_EAST_ZONE
 10102,Transverse Mercator,Alabama CS27 West zone,TransverseMercator,ALABAMA_CS27_WEST_ZONE
 10131,Transverse Mercator,Alabama CS83 East zone,TransverseMercator,ALABAMA_CS83_EAST_ZONE
@@ -37,17 +34,17 @@ Unknown,Unknown,Unknown,Spherical,GEODETIC
 10232,Transverse Mercator,Arizona CS83 Central zone,TransverseMercator,ARIZONA_CS83_CENTRAL_ZONE
 10231,Transverse Mercator,Arizona CS83 East zone,TransverseMercator,ARIZONA_CS83_EAST_ZONE
 10233,Transverse Mercator,Arizona CS83 West zone,TransverseMercator,ARIZONA_CS83_WEST_ZONE
-17348,Transverse Mercator,Australian Map Grid zone 48,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_48
-17349,Transverse Mercator,Australian Map Grid zone 49,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_49
-17350,Transverse Mercator,Australian Map Grid zone 50,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_50
-17351,Transverse Mercator,Australian Map Grid zone 51,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_51
-17352,Transverse Mercator,Australian Map Grid zone 52,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_52
-17353,Transverse Mercator,Australian Map Grid zone 53,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_53
-17354,Transverse Mercator,Australian Map Grid zone 54,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_54
-17355,Transverse Mercator,Australian Map Grid zone 55,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_55
-17356,Transverse Mercator,Australian Map Grid zone 56,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_56
-17357,Transverse Mercator,Australian Map Grid zone 57,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_57
-17358,Transverse Mercator,Australian Map Grid zone 58,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_58
+17448,Transverse Mercator,Australian Map Grid zone 48,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_48
+17449,Transverse Mercator,Australian Map Grid zone 49,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_49
+17450,Transverse Mercator,Australian Map Grid zone 50,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_50
+17451,Transverse Mercator,Australian Map Grid zone 51,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_51
+17452,Transverse Mercator,Australian Map Grid zone 52,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_52
+17453,Transverse Mercator,Australian Map Grid zone 53,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_53
+17454,Transverse Mercator,Australian Map Grid zone 54,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_54
+17455,Transverse Mercator,Australian Map Grid zone 55,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_55
+17456,Transverse Mercator,Australian Map Grid zone 56,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_56
+17457,Transverse Mercator,Australian Map Grid zone 57,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_57
+17458,Transverse Mercator,Australian Map Grid zone 58,TransverseMercator,AUSTRALIAN_MAP_GRID_ZONE_58
 18042,Transverse Mercator,Austria Central Zone,TransverseMercator,AUSTRIA_CENTRAL_ZONE
 18043,Transverse Mercator,Austria East Zone,TransverseMercator,AUSTRIA_EAST_ZONE
 18041,Transverse Mercator,Austria West Zone,TransverseMercator,AUSTRIA_WEST_ZONE
@@ -234,6 +231,17 @@ Unknown,Unknown,Unknown,Spherical,GEODETIC
 11802,Transverse Mercator,Maine CS27 West zone,TransverseMercator,MAINE_CS27_WEST_ZONE
 11831,Transverse Mercator,Maine CS83 East zone,TransverseMercator,MAINE_CS83_EAST_ZONE
 11832,Transverse Mercator,Maine CS83 West zone,TransverseMercator,MAINE_CS83_WEST_ZONE
+17348,Transverse Mercator,Map Grid of Australia zone 48,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_48
+17349,Transverse Mercator,Map Grid of Australia zone 49,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_49
+17350,Transverse Mercator,Map Grid of Australia zone 50,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_50
+17351,Transverse Mercator,Map Grid of Australia zone 51,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_51
+17352,Transverse Mercator,Map Grid of Australia zone 52,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_52
+17353,Transverse Mercator,Map Grid of Australia zone 53,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_53
+17354,Transverse Mercator,Map Grid of Australia zone 54,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_54
+17355,Transverse Mercator,Map Grid of Australia zone 55,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_55
+17356,Transverse Mercator,Map Grid of Australia zone 56,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_56
+17357,Transverse Mercator,Map Grid of Australia zone 57,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_57
+17358,Transverse Mercator,Map Grid of Australia zone 58,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_58
 Unknown,Unknown,MGA zone 49,TransverseMercator,MGA49
 Unknown,Unknown,MGA zone 50,TransverseMercator,MGA50
 Unknown,Unknown,MGA zone 51,TransverseMercator,MGA51
