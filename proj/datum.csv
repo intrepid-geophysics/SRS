@@ -88,6 +88,7 @@ Unknown,Unknown,GEM6,0,Unknown
 #For MAPINFO 5.5 GDA94 is treated as WGS84(104).  Use 116 with next version of MAPINFO,,,,Unknown
 #6283,Geocentric Datum of Australia 1994,GDA94,116,Unknown
 6283,Geocentric Datum of Australia 1994,GDA94,104,D_GDA_1994
+1168,Geocentric Datum of Australia 2020,GDA2020,159,Unknown
 6120,Greek,GREEK,0,Unknown
 6815,Greek (Athens),GREEK_ATHENS,0,Unknown
 6121,Greek Geodetic Reference System 1987,GGRS87,0,Unknown
