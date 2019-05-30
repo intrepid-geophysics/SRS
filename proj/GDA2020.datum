@@ -1,0 +1,42 @@
+Datum Begin
+	DatumName	= GDA2020
+	Description	= "Generated"
+	MeridID	= 1
+	OriginLatitude	= 0.0
+	OriginLongitude	= 0.0
+	OriginHeight	= 0.0
+	AngleID	= 1
+	HeigthID	= 1
+	UseAreaID	= 1
+	Source	= "Geocentric Datum of Australia 2020 Technical Manual Version 1.2"
+	Visibility	= SURVEY
+	Release	= PUBLIC
+	Minor	= 6356752.314140
+	Major	= 6378137
+	DatumChange Begin
+		ToDatum	= GDA94
+		DX	= -0.06155
+		DY	= 0.01087
+		DZ	= 0.04019
+		OMEGA	= 0.0394924
+		PHI	= 0.0327221
+		KAPPA	= 0.0328979
+		SCALEDIFF	= 0.009994
+	DatumChange End
+    DatumChange Begin
+        ToDatum = WGS84
+		DX	= -0.06155
+		DY	= 0.01087
+		DZ	= 0.04019
+		OMEGA	= 0.0394924
+		PHI	= 0.0327221
+		KAPPA	= 0.0328979
+		SCALEDIFF	= 0.009994
+    DatumChange End
+	POSCName	= "Geocentric Datum of Australia 2020"
+	POSCCode	= 1168
+	Ellipsoid Begin
+		POSCCode	= "7019"
+		POSCName	= "GRS 1980"
+	Ellipsoid End
+Datum End

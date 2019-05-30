@@ -231,6 +231,8 @@ Unknown,Unknown,Unknown,Spherical,GEODETIC
 11802,Transverse Mercator,Maine CS27 West zone,TransverseMercator,MAINE_CS27_WEST_ZONE
 11831,Transverse Mercator,Maine CS83 East zone,TransverseMercator,MAINE_CS83_EAST_ZONE
 11832,Transverse Mercator,Maine CS83 West zone,TransverseMercator,MAINE_CS83_WEST_ZONE
+6729,Transverse Mercator,Map Grid of Australia zone 46,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_46
+6730,Transverse Mercator,Map Grid of Australia zone 47,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_47
 17348,Transverse Mercator,Map Grid of Australia zone 48,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_48
 17349,Transverse Mercator,Map Grid of Australia zone 49,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_49
 17350,Transverse Mercator,Map Grid of Australia zone 50,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_50
@@ -242,15 +244,21 @@ Unknown,Unknown,Unknown,Spherical,GEODETIC
 17356,Transverse Mercator,Map Grid of Australia zone 56,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_56
 17357,Transverse Mercator,Map Grid of Australia zone 57,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_57
 17358,Transverse Mercator,Map Grid of Australia zone 58,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_58
-Unknown,Unknown,MGA zone 49,TransverseMercator,MGA49
-Unknown,Unknown,MGA zone 50,TransverseMercator,MGA50
-Unknown,Unknown,MGA zone 51,TransverseMercator,MGA51
-Unknown,Unknown,MGA zone 52,TransverseMercator,MGA52
-Unknown,Unknown,MGA zone 53,TransverseMercator,MGA53
-Unknown,Unknown,MGA zone 54,TransverseMercator,MGA54
-Unknown,Unknown,MGA zone 55,TransverseMercator,MGA55
-Unknown,Unknown,MGA zone 56,TransverseMercator,MGA56
-Unknown,Unknown,MGA zone 57,TransverseMercator,MGA57
+6731,Transverse Mercator,Map Grid of Australia zone 59,TransverseMercator,MAP_GRID_OF_AUSTRALIA_ZONE_59
+6729,Transverse Mercator,MGA zone 46,TransverseMercator,MGA46
+6730,Transverse Mercator,MGA zone 47,TransverseMercator,MGA47
+17348,Transverse Mercator,MGA zone 48,TransverseMercator,MGA48
+17349,Transverse Mercator,MGA zone 49,TransverseMercator,MGA49
+17350,Transverse Mercator,MGA zone 50,TransverseMercator,MGA50
+17351,Transverse Mercator,MGA zone 51,TransverseMercator,MGA51
+17352,Transverse Mercator,MGA zone 52,TransverseMercator,MGA52
+17353,Transverse Mercator,MGA zone 53,TransverseMercator,MGA53
+17354,Transverse Mercator,MGA zone 54,TransverseMercator,MGA54
+17355,Transverse Mercator,MGA zone 55,TransverseMercator,MGA55
+17356,Transverse Mercator,MGA zone 56,TransverseMercator,MGA56
+17357,Transverse Mercator,MGA zone 57,TransverseMercator,MGA57
+17358,Transverse Mercator,MGA zone 58,TransverseMercator,MGA58
+6731,Transverse Mercator,MGA zone 59,TransverseMercator,MGA59
 5550,Transverse Mercator,PNGMG94_ZONE_54,TransverseMercator,PNGMG94_ZONE_54
 5551,Transverse Mercator,PNGMG94_ZONE_55,TransverseMercator,PNGMG94_ZONE_55
 5552,Transverse Mercator,PNGMG94_ZONE_56,TransverseMercator,PNGMG94_ZONE_56
