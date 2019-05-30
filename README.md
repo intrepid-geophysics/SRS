@@ -1,7 +1,7 @@
 # SRS
 SRS is a registry of spatial reference systems and transformations used by Intrepid products.
 It is a snap shot of our standard "proj" directory, common to Intrepid/Geomodeller and Jetstream.
-We are deprecating suppling this information with our installers, instead, asking users to get the latest from this GitHub site.
+We are deprecating supplying this information with our installers, instead, asking users to get the latest from this GitHub site.
 
 # History
 This started with the early adoption of the so-called ERMapper projection/Datum pairs.
@@ -26,4 +26,4 @@ MapInfo mapping is also important, for historic purposes, as they also came up w
 ## Installation
 Download and unzip into a temporary directory, then replace the content in proj/ directory under <intrepid_root>/extras or <geomodeller_root>/extras with the latest version. 
 
-(c) 2017-2018 Intrepid Geophysics
+(c) 2017-2019 Intrepid Geophysics
