@@ -1,5 +1,5 @@
 CoordinateSystem Begin
-	POSCCode	= 4937
+	POSCCode	= 4258
 	POSCName	= "ETRS89"
 	Datum Begin
 		POSCName	= "GRS 1980"

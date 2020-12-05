@@ -414,13 +414,23 @@ Datum Begin
     DatumChange End 
 	DatumChange Begin
         ToDatum = ETRF89
-		DX= 92
-		DY= -3.5
-		DZ= 64.1 
-		OMEGA= -0.144
-		PHI= -0.492
-		KAPPA= 0.238
-		SCALEDIFF = -16.37
+		DX= 0.0
+		DY= 0.0
+		DZ= 0.0
+		OMEGA= 0.0
+		PHI= 0.0
+		KAPPA= 0.0
+		SCALEDIFF = 0.0
+	DatumChange End
+	DatumChange Begin
+        ToDatum = ETRS89
+		DX= 0.0
+		DY= 0.0
+		DZ= 0.0
+		OMEGA= 0.0
+		PHI= 0.0
+		KAPPA= 0.0
+		SCALEDIFF = 0.0
 	DatumChange End
 	DatumChange Begin
 	Comment = "Brazil national datum"
@@ -531,6 +541,30 @@ Datum Begin
 		PHI= 0.
 		KAPPA= -0.814
 		SCALEDIFF = 0.38
+	DatumChange End
+	# 7 parameter UK
+	DatumChange Begin
+		Comment = "WGS 84"
+        ToDatum = OSGB_1936
+		DX= 446.448
+		DY= -125.157
+		DZ= 542.060
+		OMEGA= 0.150
+		PHI= 0.247
+		KAPPA= 0.842
+		SCALEDIFF = -20.489
+	DatumChange End
+	# approximate UK
+	DatumChange Begin
+		Comment = "WGS 84"
+        ToDatum = OSGB36
+		DX= 375
+		DY= -111
+		DZ= 431
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
 	DatumChange End
     POSCName    = "World Geodetic System 1984"
     POSCCode    = 6326

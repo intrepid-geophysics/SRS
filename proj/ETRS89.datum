@@ -2,6 +2,13 @@ Datum Begin
 	DatumName=ETRS89 
 	Minor=6356752.314248
 	Major=6378137
+	  POSCName    = "European Terrestrial Reference System 1989"
+    POSCCode    = 6258
+    Description = "Generated"
+    Ellipsoid Begin
+        POSCCode    = "7019"
+        POSCName    = "GRS 1980"
+    Ellipsoid End
 	DatumChange Begin
 		ToDatum=ED50
 		DX=  89.5
@@ -21,5 +28,15 @@ Datum Begin
 		PHI=    -0.247
 		KAPPA=   -0.842
 		SCALEDIFF=    20.4894
+	DatumChange End
+	DatumChange Begin
+		ToDatum=WGS84
+		DX=    0.0
+		DY=    0.0
+		DZ=    0.0
+		OMEGA=  0.0
+		PHI=    0.0
+		KAPPA=  0.0
+		SCALEDIFF= 0.0
 	DatumChange End
 Datum End

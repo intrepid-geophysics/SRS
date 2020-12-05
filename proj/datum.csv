@@ -70,14 +70,15 @@ Unknown,Unknown,ETRF89,0,Unknown
 6154,European Datum 1950(1977),ED50_ED77,28,Unknown
 6231,European Datum 1987,ED87,108,Unknown
 6159,European Libyan Datum 1979,ELD79,0,Unknown
-6258,European Terrestrial Reference Frame 89,EUROPEAN_TERRESTRIAL_REFERENCE_FRAME_89,0,Unknown
+1178,ETRF89,EUROPEAN_TERRESTRIAL_REFERENCE_FRAME_89,0,D_ETRF_1989
+1178,European Terrestrial Reference Frame 89,EUROPEAN_TERRESTRIAL_REFERENCE_FRAME_89,0,D_ETRF_1989
 6761,HTRS96,HTRS96,HTRS96,GCS_HTRS69
-6760,ETRS89,ETRS89,ETRS89_GCS_ETRS89
 Unknown,Unknown,EVVIETNM,0,Unknown
 6232,Fahud,FAHUD,0,Unknown
 6132,Final Datum 1958,FD58,0,Unknown
 6123,Kartastokoordinaattijarjestelma (1966),FINKKJ,24,DD_KKJ
-6258,European Terrestrial Reference System 1989,EUREF_FIN,0,D_ETRS_1989
+6258,ETRS89,ETRS89,0,D_ETRS_1989
+6258,European Terrestrial Reference System 1989,EUREF-FIN,0,D_ETRS_1989
 Unknown,Unknown,FISCHER1960,0,Unknown
 Unknown,Unknown,FISCHER1968,0,Unknown
 Unknown,Unknown,FISCHER60SA,0,Unknown
@@ -244,12 +245,12 @@ Unknown,Unknown,NAMIBIA,91,Unknown
 6275,Nouvelle Triangulation Francaise,NTF,107,D_NTF
 6807,Nouvelle Triangulation Francaise (Paris),NOUVELLE_TRIANGULATION_FRANCAISE_PARIS,107,D_NTF
 6276,NSWC 9Z-2,NSWC_9Z_2,0,Unknown
-Unknown,Unknown,NTFPARG,107,Unknown
-Unknown,Unknown,NTFPARIS,107,Unknown
+6807,Unknown,NTFPARG,107,Unknown
+6807,Unknown,NTFPARIS,107,Unknown
 Unknown,Unknown,NWL9D,0,Unknown
 6129,Observatario,OBSERVATARIO,0,Unknown
 6135,Old Hawaiian,OLDHAWAIIAN,77,Unknown
-Unknown,Unknown,OSGB36,0,Unknown
+6277,OSGB 1936,OSGB36,79,Unknown
 6277,OSGB 1936,OSGB_1936,79,Unknown
 6278,OSGB 1970 (SN),OSGB70,79,Unknown
 Unknown,Unknown,OSSN80,0,Unknown

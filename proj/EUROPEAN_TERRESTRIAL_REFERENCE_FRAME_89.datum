@@ -1,7 +1,7 @@
 Datum Begin
 	DatumName	= EUROPEAN_TERRESTRIAL_REFERENCE_FRAME_89
 	POSCName	= "European Terrestrial Reference Frame 89"
-	POSCCode	= 6258
+	POSCCode	= 1178
 	Description	= "Generated"
 	Ellipsoid	= "GRS 1980"
 	Major	= 6378137

@@ -1,0 +1,10 @@
+#  GDA94 / Australian Albers, epsg3577
+Projection Begin
+	ProjectionType = AlbersEqualArea
+	CentralMeridian=132
+	StdLat1=-18
+	StdLat2=-36
+	LatOrigin=0
+	FalseEasting=0 
+	FalseNorthing=0 
+Projection End
