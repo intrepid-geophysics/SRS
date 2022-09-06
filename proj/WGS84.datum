@@ -542,6 +542,17 @@ Datum Begin
 		KAPPA= -0.814
 		SCALEDIFF = 0.38
 	DatumChange End
+	DatumChange Begin
+	Comment = "WGS 84"
+		ToDatum = CH1903
+		DX= 674.374
+		DY= 15.056
+		DZ= 405.346
+		OMEGA= 0.
+		PHI= 0.
+		KAPPA= 0.
+		SCALEDIFF = 0.
+	DatumChange End
 	# 7 parameter UK
 	DatumChange Begin
 		Comment = "WGS 84"

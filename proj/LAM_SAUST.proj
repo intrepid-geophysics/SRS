@@ -3,5 +3,8 @@ Projection Begin
 	CentralMeridian=135
 	StdLat1=-36
 	StdLat2=-28
+	LatOrigin=-32
 	Datum=AGD66
+	FalseEasting=1000000 
+	FalseNorthing=2000000 
 Projection End
